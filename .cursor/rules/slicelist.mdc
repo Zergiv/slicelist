@@ -1,0 +1,31 @@
+---
+description: Reglas de slicelist (copy, tokens, dependencias)
+alwaysApply: true
+---
+
+# slicelist
+
+## Copy de cara al usuario
+- Español e inglés, siempre los dos: cada texto nuevo va en `src/lib/i18n/es.ts` y `src/lib/i18n/en.ts`.
+- Cercano y con humor, nunca corporativo. Sin explicar cómo funciona por dentro: nada de nombres de
+  servicios, protocolos, cachés, límites ni rutas del visor en la interfaz.
+- Minúsculas en etiquetas; nada de mayúsculas sostenidas, ni metadatos unidos con puntos medios, ni
+  flechas pegadas a botones y enlaces.
+- Un error dice qué pasó y qué hacer. No pide perdón.
+
+## Diseño
+- La referencia es `DESIGN.md`. Los tokens viven en `src/app/globals.css`; si cambia uno, cambian los dos.
+- Un solo acento (`--saber`). `--ember` es solo para fallos.
+- Las líneas de la rejilla van en ángulo recto; lo que vive dentro de una celda va redondeado.
+- Marcador cuadrado y esquinas de encuadre llevan información: no se usan de adorno.
+- Sin librerías de iconos: los glifos están en `src/components/Glyphs.tsx`.
+- Animar solo `transform` y `opacity` (la altura de una canción al abrirse es la única excepción).
+  Respetar `prefers-reduced-motion` y poner los hover tras `@media (hover: hover) and (pointer: fine)`.
+
+## Código
+- pnpm siempre. Dependencias mínimas: antes de añadir una, mirar si se puede con lo que hay.
+- Next.js 16 con Cache Components: no exportar `runtime` ni `dynamic` en rutas; la documentación
+  vigente está en `node_modules/next/dist/docs/`.
+- Envío al visor: no copiar código de ModsBeforeFriday (AGPL-3.0). Solo se escribe dentro de la
+  carpeta de canciones y nunca se borra nada del visor.
+- Pruebas: `pnpm test` (limpieza de títulos, coincidencia, enlaces y preparación de archivos).

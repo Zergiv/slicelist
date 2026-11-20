@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# capturas de revisión
+/.shots/
+
+# caché local y entorno del lector
+/data/
+/reader/.venv/
+__pycache__/
