@@ -2,14 +2,14 @@
 
 Paste a YouTube Music or Spotify playlist. Find Beat Saber maps on [BeatSaver](https://beatsaver.com), preview them, download, or send them to a Quest over USB.
 
-https://github.com/Zergiv/slicelist
+https://slicelist.zergiv2.tech
 
 [![AI Assisted](https://img.shields.io/badge/🤖_AI_Assisted-Project-8A2BE2.svg)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-<img src="docs/hero.jpg" alt="slicelist" width="640">
+<img src="docs/preview.jpg" alt="slicelist" width="720">
 
 ## Usage
 
