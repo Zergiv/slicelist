@@ -9,7 +9,7 @@ https://github.com/Zergiv/slicelist
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![slicelist](docs/hero.png)
+![slicelist](docs/hero.jpg)
 
 ## Usage
 
