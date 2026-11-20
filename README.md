@@ -9,7 +9,7 @@ https://github.com/Zergiv/slicelist
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![slicelist](docs/hero.jpg)
+<img src="docs/hero.jpg" alt="slicelist" width="640">
 
 ## Usage
 
@@ -63,7 +63,3 @@ pnpm typecheck
 | UI | [Next.js](https://nextjs.org), [React](https://react.dev), [Motion](https://motion.dev), [Tailwind](https://tailwindcss.com) |
 
 Quest send path inspired by [ModsBeforeFriday](https://github.com/Lauriethefish/ModsBeforeFriday) (AGPL). This repo does not include their code.
-
-## Design
-
-`DESIGN.md` is the reference (palette, type, spacing, motion). Project rules live in `.cursor/rules/slicelist.mdc`.
