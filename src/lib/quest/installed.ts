@@ -9,6 +9,22 @@ export const MOD_DATA_DIR = "/sdcard/ModData/com.beatgames.beatsaber";
 /** Única carpeta en la que slicelist escribe. */
 export const SONGS_DIR = `${MOD_DATA_DIR}/Mods/SongCore/CustomLevels`;
 
+/**
+ * Carpetas donde puede haber canciones (SongCore, SongLoader, WIP, BMBF).
+ * Al detectar "ya en el visor" se miran todas; al escribir solo se usa SONGS_DIR.
+ * SongDownloader (el mod de MBF) deja los mapas en SongCore/CustomLevels; las
+ * demás son restos de versiones antiguas.
+ */
+export const SONG_SCAN_DIRS = [
+  SONGS_DIR,
+  `${MOD_DATA_DIR}/Mods/SongCore/CustomWIPLevels`,
+  `${MOD_DATA_DIR}/Mods/SongLoader/CustomLevels`,
+  `${MOD_DATA_DIR}/CustomLevels`,
+  // Misma ruta por el otro nombre del almacenamiento interno.
+  "/storage/emulated/0/ModData/com.beatgames.beatsaber/Mods/SongCore/CustomLevels",
+  "/storage/emulated/0/ModData/com.beatgames.beatsaber/Mods/SongLoader/CustomLevels",
+] as const;
+
 const FORBIDDEN = /[<>:"/\\|?*\u0000-\u001f\u007f]/g;
 
 /** Nombre de carpeta al estilo habitual: `<id> (<canción> - <mapeador>)`. */
@@ -26,7 +42,9 @@ export function folderName(map: Pick<BeatMap, "id" | "songName" | "mapper">): st
 export function installedKeys(folderNames: Iterable<string>): Set<string> {
   const keys = new Set<string>();
   for (const name of folderNames) {
-    const id = /^([0-9a-f]{1,7})(?=$|[ (_-])/i.exec(name);
+    // Ids de BeatSaver: hex de longitud variable. Solos, o "id (título…)",
+    // o "id_…" / "id-…". Un hex seguido de texto libre no cuenta.
+    const id = /^([0-9a-f]{1,16})(?:$| \(|[_-])/i.exec(name);
     if (id) keys.add(id[1].toLowerCase());
     const hash = /[0-9a-f]{40}/i.exec(name);
     if (hash) keys.add(hash[0].toLowerCase());

@@ -5,7 +5,7 @@ cambian los dos sitios. La muestra viva está en `/design`.
 
 ## Para quién y para qué
 
-- **Quién**: gente que juega a Beat Saber con mapas de la comunidad y tiene su música en YouTube Music.
+- **Quién**: gente que juega a Beat Saber con mapas de la comunidad y tiene su música en YouTube Music o Spotify.
 - **Trabajo de la página**: pegar un enlace, ver qué canciones tienen mapa, escuchar, y añadirlas
   al visor o descargarlas.
 - **De dónde sale la identidad**: del propio juego (el brillo del sable, los bloques cuadrados, el
@@ -30,11 +30,18 @@ Un solo acento. El rojo existe solo para fallos (es el otro sable: el del "miss"
   --saber-deep: #17324f;   /* relleno de selección */
   --saber-glow: rgba(74, 163, 255, 0.28);
   --ember: #ff5a47;        /* solo errores (6,37:1) */
+  --diff-easy: #3cb371;
+  --diff-normal: #59b0f4;
+  --diff-hard: #f0c400;
+  --diff-expert: #ff6a3d;
+  --diff-expert-plus: #bf2aee;
 }
 ```
 
-En Tailwind solo existen estos colores (`bg-ink-1`, `text-ash`, `border-line`...). La paleta por
-defecto está desactivada.
+Las etiquetas de dificultad usan esos cinco colores (borde, texto y un tinte de fondo). La
+puntuación del mapa se pinta en sable si es alta (≥90 %), en hueso si es media y en ember si
+es baja. En Tailwind solo existen estos colores (`bg-ink-1`, `text-ash`, `border-line`...). La
+paleta por defecto está desactivada.
 
 ## Tipografía
 
@@ -129,11 +136,18 @@ Rápido cuando responde a la persona, lento cuando es ambiente.
 - **Marcador cuadrado**: hueco = buscando, azul = con mapa, apagado = sin mapa, rojo = fallo.
 - **Esquinas de encuadre**: tenues en todas las portadas; azules y cerradas en la que está
   abierta o sonando.
-- **Bloque de estado**: un bloque de nota hecho con cuadrados y, al lado, playlist, canciones,
-  con mapa, sin mapa, mapas en total, cuánto tardó y el visor. Abajo, la fila de muestras de color.
+- **Bloque de estado**: un mosaico con un cuadrado por canción (azul con mapa, apagado sin mapa,
+  hueco pendiente, latiendo mientras se busca) que siempre ocupa lo mismo: pocas canciones,
+  cuadrados grandes; muchas, pequeños. Al lado, playlist, canciones, con mapa, sin mapa, mapas en
+  total, cuánto tardó y el visor. Abajo, la fila de muestras de color.
+- **Filtro**: "con mapa / sin mapa" con su número en la tipografía del titular. Es lo único,
+  junto al titular, que usa ese tamaño.
+- **Canción y mapa**: filas separadas por líneas, sin tarjetas. En un mapa, "Escuchar" y
+  "Añadir al visor" llevan borde; "Descargar" y "Ver mapa" son solo texto.
 - **Botón de envío**: un solo control con sus estados: "Añadir al visor", "Enviando" con su
   avance, "En tu visor".
-- **Ahora suena**: la vista previa que estés escuchando, fija en su celda.
+- **Ahora suena**: la vista previa que estés escuchando, fija en su celda; en pantallas pequeñas
+  es una barra abajo que solo aparece cuando suena algo.
 - **Numeración**: solo la posición de cada canción en la playlist, porque sí es una secuencia.
 - **Glifos**: sin librería; unos pocos dibujados sobre cuadrícula en `src/components/Glyphs.tsx`.
 

@@ -104,3 +104,23 @@ export function DownGlyph({ size = 9 }: { size?: number }) {
     </Glyph>
   );
 }
+
+/** Altavoz: tres barritas de volumen. */
+export function VolumeGlyph({ size }: { size?: number }) {
+  return (
+    <Glyph size={size}>
+      <rect x="1.5" y="4" width="2" height="4" />
+      <rect x="4.5" y="2.5" width="2" height="7" />
+      <rect x="7.5" y="1" width="2" height="10" />
+    </Glyph>
+  );
+}
+
+/** Estrella de cinco puntas, para el enlace de GitHub. */
+export function StarGlyph({ size }: { size?: number }) {
+  return (
+    <Glyph size={size}>
+      <polygon points="6,1 7.4,4.6 11.2,4.8 8.2,7.2 9.2,10.8 6,8.8 2.8,10.8 3.8,7.2 0.8,4.8 4.6,4.6" />
+    </Glyph>
+  );
+}

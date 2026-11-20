@@ -3,6 +3,7 @@ import { test } from "node:test";
 import { parsePlaylistLink } from "./parseUrl.ts";
 
 const PL = "PLQwVIlKxHM6qv-o99iX9R85og7IzF9YS_";
+const SP = "37i9dQZF1DXcBWIGoYBM5M";
 
 test("enlaces de YouTube Music y de YouTube", () => {
   for (const link of [
@@ -30,6 +31,30 @@ test("álbumes y playlists de la casa", () => {
   );
 });
 
+test("enlaces de Spotify", () => {
+  for (const link of [
+    `https://open.spotify.com/playlist/${SP}`,
+    `https://open.spotify.com/playlist/${SP}?si=abc`,
+    `https://open.spotify.com/intl-es/playlist/${SP}`,
+    `open.spotify.com/playlist/${SP}`,
+    `spotify:playlist:${SP}`,
+  ]) {
+    assert.deepEqual(
+      parsePlaylistLink(link),
+      { ok: true, id: SP, kind: "spotify_playlist" },
+      link,
+    );
+  }
+  assert.deepEqual(
+    parsePlaylistLink(`https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy`),
+    { ok: true, id: "4aawyAB9vmqN3uQ7FjRGTy", kind: "spotify_album" },
+  );
+  assert.deepEqual(
+    parsePlaylistLink(`spotify:album:4aawyAB9vmqN3uQ7FjRGTy`),
+    { ok: true, id: "4aawyAB9vmqN3uQ7FjRGTy", kind: "spotify_album" },
+  );
+});
+
 test("lo que no es una playlist pública", () => {
   for (const link of [
     "https://music.youtube.com/watch?v=dQw4w9WgXcQ",
@@ -38,6 +63,8 @@ test("lo que no es una playlist pública", () => {
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ",
     "https://music.youtube.com/playlist?list=RDAMPLPLQwVIlKxHM6qv-o99iX9R85og7IzF9YS_",
     "https://music.youtube.com/channel/UCkgCRdnnqWnUeIH7EIc3dBg",
+    `https://open.spotify.com/track/${SP}`,
+    `https://open.spotify.com/artist/${SP}`,
   ]) {
     assert.deepEqual(parsePlaylistLink(link), { ok: false, reason: "not_playlist" }, link);
   }
@@ -47,7 +74,6 @@ test("lo que no es un enlace válido", () => {
   for (const link of [
     "",
     "hola",
-    "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M",
     "https://youtube.com.evil.example/playlist?list=" + PL,
     "https://music.youtube.com/playlist?list=../../etc",
     "javascript:alert(1)",

@@ -1,10 +1,13 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
+import { OutGlyph, StarGlyph } from "@/components/Glyphs";
 import { Cell } from "@/components/grid/Frame";
 import { SquareMarker } from "@/components/grid/SquareMarker";
 import type { ScanPhase } from "@/hooks/useScan";
 import { useI18n, type Lang } from "@/lib/i18n";
+
+const REPO = "https://github.com/Zergiv/slicelist";
 
 function subscribeMinute(onChange: () => void) {
   const timer = setInterval(onChange, 15_000);
@@ -43,8 +46,28 @@ export function TopBar({ phase }: { phase: ScanPhase }) {
         <SquareMarker state={marker} />
         slicelist
       </p>
-      <div className="flex items-center gap-6">
+      <div className="flex items-center gap-4 sm:gap-6">
         <LocalClock label={t.top.localTime} />
+        <div className="flex items-center gap-1">
+          <a
+            href={REPO}
+            target="_blank"
+            rel="noreferrer"
+            className="btn btn--bare !min-h-9 gap-2 !px-2"
+          >
+            <OutGlyph />
+            {t.top.source}
+          </a>
+          <a
+            href={`${REPO}/stargazers`}
+            target="_blank"
+            rel="noreferrer"
+            className="btn btn--bare !min-h-9 gap-2 !px-2"
+          >
+            <StarGlyph />
+            {t.top.star}
+          </a>
+        </div>
         <div role="group" aria-label={t.top.language} className="flex items-center text-meta">
           {langs.map((code, i) => (
             <span key={code} className="flex items-center">

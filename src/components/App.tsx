@@ -1,7 +1,6 @@
 "use client";
 
 import { AnimatePresence, MotionConfig, motion } from "motion/react";
-import Link from "next/link";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { CoverMarquee } from "@/components/CoverMarquee";
 import { Filters } from "@/components/Filters";
@@ -120,8 +119,15 @@ function Screen() {
     return songs.find((s) => s.maps.some((m) => m.id === id) || s.others.some((m) => m.id === id))?.id;
   }, [player, songs]);
 
+  // La pestaña del navegador lleva el nombre de la playlist.
+  const playlistTitle = state.playlist?.title;
+  useEffect(() => {
+    document.title = playlistTitle ? `${playlistTitle} / slicelist` : "slicelist";
+  }, [playlistTitle]);
+
   const busy = phase === "reading" || phase === "scanning";
   const linkError = state.error === "bad_link" || state.error === "not_playlist";
+  const showEmpty = phase === "idle" || (phase === "error" && linkError);
   const showResults = phase === "reading" || phase === "scanning" || phase === "done";
   const toggleCurrent = () => player.current && player.toggle(player.current);
 
@@ -145,6 +151,7 @@ function Screen() {
             onSubmit={submit}
             onStop={scan.stop}
             onExample={example}
+            showExample={!showEmpty}
           />
         </Cell>
 
@@ -158,7 +165,7 @@ function Screen() {
           </Cell>
         )}
 
-        {(phase === "idle" || (phase === "error" && linkError)) && (
+        {showEmpty && (
           <Cell as="section">
             <Empty onExample={example} />
           </Cell>
@@ -200,6 +207,8 @@ function Screen() {
                   <NowPlaying
                     map={player.current}
                     playing={player.playing}
+                    volume={player.volume}
+                    onVolume={player.setVolume}
                     onToggle={toggleCurrent}
                     progress={player.progress}
                   />
@@ -225,11 +234,8 @@ function Screen() {
           </>
         )}
 
-        <Cell as="footer" className="flex flex-wrap items-baseline justify-between gap-x-8 gap-y-2 !py-4">
+        <Cell as="footer" className="!py-4">
           <p className="text-meta text-smoke">{t.footer.credit}</p>
-          <Link href="/design" className="link text-meta">
-            {t.footer.design}
-          </Link>
         </Cell>
       </Frame>
 
@@ -246,6 +252,8 @@ function Screen() {
               variant="dock"
               map={player.current}
               playing={player.playing}
+              volume={player.volume}
+              onVolume={player.setVolume}
               onToggle={toggleCurrent}
               progress={player.progress}
             />

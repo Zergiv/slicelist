@@ -43,9 +43,13 @@ export function SendButton({
       style={{ "--progress": state === "sending" ? status?.progress ?? 0 : 0 } as React.CSSProperties}
     >
       <span className="send__fill" aria-hidden="true" />
-      <span className="send__label" aria-live="polite">
+      <span className="send__label">
         {state === "done" ? <CheckGlyph /> : <HeadsetGlyph />}
         {label}
+      </span>
+      {/* Solo se anuncia el final, no cada tanto por ciento. */}
+      <span className="sr-only" role="status">
+        {state === "done" ? t.send.done : state === "failed" ? t.send.failed : ""}
       </span>
     </button>
   );

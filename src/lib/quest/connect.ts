@@ -10,6 +10,7 @@ import {
   AdbDaemonTransport,
   AdbPublicKeyAuthenticator,
   AdbSignatureAuthenticator,
+  LinuxFileType,
   type AdbAuthenticator,
   type AdbSync,
 } from "@yume-chan/adb";
@@ -17,7 +18,7 @@ import AdbWebCredentialStore from "@yume-chan/adb-credential-web";
 import { AdbDaemonWebUsbDevice, AdbDaemonWebUsbDeviceManager } from "@yume-chan/adb-daemon-webusb";
 import { unzip } from "fflate";
 import type { BeatMap } from "../types";
-import { MOD_DATA_DIR, SONGS_DIR, folderName, installedKeys } from "./installed";
+import { MOD_DATA_DIR, SONG_SCAN_DIRS, SONGS_DIR, folderName, installedKeys } from "./installed";
 import { planFiles, totalBytes } from "./push";
 
 export type QuestErrorCode = "cancelled" | "unsupported" | "busy" | "notModded" | "lost" | "failed";
@@ -89,7 +90,7 @@ export async function openQuest(onAuthorizing: () => void): Promise<QuestSession
     const sync = await adb.sync();
     try {
       if (!(await sync.isDirectory(MOD_DATA_DIR))) throw new QuestError("notModded");
-      const folders = await listFolders(sync);
+      const folders = await listSongFolders(adb, sync);
       const installed = installedKeys(folders);
       const name = adb.banner.model?.replace(/_/g, " ") || device.name || "";
 
@@ -119,13 +120,112 @@ export async function openQuest(onAuthorizing: () => void): Promise<QuestSession
   }
 }
 
-async function listFolders(sync: AdbSync): Promise<string[]> {
-  if (!(await sync.isDirectory(SONGS_DIR))) return [];
+const LIST_TMP = "/data/local/tmp/slicelist-songs.txt";
+
+/**
+ * Lista las carpetas de canciones del visor.
+ *
+ * Con muchas canciones (las que mete SongDownloader), el sync LIST y a veces
+ * incluso la salida directa de `ls` por ADB se cortan a unas pocas entradas.
+ * Por eso: el shell escribe el listado a un fichero y lo leemos entero.
+ */
+async function listSongFolders(adb: Adb, sync: AdbSync): Promise<string[]> {
+  const names = new Set<string>();
+
+  for (const dir of SONG_SCAN_DIRS) {
+    if (!/^[\w./-]+$/.test(dir)) continue;
+
+    const fromFile = await listViaTempFile(adb, sync, dir);
+    if (fromFile !== null) {
+      for (const name of fromFile) names.add(name);
+      continue;
+    }
+
+    const fromShell = await listViaShell(adb, dir);
+    if (fromShell !== null && fromShell.length > 0) {
+      for (const name of fromShell) names.add(name);
+      continue;
+    }
+
+    for (const name of await listViaSync(sync, dir)) names.add(name);
+  }
+
+  return [...names];
+}
+
+/** Escribe `ls` en un fichero del visor y lo lee por sync (sin límite de pipe). */
+async function listViaTempFile(adb: Adb, sync: AdbSync, dir: string): Promise<string[] | null> {
+  try {
+    // Si la carpeta no existe, dejamos el fichero vacío y seguimos.
+    // `find -type d`: SongDownloader deja una carpeta por mapa (a menudo solo
+    // el hash). Evitamos ficheros sueltos y no nos fiamos del pipe de ADB.
+    const code = (
+      await adb.subprocess.noneProtocol.spawnWaitText(
+        `if [ -d "${dir}" ]; then find "${dir}" -mindepth 1 -maxdepth 1 -type d -exec basename {} \\; > "${LIST_TMP}"; echo ok; else echo missing; fi`,
+      )
+    ).trim();
+    if (code !== "ok") return code === "missing" ? [] : null;
+
+    const text = await readTextFile(sync, LIST_TMP);
+    return parseNameList(text);
+  } catch {
+    return null;
+  } finally {
+    await adb.subprocess.noneProtocol
+      .spawnWaitText(`rm -f "${LIST_TMP}"`)
+      .catch(() => undefined);
+  }
+}
+
+async function listViaShell(adb: Adb, dir: string): Promise<string[] | null> {
+  try {
+    const out = await adb.subprocess.noneProtocol.spawnWaitText(
+      `ls -1 "${dir}" 2>/dev/null || true`,
+    );
+    return parseNameList(out);
+  } catch {
+    return null;
+  }
+}
+
+async function listViaSync(sync: AdbSync, dir: string): Promise<string[]> {
+  if (!(await sync.isDirectory(dir))) return [];
   const names: string[] = [];
-  for await (const entry of sync.opendir(SONGS_DIR)) {
-    if (entry.name !== "." && entry.name !== "..") names.push(entry.name);
+  for await (const entry of sync.opendir(dir)) {
+    if (entry.name === "." || entry.name === "..") continue;
+    if (entry.type !== undefined && entry.type !== LinuxFileType.Directory) continue;
+    names.push(entry.name);
   }
   return names;
+}
+
+function parseNameList(text: string): string[] {
+  return text
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter((name) => name && name !== "." && name !== "..");
+}
+
+async function readTextFile(sync: AdbSync, path: string): Promise<string> {
+  const stream = sync.read(path);
+  const reader = stream.getReader();
+  const parts: Uint8Array[] = [];
+  let total = 0;
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    parts.push(value);
+    total += value.byteLength;
+    // Tope de seguridad: ~8 MB de nombres de carpeta.
+    if (total > 8 * 1024 * 1024) break;
+  }
+  const out = new Uint8Array(total);
+  let offset = 0;
+  for (const part of parts) {
+    out.set(part, offset);
+    offset += part.byteLength;
+  }
+  return new TextDecoder().decode(out);
 }
 
 async function pushMap(adb: Adb, map: BeatMap, onProgress: (p: number) => void) {

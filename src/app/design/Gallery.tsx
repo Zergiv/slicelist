@@ -196,15 +196,37 @@ function Pieces() {
       <Cell as="section" className="lg:col-span-4">
         <Label>ahora suena</Label>
         <Caption>en silencio</Caption>
-        <NowPlaying map={null} playing={false} onToggle={noop} progress={() => 0} />
+        <NowPlaying
+          map={null}
+          playing={false}
+          volume={0.35}
+          onVolume={noop}
+          onToggle={noop}
+          progress={() => 0}
+        />
         <div className="mt-8">
           <Caption>sonando</Caption>
-          <NowPlaying map={map} playing onToggle={noop} progress={() => 0.38} />
+          <NowPlaying
+            map={map}
+            playing
+            volume={0.35}
+            onVolume={noop}
+            onToggle={noop}
+            progress={() => 0.38}
+          />
         </div>
         <div className="mt-8">
           <Caption>en pantallas pequeñas</Caption>
           <div className="rounded-l border border-line-strong bg-ink-1">
-            <NowPlaying variant="dock" map={map} playing onToggle={noop} progress={() => 0.38} />
+            <NowPlaying
+              variant="dock"
+              map={map}
+              playing
+              volume={0.35}
+              onVolume={noop}
+              onToggle={noop}
+              progress={() => 0.38}
+            />
           </div>
         </div>
       </Cell>

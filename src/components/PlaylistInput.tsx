@@ -12,6 +12,7 @@ export function PlaylistInput({
   onSubmit,
   onStop,
   onExample,
+  showExample = true,
 }: {
   /** Hay una búsqueda en marcha. */
   busy: boolean;
@@ -20,6 +21,8 @@ export function PlaylistInput({
   onSubmit(link: string): void;
   onStop(): void;
   onExample(): void;
+  /** Enseñar el enlace a la playlist de ejemplo bajo el campo. */
+  showExample?: boolean;
 }) {
   const t = useT();
   const id = useId();
@@ -52,7 +55,7 @@ export function PlaylistInput({
         <input
           id={id}
           className="field"
-          type="url"
+          type="text"
           inputMode="url"
           autoComplete="off"
           autoCapitalize="none"
@@ -83,7 +86,7 @@ export function PlaylistInput({
         ) : (
           <p className="text-smoke">{t.input.hint}</p>
         )}
-        {!busy && (
+        {!busy && showExample && (
           <button type="button" className="link mt-1 text-meta" onClick={onExample}>
             {t.input.example}
           </button>

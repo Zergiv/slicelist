@@ -1,8 +1,8 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useId, useRef } from "react";
 import { Cover } from "@/components/Cover";
-import { PauseGlyph, PlayGlyph } from "@/components/Glyphs";
+import { PauseGlyph, PlayGlyph, VolumeGlyph } from "@/components/Glyphs";
 import { ViewfinderCorners } from "@/components/grid/ViewfinderCorners";
 import { useT } from "@/lib/i18n";
 import type { BeatMap } from "@/lib/types";
@@ -29,18 +29,51 @@ function Progress({ playing, read }: { playing: boolean; read(): number }) {
   );
 }
 
+function VolumeControl({
+  volume,
+  onChange,
+}: {
+  volume: number;
+  onChange(value: number): void;
+}) {
+  const t = useT();
+  const id = useId();
+  return (
+    <div className="volume">
+      <label htmlFor={id} className="sr-only">
+        {t.nowPlaying.volume}
+      </label>
+      <VolumeGlyph />
+      <input
+        id={id}
+        className="volume__slider"
+        type="range"
+        min={0}
+        max={1}
+        step={0.01}
+        value={volume}
+        onChange={(e) => onChange(Number(e.target.value))}
+      />
+    </div>
+  );
+}
+
 /**
  * "Ahora suena". `variant="dock"` es la barra compacta de pantallas pequeñas.
  */
 export function NowPlaying({
   map,
   playing,
+  volume,
+  onVolume,
   onToggle,
   progress,
   variant = "panel",
 }: {
   map: BeatMap | null;
   playing: boolean;
+  volume: number;
+  onVolume(value: number): void;
   onToggle(): void;
   progress(): number;
   variant?: "panel" | "dock";
@@ -80,6 +113,7 @@ export function NowPlaying({
               {t.nowPlaying.by} {map.mapper}
             </p>
           </div>
+          <VolumeControl volume={volume} onChange={onVolume} />
           {toggle}
         </div>
         <Progress playing={playing} read={progress} />
@@ -102,7 +136,10 @@ export function NowPlaying({
         </div>
         {toggle}
       </div>
-      <div className="mt-4">
+      <div className="mt-3 flex items-center justify-between gap-3">
+        <VolumeControl volume={volume} onChange={onVolume} />
+      </div>
+      <div className="mt-3">
         <Progress playing={playing} read={progress} />
       </div>
     </div>

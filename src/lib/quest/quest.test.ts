@@ -65,12 +65,14 @@ test("reconoce lo que ya está en el visor por id o por hash", () => {
   const keys = installedKeys([
     "32e (Harder Better Faster Stronger - RunRockGame)",
     "1A2B",
+    "abcdef01 (tema largo - Mapper)",
     `custom_level_${hash.toUpperCase()}`,
     "Beat It",
     "deadbeefcafe no es un id",
   ]);
   assert.ok(isInstalled({ id: "32E", hash: "x" }, keys));
   assert.ok(isInstalled({ id: "1a2b", hash: "x" }, keys));
+  assert.ok(isInstalled({ id: "abcdef01", hash: "x" }, keys));
   assert.ok(isInstalled({ id: "zzz", hash }, keys));
   assert.ok(!isInstalled({ id: "bea", hash: "y" }, keys));
   assert.ok(!isInstalled({ id: "deadbeefcafe", hash: "y" }, keys));

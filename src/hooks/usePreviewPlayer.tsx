@@ -1,12 +1,39 @@
 "use client";
 
-import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState } from "react";
+import {
+  createContext,
+  useCallback,
+  useContext,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
 import type { BeatMap } from "@/lib/types";
+
+const VOLUME_KEY = "slicelist-volume";
+const DEFAULT_VOLUME = 0.35;
+
+function readStoredVolume(): number {
+  if (typeof window === "undefined") return DEFAULT_VOLUME;
+  try {
+    const raw = window.localStorage.getItem(VOLUME_KEY);
+    if (raw == null) return DEFAULT_VOLUME;
+    const n = Number(raw);
+    if (!Number.isFinite(n)) return DEFAULT_VOLUME;
+    return Math.min(1, Math.max(0, n));
+  } catch {
+    return DEFAULT_VOLUME;
+  }
+}
 
 export type PreviewPlayer = {
   /** El mapa cuya vista previa está cargada. */
   current: BeatMap | null;
   playing: boolean;
+  /** De 0 a 1. */
+  volume: number;
+  setVolume(value: number): void;
   /** Escuchar este mapa; si ya suena, lo pausa. */
   toggle(map: BeatMap): void;
   pause(): void;
@@ -20,6 +47,11 @@ export function PreviewPlayerProvider({ children }: { children: React.ReactNode 
   const audio = useRef<HTMLAudioElement | null>(null);
   const [current, setCurrent] = useState<BeatMap | null>(null);
   const [playing, setPlaying] = useState(false);
+  const [volume, setVolumeState] = useState(DEFAULT_VOLUME);
+
+  useEffect(() => {
+    setVolumeState(readStoredVolume());
+  }, []);
 
   useEffect(
     () => () => {
@@ -33,7 +65,7 @@ export function PreviewPlayerProvider({ children }: { children: React.ReactNode 
     if (audio.current) return audio.current;
     const el = new Audio();
     el.preload = "none";
-    el.volume = 0.8;
+    el.volume = readStoredVolume();
     el.addEventListener("play", () => setPlaying(true));
     el.addEventListener("pause", () => setPlaying(false));
     el.addEventListener("ended", () => setPlaying(false));
@@ -42,9 +74,25 @@ export function PreviewPlayerProvider({ children }: { children: React.ReactNode 
     return el;
   }, []);
 
+  const setVolume = useCallback(
+    (value: number) => {
+      const next = Math.min(1, Math.max(0, value));
+      setVolumeState(next);
+      const el = element();
+      el.volume = next;
+      try {
+        window.localStorage.setItem(VOLUME_KEY, String(next));
+      } catch {
+        /* sin almacenamiento: igual se aplica a esta sesión */
+      }
+    },
+    [element],
+  );
+
   const toggle = useCallback(
     (map: BeatMap) => {
       const el = element();
+      el.volume = volume;
       if (current?.id === map.id) {
         if (el.paused) void el.play().catch(() => setPlaying(false));
         else el.pause();
@@ -54,7 +102,7 @@ export function PreviewPlayerProvider({ children }: { children: React.ReactNode 
       setCurrent(map);
       void el.play().catch(() => setPlaying(false));
     },
-    [current, element],
+    [current, element, volume],
   );
 
   const pause = useCallback(() => audio.current?.pause(), []);
@@ -66,8 +114,8 @@ export function PreviewPlayerProvider({ children }: { children: React.ReactNode 
   }, []);
 
   const api = useMemo(
-    () => ({ current, playing, toggle, pause, progress }),
-    [current, playing, toggle, pause, progress],
+    () => ({ current, playing, volume, setVolume, toggle, pause, progress }),
+    [current, playing, volume, setVolume, toggle, pause, progress],
   );
 
   return <Ctx.Provider value={api}>{children}</Ctx.Provider>;

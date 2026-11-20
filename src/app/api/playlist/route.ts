@@ -37,7 +37,8 @@ export async function GET(request: Request) {
   const parsed = parsePlaylistLink(link.slice(0, 2000));
   if (!parsed.ok) return fail(parsed.reason, 400);
 
-  const key = `p1|${parsed.kind}|${parsed.id}`;
+  // p4: playlists de Spotify paginadas (más de 100).
+  const key = `p4|${parsed.kind}|${parsed.id}`;
   const cached = cacheGet<PlaylistData>(key);
   if (cached) return Response.json({ playlist: cached });
 

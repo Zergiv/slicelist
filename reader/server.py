@@ -1,13 +1,13 @@
 """Lector de playlists para slicelist.
 
-Un servicio HTTP mínimo (solo biblioteca estándar) que lee playlists y álbumes
-públicos de YouTube Music con ytmusicapi y los devuelve en JSON.
+Un servicio HTTP mínimo que lee playlists y álbumes públicos de YouTube Music
+(ytmusicapi) y de Spotify (embed público) y los devuelve en JSON.
 
 Escucha únicamente en 127.0.0.1: solo la web, que vive en la misma máquina,
 puede llamarlo. No necesita claves ni cuenta.
 
     GET /health
-    GET /playlist?id=<id>&kind=playlist|album
+    GET /playlist?id=<id>&kind=playlist|album|spotify_playlist|spotify_album
 
 Variables de entorno:
     READER_PORT        puerto (por defecto 4191)
@@ -27,13 +27,17 @@ from urllib.parse import parse_qs, urlparse
 import requests
 from ytmusicapi import YTMusic
 
+from errors import ReaderError
+from spotify import read_spotify
+
 HOST = "127.0.0.1"
 PORT = int(os.environ.get("READER_PORT", "4191"))
-MAX_TRACKS = int(os.environ.get("READER_MAX_TRACKS", "500"))
+MAX_TRACKS = int(os.environ.get("READER_MAX_TRACKS", "200"))
 TIMEOUT_SECONDS = 20
 ID_RE = re.compile(r"^[A-Za-z0-9_-]{10,80}$")
+KINDS = ("playlist", "album", "spotify_playlist", "spotify_album")
 
-# Como mucho unas pocas lecturas a la vez hacia YouTube Music.
+# Como mucho unas pocas lecturas a la vez hacia fuera.
 _slots = threading.BoundedSemaphore(4)
 _local = threading.local()
 
@@ -51,13 +55,6 @@ def _client() -> YTMusic:
     if not hasattr(_local, "yt"):
         _local.yt = YTMusic(requests_session=_Session())
     return _local.yt
-
-
-class ReaderError(Exception):
-    def __init__(self, code: str, status: int):
-        super().__init__(code)
-        self.code = code
-        self.status = status
 
 
 def _thumb(thumbnails) -> str | None:
@@ -184,7 +181,7 @@ class Handler(BaseHTTPRequestHandler):
         query = parse_qs(url.query)
         playlist_id = (query.get("id") or [""])[0]
         kind = (query.get("kind") or ["playlist"])[0]
-        if not ID_RE.match(playlist_id) or kind not in ("playlist", "album"):
+        if not ID_RE.match(playlist_id) or kind not in KINDS:
             self._send(400, {"error": "bad_link"})
             return
 
@@ -192,7 +189,12 @@ class Handler(BaseHTTPRequestHandler):
             self._send(503, {"error": "busy"})
             return
         try:
-            data = read_album(playlist_id) if kind == "album" else read_playlist(playlist_id)
+            if kind.startswith("spotify_"):
+                data = read_spotify(kind, playlist_id)
+            elif kind == "album":
+                data = read_album(playlist_id)
+            else:
+                data = read_playlist(playlist_id)
         except ReaderError as err:
             self._send(err.status, {"error": err.code})
             return

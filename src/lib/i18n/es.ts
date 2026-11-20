@@ -10,25 +10,27 @@ export const es = {
   top: {
     language: "Idioma",
     localTime: "tu hora",
+    source: "código",
+    star: "estrella",
   },
 
   input: {
-    lead: "Pega una playlist de YouTube Music y te digo qué canciones puedes cortar en Beat Saber.",
+    lead: "Pega una playlist de YouTube Music o Spotify y te digo qué canciones puedes cortar en Beat Saber.",
     label: "Enlace de la playlist",
     placeholder: "Pega aquí el enlace de tu playlist",
     submit: "Buscar mapas",
     stop: "Parar",
-    hint: "Tiene que ser pública. Valen playlists y álbumes.",
+    hint: "Tiene que ser pública. Valen YouTube Music y Spotify, playlists y álbumes.",
     example: "Probar con una de ejemplo",
   },
 
   errors: {
-    bad_link: "Eso no parece un enlace de playlist. Cópialo desde Compartir, en YouTube Music.",
+    bad_link: "Eso no parece un enlace de playlist. Cópialo desde Compartir, en YouTube Music o Spotify.",
     not_playlist: "Ese enlace es de una canción suelta o de una mezcla automática. Pega el de una playlist.",
     not_found: "Esa playlist es privada o no existe. Hazla pública y vuelve a pegarla.",
     empty: "Esa playlist está vacía. Métele canciones y vuelve.",
-    busy: "Ahora mismo no llego a YouTube Music. Prueba otra vez en un minuto.",
-    upstream: "YouTube Music no me ha dejado leer esa playlist. Prueba otra vez en un minuto.",
+    busy: "Ahora mismo no llego a leer esa playlist. Prueba otra vez en un minuto.",
+    upstream: "No me han dejado leer esa playlist. Prueba otra vez en un minuto.",
     too_many: "Vas muy rápido. Espera un minuto y seguimos.",
   } satisfies Record<ApiErrorCode, string>,
 
@@ -141,6 +143,7 @@ export const es = {
     play: "Seguir escuchando",
     pause: "Pausar",
     by: "mapeó",
+    volume: "Volumen",
   },
 
   quest: {
@@ -184,7 +187,6 @@ export const es = {
 
   footer: {
     credit: "Los mapas los hace la gente de BeatSaver. slicelist solo te los encuentra.",
-    design: "design system",
   },
 };
 

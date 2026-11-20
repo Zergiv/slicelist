@@ -10,25 +10,27 @@ export const en: Dict = {
   top: {
     language: "Language",
     localTime: "your time",
+    source: "source",
+    star: "star",
   },
 
   input: {
-    lead: "Paste a YouTube Music playlist and I'll tell you which songs you can slice in Beat Saber.",
+    lead: "Paste a YouTube Music or Spotify playlist and I'll tell you which songs you can slice in Beat Saber.",
     label: "Playlist link",
     placeholder: "Paste your playlist link here",
     submit: "Find maps",
     stop: "Stop",
-    hint: "It has to be public. Playlists and albums both work.",
+    hint: "It has to be public. YouTube Music and Spotify both work — playlists and albums.",
     example: "Try it with a sample one",
   },
 
   errors: {
-    bad_link: "That doesn't look like a playlist link. Copy it from Share, in YouTube Music.",
+    bad_link: "That doesn't look like a playlist link. Copy it from Share, in YouTube Music or Spotify.",
     not_playlist: "That link is for a single song or an automatic mix. Paste a playlist's link.",
     not_found: "That playlist is private or doesn't exist. Make it public and paste it again.",
     empty: "That playlist is empty. Add some songs and come back.",
-    busy: "I can't reach YouTube Music right now. Try again in a minute.",
-    upstream: "YouTube Music wouldn't let me read that playlist. Try again in a minute.",
+    busy: "I can't reach that playlist right now. Try again in a minute.",
+    upstream: "They wouldn't let me read that playlist. Try again in a minute.",
     too_many: "You're going too fast. Wait a minute and we'll carry on.",
   },
 
@@ -141,6 +143,7 @@ export const en: Dict = {
     play: "Keep listening",
     pause: "Pause",
     by: "mapped by",
+    volume: "Volume",
   },
 
   quest: {
@@ -184,6 +187,5 @@ export const en: Dict = {
 
   footer: {
     credit: "The maps are made by the BeatSaver crowd. slicelist just finds them for you.",
-    design: "design system",
   },
 };

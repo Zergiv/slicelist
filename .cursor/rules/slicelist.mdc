@@ -28,4 +28,8 @@ alwaysApply: true
   vigente está en `node_modules/next/dist/docs/`.
 - Envío al visor: no copiar código de ModsBeforeFriday (AGPL-3.0). Solo se escribe dentro de la
   carpeta de canciones y nunca se borra nada del visor.
-- Pruebas: `pnpm test` (limpieza de títulos, coincidencia, enlaces y preparación de archivos).
+- Pruebas: `pnpm test` (limpieza de títulos, coincidencia, enlaces, cola, tope y archivos del visor).
+  Lo que se prueba así importa sus vecinos con ruta relativa y extensión `.ts`, sin `@/`.
+- Si cambia la forma de decidir qué mapa es de qué canción, subir `MATCH_VERSION` en
+  `src/app/api/match/route.ts` para no servir resultados guardados con la regla antigua.
+- El lector (`reader/server.py`) solo escucha en `127.0.0.1`. No se publica.

@@ -16,8 +16,15 @@ import { useT } from "@/lib/i18n";
 import type { SendStatus } from "@/lib/quest/types";
 import type { BeatMap, MapDiff } from "@/lib/types";
 
-const ORDER = ["Easy", "Normal", "Hard", "Expert", "ExpertPlus"];
+const ORDER = ["Easy", "Normal", "Hard", "Expert", "ExpertPlus"] as const;
 const SHORT: Record<string, string> = { ExpertPlus: "Expert+" };
+const DIFF_CLASS: Record<string, string> = {
+  Easy: "tag--diff tag--easy",
+  Normal: "tag--diff tag--normal",
+  Hard: "tag--diff tag--hard",
+  Expert: "tag--diff tag--expert",
+  ExpertPlus: "tag--diff tag--expert-plus",
+};
 
 /** Dificultades del modo normal; si no lo tiene, las del primer modo que traiga. */
 function difficulties(diffs: MapDiff[]): string[] {
@@ -27,8 +34,13 @@ function difficulties(diffs: MapDiff[]): string[] {
       ? standard
       : diffs.filter((d) => d.characteristic === diffs[0]?.characteristic);
   return [...new Set(pool.map((d) => d.difficulty))]
-    .sort((a, b) => ORDER.indexOf(a) - ORDER.indexOf(b))
-    .map((d) => SHORT[d] ?? d);
+    .sort((a, b) => ORDER.indexOf(a as (typeof ORDER)[number]) - ORDER.indexOf(b as (typeof ORDER)[number]));
+}
+
+function scoreTone(score: number): string {
+  if (score >= 0.9) return "score score--high";
+  if (score >= 0.7) return "score score--mid";
+  return "score score--low";
 }
 
 export function MapRow({
@@ -40,7 +52,7 @@ export function MapRow({
   canSend,
 }: {
   map: BeatMap;
-  /** Su vista previa está sonando ahora. */
+  /** Su vista previa está cargada. */
   playing: boolean;
   onListen(): void;
   sendStatus: SendStatus | null;
@@ -70,11 +82,11 @@ export function MapRow({
           </p>
 
           <p className="mt-2 flex flex-wrap items-center gap-x-4 gap-y-1 text-meta text-ash">
-            <span className="text-bone">
+            <span className={scoreTone(map.score)}>
               <span className="sr-only">{t.map.score}: </span>
               {percent(map.score, t.locale)}
             </span>
-            <span className="inline-flex items-center gap-1">
+            <span className="inline-flex items-center gap-1 text-bone">
               <UpGlyph />
               <span className="sr-only">{t.map.upvotes}: </span>
               {count(map.upvotes, t.locale)}
@@ -93,8 +105,8 @@ export function MapRow({
             {map.curated && <li className="tag tag--strong">{t.map.curated}</li>}
             {map.ranked && <li className="tag tag--strong">{t.map.ranked}</li>}
             {diffs.map((d) => (
-              <li key={d} className="tag">
-                {d}
+              <li key={d} className={`tag ${DIFF_CLASS[d] ?? ""}`}>
+                {SHORT[d] ?? d}
               </li>
             ))}
           </ul>
