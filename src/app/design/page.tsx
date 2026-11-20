@@ -3,6 +3,7 @@ import { Cell, Frame } from "@/components/grid/Frame";
 import { SquareMarker } from "@/components/grid/SquareMarker";
 import { ViewfinderCorners } from "@/components/grid/ViewfinderCorners";
 import { SlicedWordmark } from "@/components/hero/SlicedWordmark";
+import { Gallery } from "./Gallery";
 
 export const metadata: Metadata = { title: "slicelist / design system" };
 
@@ -191,6 +192,8 @@ export default function DesignPage() {
             </button>
           </div>
         </Cell>
+
+        <Gallery />
       </Frame>
     </main>
   );

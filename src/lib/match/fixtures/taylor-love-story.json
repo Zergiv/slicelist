@@ -1,0 +1,1294 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "1430",
+   "name": "Taylor Swift - Wildest Dreams",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 140,
+    "duration": 219,
+    "songName": "Wildest Dreams",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Taylor Swift"
+   },
+   "stats": {
+    "upvotes": 314,
+    "downvotes": 124,
+    "score": 0.7097
+   },
+   "versions": [
+    {
+     "hash": "d998bf79d63022243079ccb9185ec58e24a37f17",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/d998bf79d63022243079ccb9185ec58e24a37f17.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/d998bf79d63022243079ccb9185ec58e24a37f17.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/d998bf79d63022243079ccb9185ec58e24a37f17.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a00b",
+   "name": "Taylor Swift - Love Story",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 119,
+    "duration": 235,
+    "songName": "Love Story",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Shauniedarko"
+   },
+   "stats": {
+    "upvotes": 329,
+    "downvotes": 18,
+    "score": 0.9309
+   },
+   "versions": [
+    {
+     "hash": "8d5b1126d5ecd4306f0205006b3c35c0cd2731ba",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8d5b1126d5ecd4306f0205006b3c35c0cd2731ba.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8d5b1126d5ecd4306f0205006b3c35c0cd2731ba.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8d5b1126d5ecd4306f0205006b3c35c0cd2731ba.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "16902",
+   "name": "Taylor Swift - Love Story (Taylor's Version)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2021-04-11T16:59:43.871Z",
+   "tags": [
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 119,
+    "duration": 242,
+    "songName": "Love Story",
+    "songSubName": " (Taylor's Version)",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "FatBeanzoop"
+   },
+   "stats": {
+    "upvotes": 445,
+    "downvotes": 24,
+    "score": 0.9345
+   },
+   "versions": [
+    {
+     "hash": "66e7cb92d4cce064e3ff0588475632d1901045ea",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/66e7cb92d4cce064e3ff0588475632d1901045ea.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/66e7cb92d4cce064e3ff0588475632d1901045ea.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/66e7cb92d4cce064e3ff0588475632d1901045ea.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4db6",
+   "name": "Taylor Swift - Love Story",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 119,
+    "duration": 239,
+    "songName": "Love Story",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "DaddyAtlas"
+   },
+   "stats": {
+    "upvotes": 181,
+    "downvotes": 44,
+    "score": 0.7891
+   },
+   "versions": [
+    {
+     "hash": "8680c18e8f610a07b6b0408c9f7e9b43c6644d75",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8680c18e8f610a07b6b0408c9f7e9b43c6644d75.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8680c18e8f610a07b6b0408c9f7e9b43c6644d75.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8680c18e8f610a07b6b0408c9f7e9b43c6644d75.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1c9c6",
+   "name": "Bardcore - Love story by Taylor Swift",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2021-11-02T15:45:45.047032Z",
+   "tags": [
+    "pop",
+    "instrumental",
+    "folk-acoustic",
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 115,
+    "duration": 259,
+    "songName": "Love story",
+    "songSubName": "Bardcore",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "thelitlewiseowl"
+   },
+   "stats": {
+    "upvotes": 98,
+    "downvotes": 9,
+    "score": 0.8825
+   },
+   "versions": [
+    {
+     "hash": "25cddd4189e7f9a9721f69e9fe39f6e6603d3dfe",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/25cddd4189e7f9a9721f69e9fe39f6e6603d3dfe.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/25cddd4189e7f9a9721f69e9fe39f6e6603d3dfe.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/25cddd4189e7f9a9721f69e9fe39f6e6603d3dfe.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e068",
+   "name": "Taylor Swift - Love Story (Disco lines remix)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 128,
+    "duration": 139,
+    "songName": "Taylor Swift - Love Story \"Disco Lines Remix\"",
+    "songSubName": "Love Story Remix",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "GlitchyCHL"
+   },
+   "stats": {
+    "upvotes": 110,
+    "downvotes": 7,
+    "score": 0.9067
+   },
+   "versions": [
+    {
+     "hash": "47167e8484580feee8056a2183b80407e42c5bf2",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/47167e8484580feee8056a2183b80407e42c5bf2.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/47167e8484580feee8056a2183b80407e42c5bf2.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/47167e8484580feee8056a2183b80407e42c5bf2.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "35d8e",
+   "name": "The Story of Us - Taylor Swift",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2023-09-23T03:10:21.324252Z",
+   "tags": [
+    "balanced",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 139.5,
+    "duration": 268,
+    "songName": "The Story of Us",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "EmotionalFlight"
+   },
+   "stats": {
+    "upvotes": 327,
+    "downvotes": 11,
+    "score": 0.9492
+   },
+   "versions": [
+    {
+     "hash": "230351cf5f30fbd3245e1627d91cdfd058044ed9",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/230351cf5f30fbd3245e1627d91cdfd058044ed9.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/230351cf5f30fbd3245e1627d91cdfd058044ed9.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/230351cf5f30fbd3245e1627d91cdfd058044ed9.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "360Degree",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "447",
+   "name": "Taylor Swift - Ready For It",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 160,
+    "duration": 208,
+    "songName": "...Ready For It?",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Taylor Swift"
+   },
+   "stats": {
+    "upvotes": 189,
+    "downvotes": 227,
+    "score": 0.4559
+   },
+   "versions": [
+    {
+     "hash": "85e27eb4ca590720ff39d8c9198eb9dd71bfd452",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/85e27eb4ca590720ff39d8c9198eb9dd71bfd452.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/85e27eb4ca590720ff39d8c9198eb9dd71bfd452.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/85e27eb4ca590720ff39d8c9198eb9dd71bfd452.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "40ce6",
+   "name": " [Taylor Swift Music Pack] 22 - Taylor Swift",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-10-12T15:18:40.263994Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 104,
+    "duration": 233,
+    "songName": "22",
+    "songSubName": "(Taylor's Version)",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "steeak & watr"
+   },
+   "stats": {
+    "upvotes": 51,
+    "downvotes": 1,
+    "score": 0.9207
+   },
+   "versions": [
+    {
+     "hash": "eadb5a0df0469783100319cc9e872825e5fc3ca7",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/eadb5a0df0469783100319cc9e872825e5fc3ca7.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/eadb5a0df0469783100319cc9e872825e5fc3ca7.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/eadb5a0df0469783100319cc9e872825e5fc3ca7.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "57e8",
+   "name": "ME! - Taylor Swift",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2019-07-19T14:59:43.103Z",
+   "metadata": {
+    "bpm": 182,
+    "duration": 196,
+    "songName": "ME!",
+    "songSubName": "",
+    "songAuthorName": "T Swift",
+    "levelAuthorName": "Lizard_Crimson"
+   },
+   "stats": {
+    "upvotes": 324,
+    "downvotes": 15,
+    "score": 0.9379
+   },
+   "versions": [
+    {
+     "hash": "7594a41cedbd0add977d014fbb7793a2549087c4",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7594a41cedbd0add977d014fbb7793a2549087c4.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7594a41cedbd0add977d014fbb7793a2549087c4.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7594a41cedbd0add977d014fbb7793a2549087c4.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "49a4",
+   "name": "22 - Taylor Swift",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 104,
+    "duration": 228,
+    "songName": "22",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Thynix & liciti"
+   },
+   "stats": {
+    "upvotes": 851,
+    "downvotes": 41,
+    "score": 0.9444
+   },
+   "versions": [
+    {
+     "hash": "3baa0a8a0ded27dc0c43226e7c945276f4c6d44c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3baa0a8a0ded27dc0c43226e7c945276f4c6d44c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3baa0a8a0ded27dc0c43226e7c945276f4c6d44c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3baa0a8a0ded27dc0c43226e7c945276f4c6d44c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "405f2",
+   "name": "[Taylor Swift Music Pack] Taylor Swift - The Man",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-09-22T03:07:03.663404Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 110,
+    "duration": 195,
+    "songName": "The Man",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "watr"
+   },
+   "stats": {
+    "upvotes": 58,
+    "downvotes": 2,
+    "score": 0.9132
+   },
+   "versions": [
+    {
+     "hash": "e0c72c19ee45fde054ee810f121c95b6936075db",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/e0c72c19ee45fde054ee810f121c95b6936075db.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/e0c72c19ee45fde054ee810f121c95b6936075db.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/e0c72c19ee45fde054ee810f121c95b6936075db.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "40ab5",
+   "name": "[Taylor Swift Music Pack] Taylor Swift - Blank Space",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-10-11T02:31:01.353807Z",
+   "tags": [
+    "accuracy",
+    "balanced",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 192,
+    "duration": 234,
+    "songName": "Blank Space",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Klondike"
+   },
+   "stats": {
+    "upvotes": 105,
+    "downvotes": 6,
+    "score": 0.911
+   },
+   "versions": [
+    {
+     "hash": "801e27384561a0409fe34edfada05e7eb01bc810",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/801e27384561a0409fe34edfada05e7eb01bc810.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/801e27384561a0409fe34edfada05e7eb01bc810.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/801e27384561a0409fe34edfada05e7eb01bc810.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lightshow",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "35a27",
+   "name": "Taylor Swift - Delicate",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 190,
+    "duration": 234,
+    "songName": "Delicate",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Fireluke Gaming"
+   },
+   "stats": {
+    "upvotes": 81,
+    "downvotes": 4,
+    "score": 0.911
+   },
+   "versions": [
+    {
+     "hash": "04aebd5d4c94b69e4c8452971372528c7b4699ce",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/04aebd5d4c94b69e4c8452971372528c7b4699ce.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/04aebd5d4c94b69e4c8452971372528c7b4699ce.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/04aebd5d4c94b69e4c8452971372528c7b4699ce.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "40ce8",
+   "name": " [Taylor Swift Music Pack] Wildest Dreams - Taylor Swift",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-10-13T00:26:42.191132Z",
+   "tags": [
+    "balanced",
+    "tech",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 140,
+    "duration": 223,
+    "songName": "Wildest Dreams",
+    "songSubName": "(Taylor's Version)",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "steeak & watr"
+   },
+   "stats": {
+    "upvotes": 44,
+    "downvotes": 2,
+    "score": 0.8951
+   },
+   "versions": [
+    {
+     "hash": "641271d85f8a76062bd77888f1d2a1ffec9465fe",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/641271d85f8a76062bd77888f1d2a1ffec9465fe.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/641271d85f8a76062bd77888f1d2a1ffec9465fe.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/641271d85f8a76062bd77888f1d2a1ffec9465fe.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1dc8d",
+   "name": "Taylor Swift - Paper Rings",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2021-11-22T15:34:50.614041Z",
+   "tags": [
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 208,
+    "duration": 225,
+    "songName": "Paper Rings",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "GianniKoch"
+   },
+   "stats": {
+    "upvotes": 479,
+    "downvotes": 13,
+    "score": 0.9589
+   },
+   "versions": [
+    {
+     "hash": "b2a85276df4137873c5cb0ec85c812d4f864dd40",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/b2a85276df4137873c5cb0ec85c812d4f864dd40.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/b2a85276df4137873c5cb0ec85c812d4f864dd40.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/b2a85276df4137873c5cb0ec85c812d4f864dd40.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "40348",
+   "name": "[Taylor Swift Music Pack] Bad Blood - Taylor Swift",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-09-14T21:44:43.896902Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 170,
+    "duration": 202,
+    "songName": "Bad Blood",
+    "songSubName": "(Taylor's Version)",
+    "songAuthorName": "Taylor Swift (Ft. Kendrick Lamar)",
+    "levelAuthorName": "steeak"
+   },
+   "stats": {
+    "upvotes": 65,
+    "downvotes": 5,
+    "score": 0.8839
+   },
+   "versions": [
+    {
+     "hash": "875b33b1b05ed9fbf00afa110fdacee05c54f354",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/875b33b1b05ed9fbf00afa110fdacee05c54f354.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/875b33b1b05ed9fbf00afa110fdacee05c54f354.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/875b33b1b05ed9fbf00afa110fdacee05c54f354.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "18194",
+   "name": "Taylor Swift Willow (Cinema)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2021-05-19T20:54:02.766Z",
+   "tags": [
+    "alternative",
+    "indie",
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 168,
+    "duration": 217,
+    "songName": "willow",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "TinkerVr85 & [xavier]"
+   },
+   "stats": {
+    "upvotes": 947,
+    "downvotes": 27,
+    "score": 0.9628
+   },
+   "versions": [
+    {
+     "hash": "b2f4c43cfe0f505878f5aad94faf710f7ae34345",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/b2f4c43cfe0f505878f5aad94faf710f7ae34345.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/b2f4c43cfe0f505878f5aad94faf710f7ae34345.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/b2f4c43cfe0f505878f5aad94faf710f7ae34345.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b866",
+   "name": "Taylor Swift - Red",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 125,
+    "duration": 215,
+    "songName": "Red",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Shaun"
+   },
+   "stats": {
+    "upvotes": 108,
+    "downvotes": 13,
+    "score": 0.8634
+   },
+   "versions": [
+    {
+     "hash": "f76e11bcdc8b0c3b67406a4772bfd71be353554f",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f76e11bcdc8b0c3b67406a4772bfd71be353554f.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f76e11bcdc8b0c3b67406a4772bfd71be353554f.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f76e11bcdc8b0c3b67406a4772bfd71be353554f.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37114",
+   "name": "[V3] Taylor Swift - Style",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2023-11-11T00:45:22.559255Z",
+   "tags": [
+    "balanced",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 190,
+    "duration": 232,
+    "songName": "Style",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Scorefam"
+   },
+   "stats": {
+    "upvotes": 265,
+    "downvotes": 6,
+    "score": 0.9564
+   },
+   "versions": [
+    {
+     "hash": "c999c7fe4bef67d8a76290f0aaf1c58e5d3d2d29",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c999c7fe4bef67d8a76290f0aaf1c58e5d3d2d29.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c999c7fe4bef67d8a76290f0aaf1c58e5d3d2d29.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c999c7fe4bef67d8a76290f0aaf1c58e5d3d2d29.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "33d5c",
+   "name": "Taylor Swift - ...Ready For It",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop",
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 160,
+    "duration": 211,
+    "songName": "…Ready For It?",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Lalahti"
+   },
+   "stats": {
+    "upvotes": 454,
+    "downvotes": 16,
+    "score": 0.9511
+   },
+   "versions": [
+    {
+     "hash": "80e0ab2c47e29f4e9e0d617cf3039e727126f0e9",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/80e0ab2c47e29f4e9e0d617cf3039e727126f0e9.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/80e0ab2c47e29f4e9e0d617cf3039e727126f0e9.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/80e0ab2c47e29f4e9e0d617cf3039e727126f0e9.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c981",
+   "name": "Taylor Swift - Blank Space",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-07-28T19:09:13.910Z",
+   "metadata": {
+    "bpm": 96.01,
+    "duration": 149,
+    "songName": "Blank Space",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Sanguine143Panda"
+   },
+   "stats": {
+    "upvotes": 741,
+    "downvotes": 33,
+    "score": 0.9467
+   },
+   "versions": [
+    {
+     "hash": "4a47fc8671ea13d69c56e54aeabe0e5939f43307",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/4a47fc8671ea13d69c56e54aeabe0e5939f43307.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/4a47fc8671ea13d69c56e54aeabe0e5939f43307.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/4a47fc8671ea13d69c56e54aeabe0e5939f43307.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "30adc",
+   "name": "Taylor Swift - Trouble",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 154.731,
+    "duration": 26,
+    "songName": "Trouble",
+    "songSubName": "Greatest Of All Time edition",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "fakeCoda"
+   },
+   "stats": {
+    "upvotes": 53,
+    "downvotes": 5,
+    "score": 0.8654
+   },
+   "versions": [
+    {
+     "hash": "190744735f4d4b3a4fb18a17ad8e9d348087e4d0",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/190744735f4d4b3a4fb18a17ad8e9d348087e4d0.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/190744735f4d4b3a4fb18a17ad8e9d348087e4d0.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/190744735f4d4b3a4fb18a17ad8e9d348087e4d0.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "40ddd",
+   "name": " [Taylor Swift Music Pack] Taylor Swift - Shake It Off [Chroma]",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-10-14T09:03:56.155486Z",
+   "tags": [
+    "balanced",
+    "dance",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 160,
+    "duration": 221,
+    "songName": "Shake It Off",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Scorefam & AlphaYT"
+   },
+   "stats": {
+    "upvotes": 123,
+    "downvotes": 3,
+    "score": 0.9417
+   },
+   "versions": [
+    {
+     "hash": "b0831c4ddc4f46383068bb523ced97522f933c44",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/b0831c4ddc4f46383068bb523ced97522f933c44.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/b0831c4ddc4f46383068bb523ced97522f933c44.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/b0831c4ddc4f46383068bb523ced97522f933c44.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lightshow",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "379a1",
+   "name": "Taylor Swift - Wildest Dreams",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2023-11-27T22:29:14.638747Z",
+   "tags": [
+    "tech",
+    "accuracy",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 140,
+    "duration": 223,
+    "songName": "Wildest Dreams",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Kassi"
+   },
+   "stats": {
+    "upvotes": 117,
+    "downvotes": 3,
+    "score": 0.9395
+   },
+   "versions": [
+    {
+     "hash": "275167b26c0e0fb44968752f739a98e418864d90",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/275167b26c0e0fb44968752f739a98e418864d90.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/275167b26c0e0fb44968752f739a98e418864d90.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/275167b26c0e0fb44968752f739a98e418864d90.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "545f3",
+   "name": "Taylor Swift - Me!",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "dance-style",
+    "pop",
+    "dance"
+   ],
+   "metadata": {
+    "bpm": 182,
+    "duration": 197,
+    "songName": "Me!",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift and Brendon Urie",
+    "levelAuthorName": "poork"
+   },
+   "stats": {
+    "upvotes": 9,
+    "downvotes": 0,
+    "score": 0.8294
+   },
+   "versions": [
+    {
+     "hash": "d0855050f69cd8d249eba612eb4d51d1e6af2606",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/d0855050f69cd8d249eba612eb4d51d1e6af2606.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/d0855050f69cd8d249eba612eb4d51d1e6af2606.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/d0855050f69cd8d249eba612eb4d51d1e6af2606.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2662c",
+   "name": "[V3] Taylor Swift - 22",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-06-04T14:49:32.435400Z",
+   "tags": [
+    "accuracy",
+    "tech",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 104,
+    "duration": 234,
+    "songName": "22",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Bitz & Joshabi"
+   },
+   "stats": {
+    "upvotes": 401,
+    "downvotes": 35,
+    "score": 0.9057
+   },
+   "versions": [
+    {
+     "hash": "7c3f2886a4c67e97f2879ee322cd55684d368247",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7c3f2886a4c67e97f2879ee322cd55684d368247.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7c3f2886a4c67e97f2879ee322cd55684d368247.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7c3f2886a4c67e97f2879ee322cd55684d368247.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "377fb",
+   "name": "[Taylor Swift Music Pack] Taylor Swift - ...Ready For It? [V3]",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-10-14T09:02:48.928742Z",
+   "tags": [
+    "balanced",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 160,
+    "duration": 210,
+    "songName": "...Ready For It?",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Lekrkoekj"
+   },
+   "stats": {
+    "upvotes": 167,
+    "downvotes": 11,
+    "score": 0.9126
+   },
+   "versions": [
+    {
+     "hash": "c79103110daed20fff5c60ae4c03d0c09ada2b63",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c79103110daed20fff5c60ae4c03d0c09ada2b63.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c79103110daed20fff5c60ae4c03d0c09ada2b63.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c79103110daed20fff5c60ae4c03d0c09ada2b63.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "35309",
+   "name": "[V3] Taylor Swift - Cruel Summer",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2023-09-04T20:47:29.561873Z",
+   "tags": [
+    "balanced",
+    "pop",
+    "accuracy"
+   ],
+   "metadata": {
+    "bpm": 169.986,
+    "duration": 180,
+    "songName": "Cruel Summer",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "Lekrkoekj"
+   },
+   "stats": {
+    "upvotes": 583,
+    "downvotes": 27,
+    "score": 0.9434
+   },
+   "versions": [
+    {
+     "hash": "35f52c570b503bce9e5887b227793f045a37a8e8",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/35f52c570b503bce9e5887b227793f045a37a8e8.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/35f52c570b503bce9e5887b227793f045a37a8e8.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/35f52c570b503bce9e5887b227793f045a37a8e8.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2bf61",
+   "name": "Taylor Swift - Anti-Hero",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": true,
+   "curatedAt": "2022-11-14T21:33:51.235693Z",
+   "tags": [
+    "balanced",
+    "pop",
+    "accuracy"
+   ],
+   "metadata": {
+    "bpm": 96.943,
+    "duration": 203,
+    "songName": "Anti-Hero",
+    "songSubName": "",
+    "songAuthorName": "Taylor Swift",
+    "levelAuthorName": "symphonic"
+   },
+   "stats": {
+    "upvotes": 845,
+    "downvotes": 83,
+    "score": 0.902
+   },
+   "versions": [
+    {
+     "hash": "b1da5ffbc342dbd6350b3e2c200512949f5b4f5f",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/b1da5ffbc342dbd6350b3e2c200512949f5b4f5f.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/b1da5ffbc342dbd6350b3e2c200512949f5b4f5f.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/b1da5ffbc342dbd6350b3e2c200512949f5b4f5f.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

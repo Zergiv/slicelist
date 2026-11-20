@@ -1,0 +1,1263 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "19cca",
+   "name": "YOASOBI - Into the Night/夜に駆ける",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 130,
+    "duration": 262,
+    "songName": "Into the Night/夜に駆ける",
+    "songSubName": "",
+    "songAuthorName": "YOASOBI",
+    "levelAuthorName": "Fefy"
+   },
+   "stats": {
+    "upvotes": 1147,
+    "downvotes": 51,
+    "score": 0.9493
+   },
+   "versions": [
+    {
+     "hash": "50aabf458af595e111b04e3ea83a2fe1fb930474",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/50aabf458af595e111b04e3ea83a2fe1fb930474.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/50aabf458af595e111b04e3ea83a2fe1fb930474.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/50aabf458af595e111b04e3ea83a2fe1fb930474.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1c9a9",
+   "name": "Into The Night (夜に駆ける) - YOASOBI",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 130,
+    "duration": 122,
+    "songName": "Into The Night (Short Ver.)",
+    "songSubName": "",
+    "songAuthorName": "YOASOBI",
+    "levelAuthorName": "Joetastic"
+   },
+   "stats": {
+    "upvotes": 686,
+    "downvotes": 45,
+    "score": 0.9279
+   },
+   "versions": [
+    {
+     "hash": "56f013bd76495f2d5f7ff17282a9e928bd838c83",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/56f013bd76495f2d5f7ff17282a9e928bd838c83.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/56f013bd76495f2d5f7ff17282a9e928bd838c83.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/56f013bd76495f2d5f7ff17282a9e928bd838c83.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2698d",
+   "name": "[BL Ranked] YOASOBI - 夜に駆ける (Into the Night)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": true,
+   "curatedAt": "2022-06-11T03:59:22.626781Z",
+   "tags": [
+    "tech",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 130,
+    "duration": 260,
+    "songName": "Yoru ni Kakeru",
+    "songSubName": "",
+    "songAuthorName": "YOASOBI",
+    "levelAuthorName": "chikinbiskit"
+   },
+   "stats": {
+    "upvotes": 2818,
+    "downvotes": 101,
+    "score": 0.9607
+   },
+   "versions": [
+    {
+     "hash": "79afbc844dffbf8ed6a42ecbaef1963dad093221",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/79afbc844dffbf8ed6a42ecbaef1963dad093221.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/79afbc844dffbf8ed6a42ecbaef1963dad093221.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/79afbc844dffbf8ed6a42ecbaef1963dad093221.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "12161",
+   "name": "YOASOBI - 夜に駆ける / Yoru ni Kakeru Standard and FeetSaber",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "dance-style",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 130.03,
+    "duration": 261,
+    "songName": "yoru ni kakeru",
+    "songSubName": "",
+    "songAuthorName": "YOASOBI",
+    "levelAuthorName": "710"
+   },
+   "stats": {
+    "upvotes": 544,
+    "downvotes": 52,
+    "score": 0.9014
+   },
+   "versions": [
+    {
+     "hash": "47775cfd004003df7200ce359605f6ef294946c3",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/47775cfd004003df7200ce359605f6ef294946c3.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/47775cfd004003df7200ce359605f6ef294946c3.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/47775cfd004003df7200ce359605f6ef294946c3.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "NoArrows",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "NoArrows",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "NoArrows",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "18343",
+   "name": "MASHUP 夜に駆ける(yoru ni kakeru) - YOASOBI × TEEN HIT SONGS",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "dance-style",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 130,
+    "duration": 266,
+    "songName": "Yoru ni Kakeru",
+    "songSubName": "TEEN HIT SONGS",
+    "songAuthorName": "Kubo Labo",
+    "levelAuthorName": "710 & PrimulaChiel"
+   },
+   "stats": {
+    "upvotes": 181,
+    "downvotes": 15,
+    "score": 0.9002
+   },
+   "versions": [
+    {
+     "hash": "267d892db6c2e9b2e98a3e17efefe41400b48440",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/267d892db6c2e9b2e98a3e17efefe41400b48440.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/267d892db6c2e9b2e98a3e17efefe41400b48440.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/267d892db6c2e9b2e98a3e17efefe41400b48440.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2dcd3",
+   "name": "天堂に駆ける",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 130,
+    "duration": 32,
+    "songName": "天堂に駆ける",
+    "songSubName": "Jesus Phone Call ringtone - DJ remix",
+    "songAuthorName": "Faxou42",
+    "levelAuthorName": "SunFLV"
+   },
+   "stats": {
+    "upvotes": 18,
+    "downvotes": 2,
+    "score": 0.8119
+   },
+   "versions": [
+    {
+     "hash": "1a78c5c418545f6b798730df7e8e2d0fd8cbaee6",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/1a78c5c418545f6b798730df7e8e2d0fd8cbaee6.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/1a78c5c418545f6b798730df7e8e2d0fd8cbaee6.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/1a78c5c418545f6b798730df7e8e2d0fd8cbaee6.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3c48e",
+   "name": "全然泳げない夜に駆ける",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 130,
+    "duration": 17,
+    "songName": "全然泳げない夜に駆ける",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "satodoge"
+   },
+   "stats": {
+    "upvotes": 34,
+    "downvotes": 2,
+    "score": 0.8751
+   },
+   "versions": [
+    {
+     "hash": "11f9b836f708fc83d90d0cf531428d170c8bc0e0",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/11f9b836f708fc83d90d0cf531428d170c8bc0e0.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/11f9b836f708fc83d90d0cf531428d170c8bc0e0.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/11f9b836f708fc83d90d0cf531428d170c8bc0e0.zip",
+     "diffs": [
+      {
+       "characteristic": "Lawless",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "261d1",
+   "name": "なんで寺院に機械があるんだよ！",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 160,
+    "duration": 15,
+    "songName": "Why is there a machine in the temple!",
+    "songSubName": "FFX",
+    "songAuthorName": "oto-wak",
+    "levelAuthorName": "こけくさ"
+   },
+   "stats": {
+    "upvotes": 8,
+    "downvotes": 3,
+    "score": 0.6575
+   },
+   "versions": [
+    {
+     "hash": "f76cf4952c516813f1c548201df2c8b979f9198b",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f76cf4952c516813f1c548201df2c8b979f9198b.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f76cf4952c516813f1c548201df2c8b979f9198b.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f76cf4952c516813f1c548201df2c8b979f9198b.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "29088",
+   "name": "夜明けの街に雨 feat.初音ミク - fuyume",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-08-20T10:36:59.472297Z",
+   "tags": [
+    "vocaloid",
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 141.861,
+    "duration": 207,
+    "songName": "夜明けの街に雨",
+    "songSubName": "feat. Miku",
+    "songAuthorName": "fuyume",
+    "levelAuthorName": "misterlihao"
+   },
+   "stats": {
+    "upvotes": 147,
+    "downvotes": 4,
+    "score": 0.9428
+   },
+   "versions": [
+    {
+     "hash": "a4420c0f5c81d4884d5b97f3e8ce8bdfec38e8b0",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/a4420c0f5c81d4884d5b97f3e8ce8bdfec38e8b0.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/a4420c0f5c81d4884d5b97f3e8ce8bdfec38e8b0.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/a4420c0f5c81d4884d5b97f3e8ce8bdfec38e8b0.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3d2a0",
+   "name": "夜明けのブルース",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 123,
+    "duration": 227,
+    "songName": "夜明けのブルース",
+    "songSubName": "",
+    "songAuthorName": "五木ひろし",
+    "levelAuthorName": "akawshi"
+   },
+   "stats": {
+    "upvotes": 10,
+    "downvotes": 1,
+    "score": 0.7835
+   },
+   "versions": [
+    {
+     "hash": "f8bc243079ad56e69468241d08906654b16720b2",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f8bc243079ad56e69468241d08906654b16720b2.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f8bc243079ad56e69468241d08906654b16720b2.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f8bc243079ad56e69468241d08906654b16720b2.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1d5c8",
+   "name": "夜に駆けるMRC rxzz0",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 130,
+    "duration": 118,
+    "songName": "夜に駆ける MRC",
+    "songSubName": "",
+    "songAuthorName": "Ayase/Yoasobi",
+    "levelAuthorName": "Zylinked"
+   },
+   "stats": {
+    "upvotes": 9,
+    "downvotes": 16,
+    "score": 0.3871
+   },
+   "versions": [
+    {
+     "hash": "9f2058ed3b1cd0f9c4d8464afb2f260f8db6f0bf",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/9f2058ed3b1cd0f9c4d8464afb2f260f8db6f0bf.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/9f2058ed3b1cd0f9c4d8464afb2f260f8db6f0bf.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/9f2058ed3b1cd0f9c4d8464afb2f260f8db6f0bf.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4dc77",
+   "name": "空にかける橋 (テイルズ オブ エターニア THE ANIMATION OP)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "anime",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 120,
+    "duration": 92,
+    "songName": "Sora ni Kakeru Hashi",
+    "songSubName": "(TV Size)",
+    "songAuthorName": "Masami Okui",
+    "levelAuthorName": "Lifinna"
+   },
+   "stats": {
+    "upvotes": 9,
+    "downvotes": 0,
+    "score": 0.8294
+   },
+   "versions": [
+    {
+     "hash": "d0e7c20bd52955f68da7cb0eafa24943e14c5298",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/d0e7c20bd52955f68da7cb0eafa24943e14c5298.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/d0e7c20bd52955f68da7cb0eafa24943e14c5298.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/d0e7c20bd52955f68da7cb0eafa24943e14c5298.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5133b",
+   "name": "夜明け生まれ来る少女 (灼眼のシャナ ED)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "anime",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 136,
+    "duration": 92,
+    "songName": "Yoake Umarekuru Shoujo",
+    "songSubName": "(TV Size)",
+    "songAuthorName": "Yoko Takahashi",
+    "levelAuthorName": "Lifinna"
+   },
+   "stats": {
+    "upvotes": 14,
+    "downvotes": 0,
+    "score": 0.8654
+   },
+   "versions": [
+    {
+     "hash": "eddc926203c4e9bab9222f93baa0af104d3536fc",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/eddc926203c4e9bab9222f93baa0af104d3536fc.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/eddc926203c4e9bab9222f93baa0af104d3536fc.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/eddc926203c4e9bab9222f93baa0af104d3536fc.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "49025",
+   "name": "天かける星 (amakakeru hoshi)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "anime"
+   ],
+   "metadata": {
+    "bpm": 220,
+    "duration": 95,
+    "songName": "Amakakeru Hoshi",
+    "songSubName": "Utawarerumono itsuwari no kamen",
+    "songAuthorName": "Suara",
+    "levelAuthorName": "pyokon"
+   },
+   "stats": {
+    "upvotes": 28,
+    "downvotes": 3,
+    "score": 0.8345
+   },
+   "versions": [
+    {
+     "hash": "c19aedff3cb0c59a335e035c2de1b7fec05f5b3a",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c19aedff3cb0c59a335e035c2de1b7fec05f5b3a.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c19aedff3cb0c59a335e035c2de1b7fec05f5b3a.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c19aedff3cb0c59a335e035c2de1b7fec05f5b3a.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5597e",
+   "name": "そして僕にできるコト",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 114,
+    "duration": 123,
+    "songName": "そして僕にできるコト",
+    "songSubName": "",
+    "songAuthorName": "day after tomorrow",
+    "levelAuthorName": "akawshi"
+   },
+   "stats": {
+    "upvotes": 13,
+    "downvotes": 0,
+    "score": 0.8598
+   },
+   "versions": [
+    {
+     "hash": "b6db0d1d992c8824287ff153b04fc6a6008b3a47",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/b6db0d1d992c8824287ff153b04fc6a6008b3a47.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/b6db0d1d992c8824287ff153b04fc6a6008b3a47.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/b6db0d1d992c8824287ff153b04fc6a6008b3a47.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "11661",
+   "name": "常夜燈",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 99,
+    "duration": 267,
+    "songName": "joyato",
+    "songSubName": "",
+    "songAuthorName": "PEOPLE 1",
+    "levelAuthorName": "kanahebi_255"
+   },
+   "stats": {
+    "upvotes": 25,
+    "downvotes": 0,
+    "score": 0.9032
+   },
+   "versions": [
+    {
+     "hash": "9ec72c462b3f12fcdbc3f210c3d05f2580637ebe",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/9ec72c462b3f12fcdbc3f210c3d05f2580637ebe.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/9ec72c462b3f12fcdbc3f210c3d05f2580637ebe.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/9ec72c462b3f12fcdbc3f210c3d05f2580637ebe.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1ee6b",
+   "name": "Epilogue - YOASOBI",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 164.09,
+    "duration": 55,
+    "songName": "Epilogue",
+    "songSubName": "",
+    "songAuthorName": "YOASOBI",
+    "levelAuthorName": "Peapo"
+   },
+   "stats": {
+    "upvotes": 13,
+    "downvotes": 1,
+    "score": 0.8132
+   },
+   "versions": [
+    {
+     "hash": "3592e2eeb4807f96dd5171861511135788415e60",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3592e2eeb4807f96dd5171861511135788415e60.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3592e2eeb4807f96dd5171861511135788415e60.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3592e2eeb4807f96dd5171861511135788415e60.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4fd5c",
+   "name": "進み続ける兎たち - RABBIT小隊",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "j-pop",
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 138,
+    "duration": 216,
+    "songName": "進み続ける兎たち",
+    "songSubName": "",
+    "songAuthorName": "RABBIT小隊",
+    "levelAuthorName": "Graneko_VR"
+   },
+   "stats": {
+    "upvotes": 38,
+    "downvotes": 2,
+    "score": 0.8841
+   },
+   "versions": [
+    {
+     "hash": "d9a10fe25ea32b5ad5645926ce834f7ea6662e05",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/d9a10fe25ea32b5ad5645926ce834f7ea6662e05.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/d9a10fe25ea32b5ad5645926ce834f7ea6662e05.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/d9a10fe25ea32b5ad5645926ce834f7ea6662e05.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4a997",
+   "name": "Lapis Lazuli / 泉伶 - 夜明け前より瑠璃色な -",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "video-game-soundtrack"
+   ],
+   "metadata": {
+    "bpm": 127,
+    "duration": 292,
+    "songName": "Lapis Lazuli",
+    "songSubName": "夜明け前より瑠璃色な イメージテーマ",
+    "songAuthorName": "泉伶",
+    "levelAuthorName": "MAC, katsu0dashi, Kazano_Sia"
+   },
+   "stats": {
+    "upvotes": 57,
+    "downvotes": 2,
+    "score": 0.9122
+   },
+   "versions": [
+    {
+     "hash": "c618c85acef7d999903cde74d5e56a3c7e752bff",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c618c85acef7d999903cde74d5e56a3c7e752bff.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c618c85acef7d999903cde74d5e56a3c7e752bff.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c618c85acef7d999903cde74d5e56a3c7e752bff.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "46a31",
+   "name": "JAM Project - THE HERO !!~怒れる拳に火をつけろ~(TV Size)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "challenge"
+   ],
+   "metadata": {
+    "bpm": 130,
+    "duration": 92,
+    "songName": "THE HERO !!",
+    "songSubName": "~怒れる拳に火をつけろ~(TV Size)",
+    "songAuthorName": "JAM Project",
+    "levelAuthorName": "aqtkmt"
+   },
+   "stats": {
+    "upvotes": 26,
+    "downvotes": 5,
+    "score": 0.7809
+   },
+   "versions": [
+    {
+     "hash": "8a58842a2712e2a73db69d95b70c3b0cae7c52f8",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8a58842a2712e2a73db69d95b70c3b0cae7c52f8.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8a58842a2712e2a73db69d95b70c3b0cae7c52f8.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8a58842a2712e2a73db69d95b70c3b0cae7c52f8.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4a60a",
+   "name": "噓じゃない - ずっと真夜中でいいのに",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "swing",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 150,
+    "duration": 257,
+    "songName": "Usojanai",
+    "songSubName": "",
+    "songAuthorName": "ZUTOMAYO",
+    "levelAuthorName": "ext"
+   },
+   "stats": {
+    "upvotes": 19,
+    "downvotes": 1,
+    "score": 0.8509
+   },
+   "versions": [
+    {
+     "hash": "ec25edc06c5186fc1f20726aeb217f9e21e26055",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/ec25edc06c5186fc1f20726aeb217f9e21e26055.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/ec25edc06c5186fc1f20726aeb217f9e21e26055.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/ec25edc06c5186fc1f20726aeb217f9e21e26055.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3783d",
+   "name": "Idol / YOASOBI - Murasaki Shion Cv.",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "tech",
+    "dance-style",
+    "j-pop",
+    "anime"
+   ],
+   "metadata": {
+    "bpm": 166,
+    "duration": 214,
+    "songName": "Idol",
+    "songSubName": "Murasaki Shion Cover",
+    "songAuthorName": "YOASOBI",
+    "levelAuthorName": "enduo"
+   },
+   "stats": {
+    "upvotes": 57,
+    "downvotes": 7,
+    "score": 0.8476
+   },
+   "versions": [
+    {
+     "hash": "0405051826ebcfd355cc68388a65edd29f0fc0ce",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/0405051826ebcfd355cc68388a65edd29f0fc0ce.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/0405051826ebcfd355cc68388a65edd29f0fc0ce.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/0405051826ebcfd355cc68388a65edd29f0fc0ce.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4ef93",
+   "name": "解けないように - KIHOW「東方ダンマクカグラ」",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 180,
+    "duration": 124,
+    "songName": "Hodokenaiyouni",
+    "songSubName": "",
+    "songAuthorName": "KIHOW",
+    "levelAuthorName": "ext"
+   },
+   "stats": {
+    "upvotes": 12,
+    "downvotes": 2,
+    "score": 0.761
+   },
+   "versions": [
+    {
+     "hash": "663e55caad2778a9dabf71962db3975e824b2e1c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/663e55caad2778a9dabf71962db3975e824b2e1c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/663e55caad2778a9dabf71962db3975e824b2e1c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/663e55caad2778a9dabf71962db3975e824b2e1c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "47281",
+   "name": "シェードの埃は延長 - ずっと真夜中でいいのに",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "swing",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 192,
+    "duration": 230,
+    "songName": "Shade no Hokori ha Encho",
+    "songSubName": "",
+    "songAuthorName": "ZUTOMAYO",
+    "levelAuthorName": "ext"
+   },
+   "stats": {
+    "upvotes": 19,
+    "downvotes": 0,
+    "score": 0.8866
+   },
+   "versions": [
+    {
+     "hash": "7ad5844087c3fc54c332b66d3849a08c92653c76",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7ad5844087c3fc54c332b66d3849a08c92653c76.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7ad5844087c3fc54c332b66d3849a08c92653c76.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7ad5844087c3fc54c332b66d3849a08c92653c76.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "454bd",
+   "name": "海馬成長痛 - ずっと真夜中でいいのに",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 140.015,
+    "duration": 191,
+    "songName": "KaibaSeichotuu",
+    "songSubName": "",
+    "songAuthorName": "ZUTOMAYO",
+    "levelAuthorName": "ext"
+   },
+   "stats": {
+    "upvotes": 26,
+    "downvotes": 2,
+    "score": 0.8509
+   },
+   "versions": [
+    {
+     "hash": "f60acd06c72a10cf0b84e76d0daf629b51c4be4f",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f60acd06c72a10cf0b84e76d0daf629b51c4be4f.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f60acd06c72a10cf0b84e76d0daf629b51c4be4f.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f60acd06c72a10cf0b84e76d0daf629b51c4be4f.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2a7cb",
+   "name": "おばけがイクゾー (Obake ga Ikuzo-)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "anime"
+   ],
+   "metadata": {
+    "bpm": 124,
+    "duration": 70,
+    "songName": "Obake ga IKZO",
+    "songSubName": "GeGeGe no Kitarou 3rd Series",
+    "songAuthorName": "Ikuzo Yoshi",
+    "levelAuthorName": "pyokon"
+   },
+   "stats": {
+    "upvotes": 44,
+    "downvotes": 1,
+    "score": 0.9126
+   },
+   "versions": [
+    {
+     "hash": "f6516c24fbdec21eb11f59df66de4c838a620b39",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f6516c24fbdec21eb11f59df66de4c838a620b39.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f6516c24fbdec21eb11f59df66de4c838a620b39.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f6516c24fbdec21eb11f59df66de4c838a620b39.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3a82f",
+   "name": "【JBSL】colorful / higma feat.ほとけ",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "accuracy"
+   ],
+   "metadata": {
+    "bpm": 182,
+    "duration": 143,
+    "songName": "colorful",
+    "songSubName": "feat.ほとけ",
+    "songAuthorName": "higma",
+    "levelAuthorName": "HicqLlie"
+   },
+   "stats": {
+    "upvotes": 114,
+    "downvotes": 1,
+    "score": 0.9536
+   },
+   "versions": [
+    {
+     "hash": "1b14345d66a795d383cd39aa4666acf04ab41222",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/1b14345d66a795d383cd39aa4666acf04ab41222.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/1b14345d66a795d383cd39aa4666acf04ab41222.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/1b14345d66a795d383cd39aa4666acf04ab41222.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "512d6",
+   "name": "今この胸に滾るのは(TV size) - ヒグチアイ 「スノウボールアース」",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "anime",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 184,
+    "duration": 119,
+    "songName": "Ima Konomuneni Tagirunoha",
+    "songSubName": "(TV size)",
+    "songAuthorName": "Higuchi Ai",
+    "levelAuthorName": "ext"
+   },
+   "stats": {
+    "upvotes": 12,
+    "downvotes": 0,
+    "score": 0.8535
+   },
+   "versions": [
+    {
+     "hash": "a4daa18e766d432e316dcaeeed931060d1083877",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/a4daa18e766d432e316dcaeeed931060d1083877.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/a4daa18e766d432e316dcaeeed931060d1083877.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/a4daa18e766d432e316dcaeeed931060d1083877.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "382ea",
+   "name": "Hoshi-iro Yozora  (星色夜空)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "accuracy"
+   ],
+   "metadata": {
+    "bpm": 124,
+    "duration": 269,
+    "songName": "Hoshi-iro Yozora ",
+    "songSubName": "",
+    "songAuthorName": "いえろ～ぜぶら, 電開製作所",
+    "levelAuthorName": "RUI"
+   },
+   "stats": {
+    "upvotes": 55,
+    "downvotes": 2,
+    "score": 0.91
+   },
+   "versions": [
+    {
+     "hash": "a05ce6e89e024753d310c4057c9b61c879138ec6",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/a05ce6e89e024753d310c4057c9b61c879138ec6.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/a05ce6e89e024753d310c4057c9b61c879138ec6.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/a05ce6e89e024753d310c4057c9b61c879138ec6.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "536af",
+   "name": "The Beach",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 136,
+    "duration": 157,
+    "songName": "The Beach",
+    "songSubName": "",
+    "songAuthorName": "hêlix",
+    "levelAuthorName": "昼夜通信抜い抜けてテレビですからデータ電話電話できでもてつつるふんふんにるふるちにるつ｢るふるぬるふぬるつるぬ"
+   },
+   "stats": {
+    "upvotes": 0,
+    "downvotes": 1,
+    "score": 0.3871
+   },
+   "versions": [
+    {
+     "hash": "c73b8f8fa8983936fc6f47828f8e02b47e7be27c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c73b8f8fa8983936fc6f47828f8e02b47e7be27c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c73b8f8fa8983936fc6f47828f8e02b47e7be27c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c73b8f8fa8983936fc6f47828f8e02b47e7be27c.zip",
+     "diffs": [
+      {
+       "characteristic": "OneSaber",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1303 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "ac2",
+   "name": "I Don't Know Why - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "alternative"
+   ],
+   "metadata": {
+    "bpm": 121,
+    "duration": 190,
+    "songName": "I Don't Know Why",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Imagine Dragons"
+   },
+   "stats": {
+    "upvotes": 149,
+    "downvotes": 17,
+    "score": 0.8733
+   },
+   "versions": [
+    {
+     "hash": "61b8064cffeddea23dd5cf1a2c6ab4718173eadd",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/61b8064cffeddea23dd5cf1a2c6ab4718173eadd.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/61b8064cffeddea23dd5cf1a2c6ab4718173eadd.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/61b8064cffeddea23dd5cf1a2c6ab4718173eadd.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3092",
+   "name": "Bad Liar - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 89,
+    "duration": 261,
+    "songName": "Bad Liar",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Imagine Dragons"
+   },
+   "stats": {
+    "upvotes": 346,
+    "downvotes": 55,
+    "score": 0.8501
+   },
+   "versions": [
+    {
+     "hash": "95e2f736fac5236b29ed9e9fe01bd66a7328e29d",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/95e2f736fac5236b29ed9e9fe01bd66a7328e29d.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/95e2f736fac5236b29ed9e9fe01bd66a7328e29d.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/95e2f736fac5236b29ed9e9fe01bd66a7328e29d.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c63",
+   "name": "Imagine Dragons - Believer (Kid Comet Remix) Finished (Expert)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 135,
+    "duration": 199,
+    "songName": "Believer (Kid Comet Remix)",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Imagine Dragons"
+   },
+   "stats": {
+    "upvotes": 67,
+    "downvotes": 27,
+    "score": 0.6943
+   },
+   "versions": [
+    {
+     "hash": "b97252f3004a740bcbd574156a4f561370aa0d9c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/b97252f3004a740bcbd574156a4f561370aa0d9c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/b97252f3004a740bcbd574156a4f561370aa0d9c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/b97252f3004a740bcbd574156a4f561370aa0d9c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1d4c",
+   "name": "Machine - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 81,
+    "duration": 181,
+    "songName": "Machine",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Imagine Dragons"
+   },
+   "stats": {
+    "upvotes": 221,
+    "downvotes": 57,
+    "score": 0.7819
+   },
+   "versions": [
+    {
+     "hash": "0b68d78613b6c98146e71e31dd6df79a78773dc6",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/0b68d78613b6c98146e71e31dd6df79a78773dc6.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/0b68d78613b6c98146e71e31dd6df79a78773dc6.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/0b68d78613b6c98146e71e31dd6df79a78773dc6.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "221c",
+   "name": "Zero-Ralph Breaks the Internet Theme Song",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "alternative",
+    "tv-movie-soundtrack",
+    "indie"
+   ],
+   "metadata": {
+    "bpm": 90,
+    "duration": 211,
+    "songName": "Zero",
+    "songSubName": "",
+    "songAuthorName": "Ralph Breaks the Internet",
+    "levelAuthorName": "imagine dragons"
+   },
+   "stats": {
+    "upvotes": 94,
+    "downvotes": 25,
+    "score": 0.7681
+   },
+   "versions": [
+    {
+     "hash": "7b7da6000c866919479e430e53966bd378c4c9ad",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7b7da6000c866919479e430e53966bd378c4c9ad.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7b7da6000c866919479e430e53966bd378c4c9ad.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7b7da6000c866919479e430e53966bd378c4c9ad.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "133f",
+   "name": "Imagine Dragons - Rise Up",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop",
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 103,
+    "duration": 231,
+    "songName": "Rise Up",
+    "songSubName": "",
+    "songAuthorName": "Mack",
+    "levelAuthorName": "Imagine Dragons"
+   },
+   "stats": {
+    "upvotes": 141,
+    "downvotes": 52,
+    "score": 0.7178
+   },
+   "versions": [
+    {
+     "hash": "b5e877169efefc9f173738fe29e5e49183a6a935",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/b5e877169efefc9f173738fe29e5e49183a6a935.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/b5e877169efefc9f173738fe29e5e49183a6a935.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/b5e877169efefc9f173738fe29e5e49183a6a935.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "445e",
+   "name": "Imagine Dragons - Warriors (First Map)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 156,
+    "duration": 170,
+    "songName": "Warriors",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Imagine Dragons"
+   },
+   "stats": {
+    "upvotes": 284,
+    "downvotes": 112,
+    "score": 0.7095
+   },
+   "versions": [
+    {
+     "hash": "fa0116c63adc2ba67723503877eaf14594ca3b33",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/fa0116c63adc2ba67723503877eaf14594ca3b33.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/fa0116c63adc2ba67723503877eaf14594ca3b33.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/fa0116c63adc2ba67723503877eaf14594ca3b33.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fd8",
+   "name": "Imagine Dragons - Gold",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "alternative"
+   ],
+   "metadata": {
+    "bpm": 165,
+    "duration": 217,
+    "songName": "Gold",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Imagine Dragons"
+   },
+   "stats": {
+    "upvotes": 201,
+    "downvotes": 82,
+    "score": 0.701
+   },
+   "versions": [
+    {
+     "hash": "ce09a318c2b29d8aea3dff3df0484e900fba8304",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/ce09a318c2b29d8aea3dff3df0484e900fba8304.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/ce09a318c2b29d8aea3dff3df0484e900fba8304.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/ce09a318c2b29d8aea3dff3df0484e900fba8304.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "name": "Thunder - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 168,
+    "duration": 190,
+    "songName": "Thunder",
+    "songSubName": "",
+    "songAuthorName": "(Maikyy Beatmap)",
+    "levelAuthorName": "Imagine Dragons"
+   },
+   "stats": {
+    "upvotes": 1168,
+    "downvotes": 702,
+    "score": 0.6229
+   },
+   "versions": [
+    {
+     "hash": "f2c56d4ea62d31d04982db9a9e46199716a0dcfc",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f2c56d4ea62d31d04982db9a9e46199716a0dcfc.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f2c56d4ea62d31d04982db9a9e46199716a0dcfc.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f2c56d4ea62d31d04982db9a9e46199716a0dcfc.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "name": "Imagine Dragons - Believer",
+   "automapper": false,
+   "ranked": true,
+   "blRanked": true,
+   "curatedAt": "2018-05-08T18:56:36Z",
+   "tags": [
+    "pop",
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 125,
+    "duration": 205,
+    "songName": "Believer",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Rustic"
+   },
+   "stats": {
+    "upvotes": 14389,
+    "downvotes": 764,
+    "score": 0.948
+   },
+   "versions": [
+    {
+     "hash": "19f2879d11a91b51a5c090d63471c3e8d9b7aee3",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/19f2879d11a91b51a5c090d63471c3e8d9b7aee3.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/19f2879d11a91b51a5c090d63471c3e8d9b7aee3.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/19f2879d11a91b51a5c090d63471c3e8d9b7aee3.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3e556",
+   "name": "[Fitbeat] Imagine Dragons - Believer",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-07-12T22:48:57.426238Z",
+   "tags": [
+    "fitness",
+    "pop",
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 125,
+    "duration": 206,
+    "songName": "Believer",
+    "songSubName": "[Fitbeat]",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "meoaww"
+   },
+   "stats": {
+    "upvotes": 155,
+    "downvotes": 11,
+    "score": 0.9072
+   },
+   "versions": [
+    {
+     "hash": "99e25ced26759f0d4d48af5393fe0c8a038c131c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/99e25ced26759f0d4d48af5393fe0c8a038c131c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/99e25ced26759f0d4d48af5393fe0c8a038c131c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/99e25ced26759f0d4d48af5393fe0c8a038c131c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3a526",
+   "name": "[Chroma+] Believer - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-03-16T22:39:13.690792Z",
+   "tags": [
+    "pop",
+    "balanced",
+    "poodle"
+   ],
+   "metadata": {
+    "bpm": 125,
+    "duration": 205,
+    "songName": "Believer",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "MadChase"
+   },
+   "stats": {
+    "upvotes": 175,
+    "downvotes": 29,
+    "score": 0.8386
+   },
+   "versions": [
+    {
+     "hash": "0fb97f5a533a4be92f0c173ba38ee9182b3f4e47",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/0fb97f5a533a4be92f0c173ba38ee9182b3f4e47.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/0fb97f5a533a4be92f0c173ba38ee9182b3f4e47.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/0fb97f5a533a4be92f0c173ba38ee9182b3f4e47.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1fef",
+   "name": "Imagine Dragons - Believer (100k ver.) | 100k Contest",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2018-11-12T17:53:58Z",
+   "tags": [
+    "pop",
+    "alternative"
+   ],
+   "metadata": {
+    "bpm": 125,
+    "duration": 205,
+    "songName": "Believer (100k ver.)",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Rustic"
+   },
+   "stats": {
+    "upvotes": 28648,
+    "downvotes": 819,
+    "score": 0.9711
+   },
+   "versions": [
+    {
+     "hash": "9a7a5beadfdd1c7c0f137ecba6e5f6ff377eb390",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/9a7a5beadfdd1c7c0f137ecba6e5f6ff377eb390.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/9a7a5beadfdd1c7c0f137ecba6e5f6ff377eb390.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/9a7a5beadfdd1c7c0f137ecba6e5f6ff377eb390.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "854e",
+   "name": "Nightcore - Believer [Cover by Chase Holfelder] - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-02-08T16:08:08.101Z",
+   "metadata": {
+    "bpm": 146.804,
+    "duration": 179,
+    "songName": "Nightcore - Believer ",
+    "songSubName": "Cover by Chase Holfelder",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Rigid"
+   },
+   "stats": {
+    "upvotes": 417,
+    "downvotes": 13,
+    "score": 0.954
+   },
+   "versions": [
+    {
+     "hash": "c1364bf8a97eaa8d9bc758192458f77d7f773c22",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c1364bf8a97eaa8d9bc758192458f77d7f773c22.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c1364bf8a97eaa8d9bc758192458f77d7f773c22.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c1364bf8a97eaa8d9bc758192458f77d7f773c22.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "47988",
+   "name": "Believer - Imagine Dragons A",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "dance-style",
+    "rock",
+    "dance"
+   ],
+   "metadata": {
+    "bpm": 125,
+    "duration": 206,
+    "songName": "believer A",
+    "songSubName": "",
+    "songAuthorName": "imagine dragons",
+    "levelAuthorName": "agomism"
+   },
+   "stats": {
+    "upvotes": 1,
+    "downvotes": 0,
+    "score": 0.6129
+   },
+   "versions": [
+    {
+     "hash": "dcf884ce91e1f9f54f9813b96642b567bcdde439",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/dcf884ce91e1f9f54f9813b96642b567bcdde439.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/dcf884ce91e1f9f54f9813b96642b567bcdde439.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/dcf884ce91e1f9f54f9813b96642b567bcdde439.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "272cd",
+   "name": "Sharks - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-06-27T18:51:50.810198Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "alternative",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 124,
+    "duration": 193,
+    "songName": "Sharks",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Lekrkoekj & Faded 99"
+   },
+   "stats": {
+    "upvotes": 1585,
+    "downvotes": 67,
+    "score": 0.9528
+   },
+   "versions": [
+    {
+     "hash": "86884c3db5a0c4269e906879db29052f11faaa21",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/86884c3db5a0c4269e906879db29052f11faaa21.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/86884c3db5a0c4269e906879db29052f11faaa21.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/86884c3db5a0c4269e906879db29052f11faaa21.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2c9d7",
+   "name": "Imagine Dragons - Bones",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": true,
+   "curatedAt": "2022-12-04T01:13:47.741690Z",
+   "tags": [
+    "accuracy",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 114,
+    "duration": 164,
+    "songName": "Bones",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Taddus"
+   },
+   "stats": {
+    "upvotes": 1843,
+    "downvotes": 60,
+    "score": 0.9623
+   },
+   "versions": [
+    {
+     "hash": "7ca38587a821f01e6ab838286a842b911bb07b25",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7ca38587a821f01e6ab838286a842b911bb07b25.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7ca38587a821f01e6ab838286a842b911bb07b25.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7ca38587a821f01e6ab838286a842b911bb07b25.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "22ee8",
+   "name": "Bones - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-03-13T16:02:07.833976Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "alternative",
+    "indie"
+   ],
+   "metadata": {
+    "bpm": 114,
+    "duration": 165,
+    "songName": "Bones",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Faded 99"
+   },
+   "stats": {
+    "upvotes": 3288,
+    "downvotes": 134,
+    "score": 0.9566
+   },
+   "versions": [
+    {
+     "hash": "9e06817f5f2a9c1b6e163b11ddd1e1fe9d840c94",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/9e06817f5f2a9c1b6e163b11ddd1e1fe9d840c94.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/9e06817f5f2a9c1b6e163b11ddd1e1fe9d840c94.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/9e06817f5f2a9c1b6e163b11ddd1e1fe9d840c94.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9539",
+   "name": "Imagine Cats - Believer ",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-03-30T00:06:50.774Z",
+   "metadata": {
+    "bpm": 125,
+    "duration": 118,
+    "songName": "Believer",
+    "songSubName": "Moew Moew style",
+    "songAuthorName": "Imagine cats",
+    "levelAuthorName": "thelitlewiseowl (lights by DeleteElDiablo)"
+   },
+   "stats": {
+    "upvotes": 312,
+    "downvotes": 53,
+    "score": 0.8416
+   },
+   "versions": [
+    {
+     "hash": "1dd1fb68ad288fca76375a20985630eed971d26a",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/1dd1fb68ad288fca76375a20985630eed971d26a.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/1dd1fb68ad288fca76375a20985630eed971d26a.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/1dd1fb68ad288fca76375a20985630eed971d26a.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "500d",
+   "name": "Thunder - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2019-05-31T04:43:45Z",
+   "tags": [
+    "pop",
+    "rock",
+    "alternative"
+   ],
+   "metadata": {
+    "bpm": 168,
+    "duration": 180,
+    "songName": "Thunder",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Skyler Wallace"
+   },
+   "stats": {
+    "upvotes": 5227,
+    "downvotes": 250,
+    "score": 0.9513
+   },
+   "versions": [
+    {
+     "hash": "1374613734d2d110f06783c7b7c32579e7a2808f",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/1374613734d2d110f06783c7b7c32579e7a2808f.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/1374613734d2d110f06783c7b7c32579e7a2808f.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/1374613734d2d110f06783c7b7c32579e7a2808f.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "23eba",
+   "name": "Imagine Dragons - Natural",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-04-04T21:27:37.071450Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "alternative",
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 200,
+    "duration": 194,
+    "songName": "Natural",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "JRE_McNuggies"
+   },
+   "stats": {
+    "upvotes": 509,
+    "downvotes": 28,
+    "score": 0.9347
+   },
+   "versions": [
+    {
+     "hash": "6f51a1858e83a64a264a36c8ac6e49e0e2559b64",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/6f51a1858e83a64a264a36c8ac6e49e0e2559b64.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/6f51a1858e83a64a264a36c8ac6e49e0e2559b64.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/6f51a1858e83a64a264a36c8ac6e49e0e2559b64.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "35725",
+   "name": "Demons - Imagine Dragons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2023-09-12T16:03:55.012303Z",
+   "tags": [
+    "pop",
+    "rock",
+    "poodle"
+   ],
+   "metadata": {
+    "bpm": 180.024,
+    "duration": 177,
+    "songName": "Demons",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "RateGyro"
+   },
+   "stats": {
+    "upvotes": 419,
+    "downvotes": 16,
+    "score": 0.9477
+   },
+   "versions": [
+    {
+     "hash": "ec22b67ce1cd518afc38898a0b6c1ed982795986",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/ec22b67ce1cd518afc38898a0b6c1ed982795986.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/ec22b67ce1cd518afc38898a0b6c1ed982795986.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/ec22b67ce1cd518afc38898a0b6c1ed982795986.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1187a",
+   "name": "Imagine Dragons - Natural",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 100,
+    "duration": 188,
+    "songName": "Natural",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Z-ANESaber"
+   },
+   "stats": {
+    "upvotes": 722,
+    "downvotes": 41,
+    "score": 0.9358
+   },
+   "versions": [
+    {
+     "hash": "6179b4be734b39ce7a5d6f72b64e1e623553791f",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/6179b4be734b39ce7a5d6f72b64e1e623553791f.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/6179b4be734b39ce7a5d6f72b64e1e623553791f.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/6179b4be734b39ce7a5d6f72b64e1e623553791f.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "284dd",
+   "name": "Younger - Imagine Dragons ",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-08-01T19:18:52.904080Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "alternative",
+    "indie"
+   ],
+   "metadata": {
+    "bpm": 111,
+    "duration": 192,
+    "songName": "Younger",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Faded 99"
+   },
+   "stats": {
+    "upvotes": 128,
+    "downvotes": 6,
+    "score": 0.9235
+   },
+   "versions": [
+    {
+     "hash": "7a0e088999edd079d9d0203a0513b6e4210bc6e7",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7a0e088999edd079d9d0203a0513b6e4210bc6e7.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7a0e088999edd079d9d0203a0513b6e4210bc6e7.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7a0e088999edd079d9d0203a0513b6e4210bc6e7.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26bfe",
+   "name": "Imagine Dragons - Bones",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 114,
+    "duration": 165,
+    "songName": "Bones",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Mario101"
+   },
+   "stats": {
+    "upvotes": 226,
+    "downvotes": 10,
+    "score": 0.9352
+   },
+   "versions": [
+    {
+     "hash": "fb95909211a0e5d766283f373ced6fb149fb4d5f",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/fb95909211a0e5d766283f373ced6fb149fb4d5f.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/fb95909211a0e5d766283f373ced6fb149fb4d5f.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/fb95909211a0e5d766283f373ced6fb149fb4d5f.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "390a2",
+   "name": "Imagine Dragons - Sharks",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "dance-style",
+    "accuracy"
+   ],
+   "metadata": {
+    "bpm": 124,
+    "duration": 194,
+    "songName": "Sharks",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "oegoe & Xenothas"
+   },
+   "stats": {
+    "upvotes": 149,
+    "downvotes": 6,
+    "score": 0.9319
+   },
+   "versions": [
+    {
+     "hash": "01f1a0b78d5263fb0b98ea3de8835aa149bc6a88",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/01f1a0b78d5263fb0b98ea3de8835aa149bc6a88.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/01f1a0b78d5263fb0b98ea3de8835aa149bc6a88.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/01f1a0b78d5263fb0b98ea3de8835aa149bc6a88.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7cda",
+   "name": "Imagine Dragons - Demons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-01-07T00:55:16.787Z",
+   "tags": [
+    "rock",
+    "alternative",
+    "indie"
+   ],
+   "metadata": {
+    "bpm": 90,
+    "duration": 176,
+    "songName": "Demons",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "officialMECH"
+   },
+   "stats": {
+    "upvotes": 2315,
+    "downvotes": 176,
+    "score": 0.9246
+   },
+   "versions": [
+    {
+     "hash": "52dc93053fcbbbaf0c23ac2b232609d1c66fb1f3",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/52dc93053fcbbbaf0c23ac2b232609d1c66fb1f3.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/52dc93053fcbbbaf0c23ac2b232609d1c66fb1f3.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/52dc93053fcbbbaf0c23ac2b232609d1c66fb1f3.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Legacy",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Legacy",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Legacy",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Legacy",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Legacy",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2aaf4",
+   "name": "Imagine Dragons - Bones",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-10-10T20:30:09.209094Z",
+   "tags": [
+    "dance-style",
+    "alternative",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 114,
+    "duration": 165,
+    "songName": "Bones",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "FireStrike"
+   },
+   "stats": {
+    "upvotes": 200,
+    "downvotes": 10,
+    "score": 0.9285
+   },
+   "versions": [
+    {
+     "hash": "457bd824ddc72ec8a2adf6753b6da6d5a13d863c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/457bd824ddc72ec8a2adf6753b6da6d5a13d863c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/457bd824ddc72ec8a2adf6753b6da6d5a13d863c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/457bd824ddc72ec8a2adf6753b6da6d5a13d863c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b58",
+   "name": "Imagine Dragons - Natural",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "alternative"
+   ],
+   "metadata": {
+    "bpm": 100,
+    "duration": 193,
+    "songName": "Natural",
+    "songSubName": "",
+    "songAuthorName": "Imagine Dragons",
+    "levelAuthorName": "Cranberry"
+   },
+   "stats": {
+    "upvotes": 791,
+    "downvotes": 62,
+    "score": 0.918
+   },
+   "versions": [
+    {
+     "hash": "e7fc0093ac2d4d06a58e83ba77c1e9d2a6176b5a",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/e7fc0093ac2d4d06a58e83ba77c1e9d2a6176b5a.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/e7fc0093ac2d4d06a58e83ba77c1e9d2a6176b5a.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/e7fc0093ac2d4d06a58e83ba77c1e9d2a6176b5a.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "47989",
+   "name": "Believer - Imagine Dragons B",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "dance-style",
+    "rock",
+    "dance"
+   ],
+   "metadata": {
+    "bpm": 125,
+    "duration": 206,
+    "songName": "BELIEVER B",
+    "songSubName": "",
+    "songAuthorName": "IMAGINE DRAGONS",
+    "levelAuthorName": "agomism"
+   },
+   "stats": {
+    "upvotes": 1,
+    "downvotes": 0,
+    "score": 0.6129
+   },
+   "versions": [
+    {
+     "hash": "3c44ae4b9455110fff9f9b01bc2eb1d646d0743b",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3c44ae4b9455110fff9f9b01bc2eb1d646d0743b.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3c44ae4b9455110fff9f9b01bc2eb1d646d0743b.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3c44ae4b9455110fff9f9b01bc2eb1d646d0743b.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

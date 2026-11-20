@@ -1,0 +1,455 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "8221",
+   "name": "Malamente - Rosalia",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 98,
+    "duration": 156,
+    "songName": "Malamente",
+    "songSubName": "Cap.1_ Augurio",
+    "songAuthorName": "Rosalia",
+    "levelAuthorName": "StartledUnicorn"
+   },
+   "stats": {
+    "upvotes": 37,
+    "downvotes": 15,
+    "score": 0.6851
+   },
+   "versions": [
+    {
+     "hash": "c23931b174def585627ed675e36122e2f3c5d2ef",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c23931b174def585627ed675e36122e2f3c5d2ef.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c23931b174def585627ed675e36122e2f3c5d2ef.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c23931b174def585627ed675e36122e2f3c5d2ef.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "322ef",
+   "name": "Rosalía - Chicken Teryaki",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2023-05-09T22:19:44.994326Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "rb",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 196,
+    "duration": 123,
+    "songName": "Chicken Teryaki",
+    "songSubName": "",
+    "songAuthorName": "Rosalía ",
+    "levelAuthorName": "realCoda & DeeDee"
+   },
+   "stats": {
+    "upvotes": 142,
+    "downvotes": 6,
+    "score": 0.9293
+   },
+   "versions": [
+    {
+     "hash": "ac975a56bf9af936fe1a512c3c3637999e83af7e",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/ac975a56bf9af936fe1a512c3c3637999e83af7e.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/ac975a56bf9af936fe1a512c3c3637999e83af7e.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/ac975a56bf9af936fe1a512c3c3637999e83af7e.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "314a8",
+   "name": "ROSALÍA - HENTAI",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 190,
+    "duration": 168,
+    "songName": "HENTAI",
+    "songSubName": "",
+    "songAuthorName": "ROSALÍA",
+    "levelAuthorName": "Groovy"
+   },
+   "stats": {
+    "upvotes": 18,
+    "downvotes": 3,
+    "score": 0.7807
+   },
+   "versions": [
+    {
+     "hash": "361335ae22d7cfdcc721cbd33841f2f0a3e78a5a",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/361335ae22d7cfdcc721cbd33841f2f0a3e78a5a.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/361335ae22d7cfdcc721cbd33841f2f0a3e78a5a.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/361335ae22d7cfdcc721cbd33841f2f0a3e78a5a.zip",
+     "diffs": [
+      {
+       "characteristic": "Lawless",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26f66",
+   "name": "ROSALÍA - CUUUUuuuuuute",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "speed",
+    "tech"
+   ],
+   "metadata": {
+    "bpm": 140,
+    "duration": 153,
+    "songName": "CUUUUuuuuuute",
+    "songSubName": "",
+    "songAuthorName": "ROSALÍA",
+    "levelAuthorName": "Groovy"
+   },
+   "stats": {
+    "upvotes": 15,
+    "downvotes": 3,
+    "score": 0.7554
+   },
+   "versions": [
+    {
+     "hash": "6eaf731b4e34a066ba684e06e9eecb2ea835e173",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/6eaf731b4e34a066ba684e06e9eecb2ea835e173.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/6eaf731b4e34a066ba684e06e9eecb2ea835e173.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/6eaf731b4e34a066ba684e06e9eecb2ea835e173.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "20a51",
+   "name": "ROSALÍA - Aute Cuture",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 100.01,
+    "duration": 150,
+    "songName": "Aute Cuture",
+    "songSubName": "",
+    "songAuthorName": "ROSALÍA",
+    "levelAuthorName": "Syntheseizure"
+   },
+   "stats": {
+    "upvotes": 7,
+    "downvotes": 0,
+    "score": 0.8064
+   },
+   "versions": [
+    {
+     "hash": "023f6e04ff12c0146db252c469b98d7576797ebf",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/023f6e04ff12c0146db252c469b98d7576797ebf.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/023f6e04ff12c0146db252c469b98d7576797ebf.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/023f6e04ff12c0146db252c469b98d7576797ebf.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3fde9",
+   "name": "LISA - NEW WOMAN feat. ROSALÍA",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-09-10T17:12:18.116204Z",
+   "tags": [
+    "k-pop",
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 107,
+    "duration": 182,
+    "songName": "New Woman",
+    "songSubName": "(feat. ROSALÍA)",
+    "songAuthorName": "LISA, ROSALÍA",
+    "levelAuthorName": "minsiii"
+   },
+   "stats": {
+    "upvotes": 121,
+    "downvotes": 6,
+    "score": 0.9201
+   },
+   "versions": [
+    {
+     "hash": "f9f173367ccf1c7f558005b07eaab2978da94b8e",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f9f173367ccf1c7f558005b07eaab2978da94b8e.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f9f173367ccf1c7f558005b07eaab2978da94b8e.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f9f173367ccf1c7f558005b07eaab2978da94b8e.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2200f",
+   "name": "J. Balvin & Rosalía - Brillo",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "tech"
+   ],
+   "metadata": {
+    "bpm": 146,
+    "duration": 161,
+    "songName": "Brillo",
+    "songSubName": "Ft. ROSALÍA",
+    "songAuthorName": "J. Balvin",
+    "levelAuthorName": "Groovy"
+   },
+   "stats": {
+    "upvotes": 51,
+    "downvotes": 8,
+    "score": 0.8222
+   },
+   "versions": [
+    {
+     "hash": "94acfc19a300701fa19c39c0b81e59b8b33346c3",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/94acfc19a300701fa19c39c0b81e59b8b33346c3.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/94acfc19a300701fa19c39c0b81e59b8b33346c3.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/94acfc19a300701fa19c39c0b81e59b8b33346c3.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3f838",
+   "name": "LISA, ROSALÍA - New Woman (feat. ROSALÍA) MV",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "k-pop"
+   ],
+   "metadata": {
+    "bpm": 175,
+    "duration": 145,
+    "songName": "New Woman",
+    "songSubName": "feat. Rosalía",
+    "songAuthorName": "LISA",
+    "levelAuthorName": "JoLa"
+   },
+   "stats": {
+    "upvotes": 5,
+    "downvotes": 1,
+    "score": 0.6943
+   },
+   "versions": [
+    {
+     "hash": "3bc8c3c98eb77dabd1b10967ae6a856c19575344",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3bc8c3c98eb77dabd1b10967ae6a856c19575344.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3bc8c3c98eb77dabd1b10967ae6a856c19575344.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3bc8c3c98eb77dabd1b10967ae6a856c19575344.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "29139",
+   "name": "ROSALÍA - BIZCOCHITO",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop",
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 117,
+    "duration": 111,
+    "songName": "BIZCOCHITO",
+    "songSubName": "",
+    "songAuthorName": "ROSALÍA",
+    "levelAuthorName": "Groovy"
+   },
+   "stats": {
+    "upvotes": 17,
+    "downvotes": 10,
+    "score": 0.6056
+   },
+   "versions": [
+    {
+     "hash": "fea42c8d977643754aca1d46b185b23dbbed23fb",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/fea42c8d977643754aca1d46b185b23dbbed23fb.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/fea42c8d977643754aca1d46b185b23dbbed23fb.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/fea42c8d977643754aca1d46b185b23dbbed23fb.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2327f",
+   "name": "ROSALÍA - LA FAMA ft. The Weeknd",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 136,
+    "duration": 187,
+    "songName": "La Fama",
+    "songSubName": "",
+    "songAuthorName": "ROSALIA ft. The Weeknd",
+    "levelAuthorName": "yB3asT"
+   },
+   "stats": {
+    "upvotes": 25,
+    "downvotes": 2,
+    "score": 0.8471
+   },
+   "versions": [
+    {
+     "hash": "765c319856c5be29e30c83cde8f10a01fef378a0",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/765c319856c5be29e30c83cde8f10a01fef378a0.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/765c319856c5be29e30c83cde8f10a01fef378a0.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/765c319856c5be29e30c83cde8f10a01fef378a0.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3b2b3",
+   "name": "Björk & ROSALÍA - Oral",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "challenge",
+    "dance-style",
+    "electronic",
+    "pop"
+   ],
+   "metadata": {
+    "bpm": 172,
+    "duration": 224,
+    "songName": "Oral",
+    "songSubName": "",
+    "songAuthorName": "Björk & ROSALÍA",
+    "levelAuthorName": "Pickles McGoo"
+   },
+   "stats": {
+    "upvotes": 1,
+    "downvotes": 3,
+    "score": 0.375
+   },
+   "versions": [
+    {
+     "hash": "f97e98759fb23bb44582bcf04b823455502124b2",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f97e98759fb23bb44582bcf04b823455502124b2.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f97e98759fb23bb44582bcf04b823455502124b2.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f97e98759fb23bb44582bcf04b823455502124b2.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

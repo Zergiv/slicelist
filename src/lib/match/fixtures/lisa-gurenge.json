@@ -1,0 +1,193 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "19cc3",
+   "name": "LiSA - Gurenge/紅蓮華 - Covered by Shishigami Leona",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "anime",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 135,
+    "duration": 99,
+    "songName": "Gurenge/紅蓮華",
+    "songSubName": "Covered by Shishigami Leona",
+    "songAuthorName": "LiSA",
+    "levelAuthorName": "Fefy"
+   },
+   "stats": {
+    "upvotes": 127,
+    "downvotes": 17,
+    "score": 0.8565
+   },
+   "versions": [
+    {
+     "hash": "1dcd9a8d76932fc0792d629cfe5c85572e558dd8",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/1dcd9a8d76932fc0792d629cfe5c85572e558dd8.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/1dcd9a8d76932fc0792d629cfe5c85572e558dd8.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/1dcd9a8d76932fc0792d629cfe5c85572e558dd8.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3a78a",
+   "name": "[JBSL応募譜面] 情念歌謡 - 紅蓮の焔  ~原題紅蓮心中~",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "j-pop",
+    "balanced",
+    "video-game-soundtrack"
+   ],
+   "metadata": {
+    "bpm": 155,
+    "duration": 187,
+    "songName": "Guren no Honoo",
+    "songSubName": "~Gendai Guren Shinju~",
+    "songAuthorName": "Gekidan Records feat. Sana",
+    "levelAuthorName": "RUI"
+   },
+   "stats": {
+    "upvotes": 74,
+    "downvotes": 5,
+    "score": 0.8944
+   },
+   "versions": [
+    {
+     "hash": "8b58b2f548743d8bfee9e86ceac7de745d2b69d9",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8b58b2f548743d8bfee9e86ceac7de745d2b69d9.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8b58b2f548743d8bfee9e86ceac7de745d2b69d9.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8b58b2f548743d8bfee9e86ceac7de745d2b69d9.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "41802",
+   "name": "Yuuhei Satellite - The Flower of Love Dyed in Red (紅に染まる恋の花)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2025-02-16T22:59:51.396430Z",
+   "tags": [
+    "tech",
+    "dance-style",
+    "j-pop"
+   ],
+   "metadata": {
+    "bpm": 140,
+    "duration": 251,
+    "songName": "The Flower of Love Dyed in Red",
+    "songSubName": "",
+    "songAuthorName": "Yuuhei Satellite",
+    "levelAuthorName": "RUI"
+   },
+   "stats": {
+    "upvotes": 160,
+    "downvotes": 2,
+    "score": 0.9574
+   },
+   "versions": [
+    {
+     "hash": "904fc93e7918ce06ea9fe07927fbdce97e6e0d30",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/904fc93e7918ce06ea9fe07927fbdce97e6e0d30.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/904fc93e7918ce06ea9fe07927fbdce97e6e0d30.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/904fc93e7918ce06ea9fe07927fbdce97e6e0d30.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26de1",
+   "name": "Humans is good not arrow of Crimson",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 181.11,
+    "duration": 75,
+    "songName": "Humans is good? not arrow of Crimson",
+    "songSubName": "",
+    "songAuthorName": "KYS douga kenkyujo",
+    "levelAuthorName": "Haseri"
+   },
+   "stats": {
+    "upvotes": 71,
+    "downvotes": 1,
+    "score": 0.9363
+   },
+   "versions": [
+    {
+     "hash": "cf1e20653b591c5f404786f57bb1d65d4325e6d8",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/cf1e20653b591c5f404786f57bb1d65d4325e6d8.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/cf1e20653b591c5f404786f57bb1d65d4325e6d8.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/cf1e20653b591c5f404786f57bb1d65d4325e6d8.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

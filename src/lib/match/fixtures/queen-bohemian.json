@@ -1,0 +1,398 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "37db",
+   "name": "Ay-Oh! (Bohemian Rhapsody)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 91,
+    "duration": 45,
+    "songName": "Ay-Oh!",
+    "songSubName": "",
+    "songAuthorName": "Bohemian Rhapsody",
+    "levelAuthorName": "Queen"
+   },
+   "stats": {
+    "upvotes": 41,
+    "downvotes": 24,
+    "score": 0.6165
+   },
+   "versions": [
+    {
+     "hash": "8276110a66b8dce9b7438c97a7ca62c8bd3ddd1e",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8276110a66b8dce9b7438c97a7ca62c8bd3ddd1e.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8276110a66b8dce9b7438c97a7ca62c8bd3ddd1e.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8276110a66b8dce9b7438c97a7ca62c8bd3ddd1e.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d0be",
+   "name": "Bohemian Rhapsody - Queen",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-08-07T20:00:07.052Z",
+   "metadata": {
+    "bpm": 120,
+    "duration": 356,
+    "songName": "Bohemian Rhapsody",
+    "songSubName": "- Queen",
+    "songAuthorName": "Queen",
+    "levelAuthorName": "Jokidum"
+   },
+   "stats": {
+    "upvotes": 4201,
+    "downvotes": 172,
+    "score": 0.9571
+   },
+   "versions": [
+    {
+     "hash": "d19b4abf7d83d2882a5bf1f2bdc3b03491ef3eaf",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/d19b4abf7d83d2882a5bf1f2bdc3b03491ef3eaf.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/d19b4abf7d83d2882a5bf1f2bdc3b03491ef3eaf.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/d19b4abf7d83d2882a5bf1f2bdc3b03491ef3eaf.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Lightshow",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4a6",
+   "name": "Bohemian Rhapsody - Queen",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 142,
+    "duration": 356,
+    "songName": "Bohemian Rhapsody",
+    "songSubName": "",
+    "songAuthorName": "Queen",
+    "levelAuthorName": "KingPeuche YouTube"
+   },
+   "stats": {
+    "upvotes": 7809,
+    "downvotes": 1143,
+    "score": 0.8705
+   },
+   "versions": [
+    {
+     "hash": "9a8b9b0ecc22de615cd99454579b6aac685f4b1c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/9a8b9b0ecc22de615cd99454579b6aac685f4b1c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/9a8b9b0ecc22de615cd99454579b6aac685f4b1c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/9a8b9b0ecc22de615cd99454579b6aac685f4b1c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "77c",
+   "name": "Bohemian Rhapsody - Queen (Remastered)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 142,
+    "duration": 362,
+    "songName": "Bohemian Rhapsody",
+    "songSubName": "",
+    "songAuthorName": "Queen",
+    "levelAuthorName": "KingPeuche YouTube"
+   },
+   "stats": {
+    "upvotes": 678,
+    "downvotes": 115,
+    "score": 0.8468
+   },
+   "versions": [
+    {
+     "hash": "e481e42007cf2e863ca299504896ebfb171efbae",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/e481e42007cf2e863ca299504896ebfb171efbae.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/e481e42007cf2e863ca299504896ebfb171efbae.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/e481e42007cf2e863ca299504896ebfb171efbae.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3361",
+   "name": "Live Aid version of Bohemian Rhapsody",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 78,
+    "duration": 148,
+    "songName": "Bohemian Rhapsody",
+    "songSubName": "",
+    "songAuthorName": "Live Aid",
+    "levelAuthorName": "ToxicTaco"
+   },
+   "stats": {
+    "upvotes": 29,
+    "downvotes": 8,
+    "score": 0.7402
+   },
+   "versions": [
+    {
+     "hash": "353f4cf3ecb2faca6121219f679fea83d0d21c8c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/353f4cf3ecb2faca6121219f679fea83d0d21c8c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/353f4cf3ecb2faca6121219f679fea83d0d21c8c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/353f4cf3ecb2faca6121219f679fea83d0d21c8c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4f065",
+   "name": "Queen - Seaside Rendezvous",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 83,
+    "duration": 136,
+    "songName": "Seaside Rendezvous",
+    "songSubName": "",
+    "songAuthorName": "Queen",
+    "levelAuthorName": "MrStacker"
+   },
+   "stats": {
+    "upvotes": 35,
+    "downvotes": 1,
+    "score": 0.8985
+   },
+   "versions": [
+    {
+     "hash": "9fbe8d0bacd724679d195d773a0300c437a9a699",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/9fbe8d0bacd724679d195d773a0300c437a9a699.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/9fbe8d0bacd724679d195d773a0300c437a9a699.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/9fbe8d0bacd724679d195d773a0300c437a9a699.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d614",
+   "name": "We Are The Champions - Queen",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 120,
+    "duration": 180,
+    "songName": "We Are The Champions",
+    "songSubName": "- Queen",
+    "songAuthorName": "Queen",
+    "levelAuthorName": "Jokidum"
+   },
+   "stats": {
+    "upvotes": 1039,
+    "downvotes": 24,
+    "score": 0.9683
+   },
+   "versions": [
+    {
+     "hash": "16a675ae1686a5c87be5caf7e00d5e99d06c15cc",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/16a675ae1686a5c87be5caf7e00d5e99d06c15cc.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/16a675ae1686a5c87be5caf7e00d5e99d06c15cc.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/16a675ae1686a5c87be5caf7e00d5e99d06c15cc.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Lightshow",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "79e2",
+   "name": "Rhapsody - Queen of the Dark Horizons",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "metal"
+   ],
+   "metadata": {
+    "bpm": 114,
+    "duration": 821,
+    "songName": "Queen of the Dark Horizons",
+    "songSubName": "",
+    "songAuthorName": "Rhapsody",
+    "levelAuthorName": "Album: Rain of a Thousand Flames"
+   },
+   "stats": {
+    "upvotes": 26,
+    "downvotes": 14,
+    "score": 0.628
+   },
+   "versions": [
+    {
+     "hash": "456238d6c78728f6a2601cda77589df4b773627e",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/456238d6c78728f6a2601cda77589df4b773627e.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/456238d6c78728f6a2601cda77589df4b773627e.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/456238d6c78728f6a2601cda77589df4b773627e.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "13ca3",
+   "name": "Bohemian Rhapsody",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 144,
+    "duration": 286,
+    "songName": "Bohemian Rhapsody",
+    "songSubName": "(Original Mix)",
+    "songAuthorName": "QUEEN + The Muppets",
+    "levelAuthorName": "Mason Bartelme"
+   },
+   "stats": {
+    "upvotes": 5,
+    "downvotes": 21,
+    "score": 0.2505
+   },
+   "versions": [
+    {
+     "hash": "241d84d9d79afadecba3ab7ddafe70a3a1d15228",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/241d84d9d79afadecba3ab7ddafe70a3a1d15228.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/241d84d9d79afadecba3ab7ddafe70a3a1d15228.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/241d84d9d79afadecba3ab7ddafe70a3a1d15228.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "45856",
+   "name": "Bohemian Rhapsody",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "rock",
+    "ambient"
+   ],
+   "metadata": {
+    "bpm": 150,
+    "duration": 359,
+    "songName": "Bohemian Rhapsody",
+    "songSubName": "",
+    "songAuthorName": "Queen",
+    "levelAuthorName": "AQueenLover"
+   },
+   "stats": {
+    "upvotes": 0,
+    "downvotes": 4,
+    "score": 0.25
+   },
+   "versions": [
+    {
+     "hash": "8420bf2f451e3c89369daee11f1e786cbea36343",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8420bf2f451e3c89369daee11f1e786cbea36343.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8420bf2f451e3c89369daee11f1e786cbea36343.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8420bf2f451e3c89369daee11f1e786cbea36343.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -5,9 +5,15 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "node --test \"src/**/*.test.ts\"",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@yume-chan/adb": "^2.6.4",
+    "@yume-chan/adb-credential-web": "^2.1.0",
+    "@yume-chan/adb-daemon-webusb": "^2.3.2",
+    "fflate": "^0.8.3",
     "motion": "^14.14.0",
     "next": "16.4.6",
     "react": "19.3.0",
@@ -21,5 +27,6 @@
     "tailwindcss": "4.3.3",
     "typescript": "^5"
   },
-  "packageManager": "pnpm@9.15.9"
+  "packageManager": "pnpm@9.15.9",
+  "type": "module"
 }

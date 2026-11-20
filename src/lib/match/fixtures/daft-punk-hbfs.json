@@ -1,0 +1,1026 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "32e",
+   "name": "Daft Punk - Harder Better Faster Stronger",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "electronic"
+   ],
+   "metadata": {
+    "bpm": 123.5,
+    "duration": 224,
+    "songName": "Harder Better Faster Stronger",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "RunRockGame"
+   },
+   "stats": {
+    "upvotes": 18990,
+    "downvotes": 1094,
+    "score": 0.9442
+   },
+   "versions": [
+    {
+     "hash": "7c7f38d467bb43fe11a142581e63e324622ecc71",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7c7f38d467bb43fe11a142581e63e324622ecc71.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7c7f38d467bb43fe11a142581e63e324622ecc71.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7c7f38d467bb43fe11a142581e63e324622ecc71.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "13f3d",
+   "name": "Daft Punk - Harder Better Faster Stronger",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "fitness",
+    "dance-style",
+    "funk-disco",
+    "electronic"
+   ],
+   "metadata": {
+    "bpm": 123.5,
+    "duration": 224,
+    "songName": "Harder Better Faster Stronger",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "oermergeesh"
+   },
+   "stats": {
+    "upvotes": 2282,
+    "downvotes": 191,
+    "score": 0.918
+   },
+   "versions": [
+    {
+     "hash": "beaabfa0f935defdb5822f23fa05664961711a1d",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/beaabfa0f935defdb5822f23fa05664961711a1d.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/beaabfa0f935defdb5822f23fa05664961711a1d.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/beaabfa0f935defdb5822f23fa05664961711a1d.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "57b8",
+   "name": "Harder Better Faster Stronger - Far Out Remix - Daft Punk",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2019-07-18T17:57:03.886Z",
+   "tags": [
+    "electronic",
+    "house",
+    "dance",
+    "techno"
+   ],
+   "metadata": {
+    "bpm": 140,
+    "duration": 226,
+    "songName": "Harder, Better, Faster, Stronger (Far Out Remix)",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "Heisenberg (Lights by Rexxz)"
+   },
+   "stats": {
+    "upvotes": 4562,
+    "downvotes": 358,
+    "score": 0.9241
+   },
+   "versions": [
+    {
+     "hash": "48f5b7252a06be1b4d4651ed10d74556ab79373b",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/48f5b7252a06be1b4d4651ed10d74556ab79373b.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/48f5b7252a06be1b4d4651ed10d74556ab79373b.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/48f5b7252a06be1b4d4651ed10d74556ab79373b.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2ad5",
+   "name": "Harder Better Faster Stronger (Far Out Remix) - Daft Punk",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 140,
+    "duration": 229,
+    "songName": "Harder Better Faster Stronger - Far Out Remix",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Daft Punk (OG) - Far Out (Remixed) - Palasit (mapping)"
+   },
+   "stats": {
+    "upvotes": 119,
+    "downvotes": 43,
+    "score": 0.72
+   },
+   "versions": [
+    {
+     "hash": "de8c6b96e24da0e166bba9869b3c40786824fa07",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/de8c6b96e24da0e166bba9869b3c40786824fa07.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/de8c6b96e24da0e166bba9869b3c40786824fa07.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/de8c6b96e24da0e166bba9869b3c40786824fa07.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1035d",
+   "name": "Harder Better Faster Stronger",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 115,
+    "duration": 248,
+    "songName": "Harder Better Faster Stronger",
+    "songSubName": "",
+    "songAuthorName": "Pomplamoose",
+    "levelAuthorName": "tlc"
+   },
+   "stats": {
+    "upvotes": 63,
+    "downvotes": 10,
+    "score": 0.8261
+   },
+   "versions": [
+    {
+     "hash": "a7a5953abb43ba99c575d6cf62426bd35a93e827",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/a7a5953abb43ba99c575d6cf62426bd35a93e827.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/a7a5953abb43ba99c575d6cf62426bd35a93e827.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/a7a5953abb43ba99c575d6cf62426bd35a93e827.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "284e1",
+   "name": "Daft Punk - Harder Better Faster Stronger ( Megalovania )",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "dance-style",
+    "electronic",
+    "instrumental"
+   ],
+   "metadata": {
+    "bpm": 123.48,
+    "duration": 191,
+    "songName": "Harder Better Faster Stronger",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk\r\n",
+    "levelAuthorName": "cetusk"
+   },
+   "stats": {
+    "upvotes": 15,
+    "downvotes": 7,
+    "score": 0.6439
+   },
+   "versions": [
+    {
+     "hash": "eb614d021991596b1f031756e375a214230ee3a4",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/eb614d021991596b1f031756e375a214230ee3a4.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/eb614d021991596b1f031756e375a214230ee3a4.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/eb614d021991596b1f031756e375a214230ee3a4.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1f64a",
+   "name": "Daft Punk - Harder, Better, Faster, Stronger (Alive Radio Edit 2007)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "electronic",
+    "funk-disco"
+   ],
+   "metadata": {
+    "bpm": 126,
+    "duration": 211,
+    "songName": "Harder, Better, Faster, Stronger (Alive Radio Edit 2007)",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "RattyScorpion"
+   },
+   "stats": {
+    "upvotes": 85,
+    "downvotes": 26,
+    "score": 0.7449
+   },
+   "versions": [
+    {
+     "hash": "27d3d5f3f4896a682fb12de4b44bcd58c5517e28",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/27d3d5f3f4896a682fb12de4b44bcd58c5517e28.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/27d3d5f3f4896a682fb12de4b44bcd58c5517e28.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/27d3d5f3f4896a682fb12de4b44bcd58c5517e28.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2f4f3",
+   "name": "Harder Better Faster Whopper - Diamondbrickz",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "comedy-meme"
+   ],
+   "metadata": {
+    "bpm": 123.5,
+    "duration": 171,
+    "songName": "Harder Better Faster Whopper",
+    "songSubName": "(Short Ver.)",
+    "songAuthorName": "Daft Punk, Diamondbrickz",
+    "levelAuthorName": "RedNewth"
+   },
+   "stats": {
+    "upvotes": 30,
+    "downvotes": 5,
+    "score": 0.8005
+   },
+   "versions": [
+    {
+     "hash": "3e41ff279297e188a41afc535aff47adc8176546",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3e41ff279297e188a41afc535aff47adc8176546.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3e41ff279297e188a41afc535aff47adc8176546.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3e41ff279297e188a41afc535aff47adc8176546.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2f0aa",
+   "name": "Harder Better Faster Whopper",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 123.49,
+    "duration": 241,
+    "songName": "Harder Better Faster Whooper",
+    "songSubName": "",
+    "songAuthorName": "DiamondBrickZ",
+    "levelAuthorName": "Primzon_Exiqude"
+   },
+   "stats": {
+    "upvotes": 29,
+    "downvotes": 19,
+    "score": 0.5905
+   },
+   "versions": [
+    {
+     "hash": "833b589ea2743de3946afea5b20452ab824861ba",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/833b589ea2743de3946afea5b20452ab824861ba.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/833b589ea2743de3946afea5b20452ab824861ba.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/833b589ea2743de3946afea5b20452ab824861ba.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9daa",
+   "name": "Daft Punk - Harder, Better, Faster, Stronger (Far Out Remix)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 140,
+    "duration": 230,
+    "songName": "Harder, Better, Faster, Stronger (Far Out Remix)",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "SpookyBeard"
+   },
+   "stats": {
+    "upvotes": 68,
+    "downvotes": 91,
+    "score": 0.4322
+   },
+   "versions": [
+    {
+     "hash": "a19dbd8640170c50352d68455476042a6a3c78d6",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/a19dbd8640170c50352d68455476042a6a3c78d6.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/a19dbd8640170c50352d68455476042a6a3c78d6.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/a19dbd8640170c50352d68455476042a6a3c78d6.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3b1d9",
+   "name": "Harder, Better, Faster, Stronger!",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "tech",
+    "funk-disco",
+    "electronic"
+   ],
+   "metadata": {
+    "bpm": 123,
+    "duration": 224,
+    "songName": "Harder, Better, Faster, Stronger!",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "daa7654321 aka DAA"
+   },
+   "stats": {
+    "upvotes": 4,
+    "downvotes": 8,
+    "score": 0.3822
+   },
+   "versions": [
+    {
+     "hash": "9681b21066df8163608044bf793e07958b8b71ba",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/9681b21066df8163608044bf793e07958b8b71ba.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/9681b21066df8163608044bf793e07958b8b71ba.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/9681b21066df8163608044bf793e07958b8b71ba.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5335f",
+   "name": "Harder, Better, Faster, Whopper",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "comedy-meme",
+    "electronic"
+   ],
+   "metadata": {
+    "bpm": 123,
+    "duration": 32,
+    "songName": "Harder, Better, Faster, Whopper",
+    "songSubName": "",
+    "songAuthorName": "Waddle Dee, Kirby, Catnap",
+    "levelAuthorName": "King Dedede"
+   },
+   "stats": {
+    "upvotes": 0,
+    "downvotes": 0,
+    "score": 0.5
+   },
+   "versions": [
+    {
+     "hash": "7a6e2af84144c49231b703a8c899d9839efe489d",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7a6e2af84144c49231b703a8c899d9839efe489d.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7a6e2af84144c49231b703a8c899d9839efe489d.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7a6e2af84144c49231b703a8c899d9839efe489d.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2ef0f",
+   "name": "Harder better faster whopper",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 123.46,
+    "duration": 33,
+    "songName": "harder better faster whopper",
+    "songSubName": "ft. Daft Punk",
+    "songAuthorName": "BK",
+    "levelAuthorName": "CarfunkledVR"
+   },
+   "stats": {
+    "upvotes": 32,
+    "downvotes": 41,
+    "score": 0.4446
+   },
+   "versions": [
+    {
+     "hash": "87c1fc7bd7c33d7ab7d2de0a27e5afc43b1d83be",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/87c1fc7bd7c33d7ab7d2de0a27e5afc43b1d83be.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/87c1fc7bd7c33d7ab7d2de0a27e5afc43b1d83be.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/87c1fc7bd7c33d7ab7d2de0a27e5afc43b1d83be.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1ca23",
+   "name": "Funk Ad - Daft Punk",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 112,
+    "duration": 53,
+    "songName": "Funk Ad",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "Lorelia de Mildiane"
+   },
+   "stats": {
+    "upvotes": 22,
+    "downvotes": 11,
+    "score": 0.6393
+   },
+   "versions": [
+    {
+     "hash": "e866e726a4aa059b78844c494610e0e1c9238ca3",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/e866e726a4aa059b78844c494610e0e1c9238ca3.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/e866e726a4aa059b78844c494610e0e1c9238ca3.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/e866e726a4aa059b78844c494610e0e1c9238ca3.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "30e64",
+   "name": "Harder Better Faster Stronger Whopper remix ",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 131,
+    "duration": 40,
+    "songName": "Harder Better Fast Stronger Whopper Remix ",
+    "songSubName": "",
+    "songAuthorName": "DiamondBrickZ",
+    "levelAuthorName": "AXLCHARMINGGAMER"
+   },
+   "stats": {
+    "upvotes": 4,
+    "downvotes": 13,
+    "score": 0.2993
+   },
+   "versions": [
+    {
+     "hash": "0750311ef060088bf3b76040160106d6318f122c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/0750311ef060088bf3b76040160106d6318f122c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/0750311ef060088bf3b76040160106d6318f122c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/0750311ef060088bf3b76040160106d6318f122c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2f9f8",
+   "name": "harder, better, faster, whopper",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 123.47,
+    "duration": 24,
+    "songName": "Harder, Better, Faster, Whopper",
+    "songSubName": "",
+    "songAuthorName": "Listening Point",
+    "levelAuthorName": "Remec"
+   },
+   "stats": {
+    "upvotes": 5,
+    "downvotes": 13,
+    "score": 0.3298
+   },
+   "versions": [
+    {
+     "hash": "8f3c0e8188196e442f6f11c28208730a57c13f9a",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8f3c0e8188196e442f6f11c28208730a57c13f9a.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8f3c0e8188196e442f6f11c28208730a57c13f9a.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8f3c0e8188196e442f6f11c28208730a57c13f9a.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2844",
+   "name": "Derezzed - Daft Punk",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 120,
+    "duration": 106,
+    "songName": "Derezzed",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "bananaflame"
+   },
+   "stats": {
+    "upvotes": 45,
+    "downvotes": 70,
+    "score": 0.3996
+   },
+   "versions": [
+    {
+     "hash": "3bcec37fe0b89f1681a7ca8d1b23aea85d0773c4",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3bcec37fe0b89f1681a7ca8d1b23aea85d0773c4.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3bcec37fe0b89f1681a7ca8d1b23aea85d0773c4.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3bcec37fe0b89f1681a7ca8d1b23aea85d0773c4.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2a5af",
+   "name": "Daft Punk - Pee Is Stored In The Balls (Full Unreleased Demo)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "funk-disco",
+    "tech",
+    "comedy-meme"
+   ],
+   "metadata": {
+    "bpm": 120,
+    "duration": 225,
+    "songName": "Pee Is Stored In The Balls",
+    "songSubName": "(Full Unreleased Demo)",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "ts39"
+   },
+   "stats": {
+    "upvotes": 20,
+    "downvotes": 11,
+    "score": 0.6204
+   },
+   "versions": [
+    {
+     "hash": "c475a7fd38ff38c2580d6df5c01b70bb3be37b38",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c475a7fd38ff38c2580d6df5c01b70bb3be37b38.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c475a7fd38ff38c2580d6df5c01b70bb3be37b38.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c475a7fd38ff38c2580d6df5c01b70bb3be37b38.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "283c0",
+   "name": "Stronger ",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 104,
+    "duration": 176,
+    "songName": "Stronger",
+    "songSubName": "",
+    "songAuthorName": "Kanye West",
+    "levelAuthorName": "Felix"
+   },
+   "stats": {
+    "upvotes": 15,
+    "downvotes": 17,
+    "score": 0.474
+   },
+   "versions": [
+    {
+     "hash": "3df4701c8d20a721fd3e4a9d0e56b062aa6d344f",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3df4701c8d20a721fd3e4a9d0e56b062aa6d344f.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3df4701c8d20a721fd3e4a9d0e56b062aa6d344f.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3df4701c8d20a721fd3e4a9d0e56b062aa6d344f.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1519",
+   "name": "Daft Punk - Harder Better Faster Stronger (Reality Test Bootleg)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 72,
+    "duration": 314,
+    "songName": "Harder Better Faster Stronger",
+    "songSubName": "",
+    "songAuthorName": "Daft Punk",
+    "levelAuthorName": "Whistl3R"
+   },
+   "stats": {
+    "upvotes": 20,
+    "downvotes": 116,
+    "score": 0.1715
+   },
+   "versions": [
+    {
+     "hash": "2cfefd1b6a9097c6cd039fb98d8a8db0ae4c8e7a",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/2cfefd1b6a9097c6cd039fb98d8a8db0ae4c8e7a.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/2cfefd1b6a9097c6cd039fb98d8a8db0ae4c8e7a.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/2cfefd1b6a9097c6cd039fb98d8a8db0ae4c8e7a.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a734",
+   "name": "Jónsi - Where No One Goes",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-05-17T13:06:23.424Z",
+   "metadata": {
+    "bpm": 140,
+    "duration": 163,
+    "songName": "Where no one goes",
+    "songSubName": "",
+    "songAuthorName": "Jónsi",
+    "levelAuthorName": "Stumi"
+   },
+   "stats": {
+    "upvotes": 186,
+    "downvotes": 23,
+    "score": 0.8693
+   },
+   "versions": [
+    {
+     "hash": "f6d211bf9255a6b954501270f5e941571e9e01c0",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f6d211bf9255a6b954501270f5e941571e9e01c0.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f6d211bf9255a6b954501270f5e941571e9e01c0.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f6d211bf9255a6b954501270f5e941571e9e01c0.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "45baf",
+   "name": "Morning Brown - Aunty Donna",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2025-04-04T04:46:24.460028Z",
+   "tags": [
+    "electronic",
+    "comedy-meme",
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 117,
+    "duration": 144,
+    "songName": "Morning Brown",
+    "songSubName": "From 'Aunty Donna's Big Ol' House of Fun'",
+    "songAuthorName": "Aunty Donna",
+    "levelAuthorName": "FeudBoy_YT"
+   },
+   "stats": {
+    "upvotes": 31,
+    "downvotes": 1,
+    "score": 0.8903
+   },
+   "versions": [
+    {
+     "hash": "9be1a7426c226f72d9a0cd1b98ad6b9300c21121",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/9be1a7426c226f72d9a0cd1b98ad6b9300c21121.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/9be1a7426c226f72d9a0cd1b98ad6b9300c21121.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/9be1a7426c226f72d9a0cd1b98ad6b9300c21121.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "142e2",
+   "name": "Ruby My Dear - Croque Monsieur A Disneyland",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 220,
+    "duration": 303,
+    "songName": "Croque Monsieur A Disneyland",
+    "songSubName": "",
+    "songAuthorName": "Ruby My Dear",
+    "levelAuthorName": "oermergeesh"
+   },
+   "stats": {
+    "upvotes": 4,
+    "downvotes": 2,
+    "score": 0.5972
+   },
+   "versions": [
+    {
+     "hash": "ceb3d602b20e4d50651f4cf97c24d1558311ef39",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/ceb3d602b20e4d50651f4cf97c24d1558311ef39.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/ceb3d602b20e4d50651f4cf97c24d1558311ef39.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/ceb3d602b20e4d50651f4cf97c24d1558311ef39.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3efae",
+   "name": "Ray Volpe - SONG REQUEST",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "dubstep",
+    "balanced",
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 130,
+    "duration": 207,
+    "songName": "SONG REQUEST",
+    "songSubName": "",
+    "songAuthorName": "Ray Volpe",
+    "levelAuthorName": "Taylor Gaming"
+   },
+   "stats": {
+    "upvotes": 34,
+    "downvotes": 6,
+    "score": 0.7987
+   },
+   "versions": [
+    {
+     "hash": "7d44faf0d598be278dc78ca5ea71e0f04dc077de",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7d44faf0d598be278dc78ca5ea71e0f04dc077de.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7d44faf0d598be278dc78ca5ea71e0f04dc077de.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7d44faf0d598be278dc78ca5ea71e0f04dc077de.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "214ac",
+   "name": "Another girl, another planet - The Only Ones",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "dance-style",
+    "punk",
+    "rock",
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 156.35,
+    "duration": 184,
+    "songName": "another girl another planet",
+    "songSubName": "",
+    "songAuthorName": "The Only Ones",
+    "levelAuthorName": "Dtribe"
+   },
+   "stats": {
+    "upvotes": 8,
+    "downvotes": 5,
+    "score": 0.583
+   },
+   "versions": [
+    {
+     "hash": "0424899170926d23416c2623c1ed4f9f85cd91c2",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/0424899170926d23416c2623c1ed4f9f85cd91c2.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/0424899170926d23416c2623c1ed4f9f85cd91c2.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/0424899170926d23416c2623c1ed4f9f85cd91c2.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4de56",
+   "name": "GALA - Freed From Desire (V4)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "dance-style",
+    "electronic",
+    "dance"
+   ],
+   "metadata": {
+    "bpm": 130,
+    "duration": 215,
+    "songName": "Freed From Desire",
+    "songSubName": "",
+    "songAuthorName": "GALA",
+    "levelAuthorName": "Raygunner12"
+   },
+   "stats": {
+    "upvotes": 4,
+    "downvotes": 1,
+    "score": 0.6639
+   },
+   "versions": [
+    {
+     "hash": "44ac66a8f1814bd4d73a29329f6c327a411294cb",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/44ac66a8f1814bd4d73a29329f6c327a411294cb.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/44ac66a8f1814bd4d73a29329f6c327a411294cb.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/44ac66a8f1814bd4d73a29329f6c327a411294cb.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

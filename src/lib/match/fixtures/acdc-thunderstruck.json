@@ -1,0 +1,591 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "48851",
+   "name": "Thunderstruck - AC/DC",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2025-07-15T16:18:52.204913Z",
+   "tags": [
+    "dance-style",
+    "balanced",
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 133,
+    "duration": 293,
+    "songName": "Thunderstruck",
+    "songSubName": "",
+    "songAuthorName": "AC/DC",
+    "levelAuthorName": "FeudBoy_YT"
+   },
+   "stats": {
+    "upvotes": 237,
+    "downvotes": 8,
+    "score": 0.945
+   },
+   "versions": [
+    {
+     "hash": "2a9bdb26d6e4c9e935d067a727be3a32f5e0cce8",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/2a9bdb26d6e4c9e935d067a727be3a32f5e0cce8.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/2a9bdb26d6e4c9e935d067a727be3a32f5e0cce8.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/2a9bdb26d6e4c9e935d067a727be3a32f5e0cce8.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "461f3",
+   "name": "[V4] AC/DC - Thunderstruck",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2025-04-21T03:17:54.311877Z",
+   "tags": [
+    "balanced",
+    "dance-style",
+    "rock",
+    "metal"
+   ],
+   "metadata": {
+    "bpm": 133,
+    "duration": 295,
+    "songName": "Thunderstruck",
+    "songSubName": "",
+    "songAuthorName": "AC/DC",
+    "levelAuthorName": "段ボール, steeak"
+   },
+   "stats": {
+    "upvotes": 308,
+    "downvotes": 8,
+    "score": 0.9553
+   },
+   "versions": [
+    {
+     "hash": "741833d14d890f22e734f457bc60bd4b1c99de22",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/741833d14d890f22e734f457bc60bd4b1c99de22.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/741833d14d890f22e734f457bc60bd4b1c99de22.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/741833d14d890f22e734f457bc60bd4b1c99de22.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c9f",
+   "name": "Thunderstruck AC/DC",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 133.4,
+    "duration": 292,
+    "songName": "Thunderstruck",
+    "songSubName": "",
+    "songAuthorName": "AC/DC",
+    "levelAuthorName": "Krakanu"
+   },
+   "stats": {
+    "upvotes": 1149,
+    "downvotes": 306,
+    "score": 0.7852
+   },
+   "versions": [
+    {
+     "hash": "1a7ba1974d2cb443fad192e222ce5bff88e092ef",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/1a7ba1974d2cb443fad192e222ce5bff88e092ef.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/1a7ba1974d2cb443fad192e222ce5bff88e092ef.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/1a7ba1974d2cb443fad192e222ce5bff88e092ef.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2a",
+   "name": "AC/DC - TNT",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 126,
+    "duration": 215,
+    "songName": "AC/DC - TNT (By Pietruz)",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "AC/DC"
+   },
+   "stats": {
+    "upvotes": 139,
+    "downvotes": 199,
+    "score": 0.4147
+   },
+   "versions": [
+    {
+     "hash": "3b6d710afb7d72b647001e79a34fae3d90dc2d82",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3b6d710afb7d72b647001e79a34fae3d90dc2d82.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3b6d710afb7d72b647001e79a34fae3d90dc2d82.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3b6d710afb7d72b647001e79a34fae3d90dc2d82.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f87f",
+   "name": "T.N.T. - AC/DC",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 120,
+    "duration": 215,
+    "songName": "T.N.T.",
+    "songSubName": "- AC/DC",
+    "songAuthorName": "AC/DC",
+    "levelAuthorName": "Jokidum"
+   },
+   "stats": {
+    "upvotes": 586,
+    "downvotes": 46,
+    "score": 0.9159
+   },
+   "versions": [
+    {
+     "hash": "a475f93e50d19e28065e5d2fd19110831a6d8e33",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/a475f93e50d19e28065e5d2fd19110831a6d8e33.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/a475f93e50d19e28065e5d2fd19110831a6d8e33.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/a475f93e50d19e28065e5d2fd19110831a6d8e33.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lightshow",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9d7",
+   "name": "Back in Black - AC/DC",
+   "automapper": false,
+   "ranked": true,
+   "blRanked": false,
+   "tags": [
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 95,
+    "duration": 241,
+    "songName": "Back in Black",
+    "songSubName": "",
+    "songAuthorName": "AC/DC",
+    "levelAuthorName": "Freeek"
+   },
+   "stats": {
+    "upvotes": 13167,
+    "downvotes": 503,
+    "score": 0.9614
+   },
+   "versions": [
+    {
+     "hash": "8af82a87167070a08ec63dba0459c829c2954067",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8af82a87167070a08ec63dba0459c829c2954067.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8af82a87167070a08ec63dba0459c829c2954067.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8af82a87167070a08ec63dba0459c829c2954067.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e01c",
+   "name": "Highway to Hell - AC/DC",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 120,
+    "duration": 210,
+    "songName": "Highway to Hell",
+    "songSubName": "- AC/DC",
+    "songAuthorName": "AC/DC",
+    "levelAuthorName": "Jokidum"
+   },
+   "stats": {
+    "upvotes": 1160,
+    "downvotes": 70,
+    "score": 0.9354
+   },
+   "versions": [
+    {
+     "hash": "dd6ac829af58a8bf7f380248b960a085ecc34930",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/dd6ac829af58a8bf7f380248b960a085ecc34930.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/dd6ac829af58a8bf7f380248b960a085ecc34930.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/dd6ac829af58a8bf7f380248b960a085ecc34930.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lightshow",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "293e0",
+   "name": "AC/DC - Have A Drink On Me",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 123,
+    "duration": 242,
+    "songName": "Have A Drink On Me",
+    "songSubName": "",
+    "songAuthorName": "AC/DC",
+    "levelAuthorName": "Majorpickle"
+   },
+   "stats": {
+    "upvotes": 57,
+    "downvotes": 3,
+    "score": 0.8984
+   },
+   "versions": [
+    {
+     "hash": "513debf177b2da51570c7995f7456576f6994ada",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/513debf177b2da51570c7995f7456576f6994ada.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/513debf177b2da51570c7995f7456576f6994ada.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/513debf177b2da51570c7995f7456576f6994ada.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "49c3",
+   "name": "You Shook Me All Night Long - AC/DC",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2019-05-01T20:22:38Z",
+   "tags": [
+    "rock",
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 127,
+    "duration": 214,
+    "songName": "You Shook Me All Night Long",
+    "songSubName": "",
+    "songAuthorName": "ACDC",
+    "levelAuthorName": "Heisenberg"
+   },
+   "stats": {
+    "upvotes": 854,
+    "downvotes": 28,
+    "score": 0.9582
+   },
+   "versions": [
+    {
+     "hash": "30d001b2248ab59cd19ce45d8ff001e515e2508a",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/30d001b2248ab59cd19ce45d8ff001e515e2508a.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/30d001b2248ab59cd19ce45d8ff001e515e2508a.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/30d001b2248ab59cd19ce45d8ff001e515e2508a.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "28050",
+   "name": "AC/DC - You Shook Me All Night Long",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-07-21T02:56:10.463834Z",
+   "metadata": {
+    "bpm": 138,
+    "duration": 199,
+    "songName": "You Shook Me All Night Long",
+    "songSubName": "",
+    "songAuthorName": "AC/DC",
+    "levelAuthorName": "Syndicate"
+   },
+   "stats": {
+    "upvotes": 120,
+    "downvotes": 10,
+    "score": 0.893
+   },
+   "versions": [
+    {
+     "hash": "1a0a667a0ba24e89ed424dae50db818c303fcd95",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/1a0a667a0ba24e89ed424dae50db818c303fcd95.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/1a0a667a0ba24e89ed424dae50db818c303fcd95.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/1a0a667a0ba24e89ed424dae50db818c303fcd95.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "508b",
+   "name": "AC/DC - You Shook Me All Night Long ( dance mix )",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2019-06-01T21:25:15Z",
+   "metadata": {
+    "bpm": 125.7,
+    "duration": 314,
+    "songName": "You shook me all night long(dance mix)",
+    "songSubName": "",
+    "songAuthorName": "AC/DC & others ",
+    "levelAuthorName": "Majorpickle"
+   },
+   "stats": {
+    "upvotes": 189,
+    "downvotes": 13,
+    "score": 0.9121
+   },
+   "versions": [
+    {
+     "hash": "97e233f5d893b8e9875150388d70abf796c2338e",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/97e233f5d893b8e9875150388d70abf796c2338e.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/97e233f5d893b8e9875150388d70abf796c2338e.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/97e233f5d893b8e9875150388d70abf796c2338e.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "30475",
+   "name": "DJ AC-DC - Never Ending Story (Power Club Vocal Mix)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "fitness",
+    "dance",
+    "video-game-soundtrack"
+   ],
+   "metadata": {
+    "bpm": 140,
+    "duration": 96,
+    "songName": "Never Ending Story (Power Club Vocal Mix)",
+    "songSubName": "(Fitbeat)",
+    "songAuthorName": "DJ AC-DC",
+    "levelAuthorName": "Filletus"
+   },
+   "stats": {
+    "upvotes": 54,
+    "downvotes": 10,
+    "score": 0.8059
+   },
+   "versions": [
+    {
+     "hash": "4f728f953b42ba579be1772b4785cd5449b3642b",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/4f728f953b42ba579be1772b4785cd5449b3642b.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/4f728f953b42ba579be1772b4785cd5449b3642b.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/4f728f953b42ba579be1772b4785cd5449b3642b.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "31218",
+   "name": "Scratch21 - Big Balls",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "balanced",
+    "rock",
+    "comedy-meme"
+   ],
+   "metadata": {
+    "bpm": 105,
+    "duration": 170,
+    "songName": "Big Balls",
+    "songSubName": "",
+    "songAuthorName": "Scratch21",
+    "levelAuthorName": "JohnieCanine"
+   },
+   "stats": {
+    "upvotes": 148,
+    "downvotes": 6,
+    "score": 0.9315
+   },
+   "versions": [
+    {
+     "hash": "82cd8e6a96a0d552731a7e2eed8468af51dba694",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/82cd8e6a96a0d552731a7e2eed8468af51dba694.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/82cd8e6a96a0d552731a7e2eed8468af51dba694.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/82cd8e6a96a0d552731a7e2eed8468af51dba694.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "55433",
+   "name": "INXS and Jimmy Barns - Good Times",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "tv-movie-soundtrack",
+    "rock"
+   ],
+   "metadata": {
+    "bpm": 157.042,
+    "duration": 235,
+    "songName": "Good Times",
+    "songSubName": "",
+    "songAuthorName": "INXS and Jimmy Barnes",
+    "levelAuthorName": "Storm Knight"
+   },
+   "stats": {
+    "upvotes": 2,
+    "downvotes": 0,
+    "score": 0.6771
+   },
+   "versions": [
+    {
+     "hash": "52eb2fc46450a1c7b4a4eb3ee6126af03f230fae",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/52eb2fc46450a1c7b4a4eb3ee6126af03f230fae.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/52eb2fc46450a1c7b4a4eb3ee6126af03f230fae.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/52eb2fc46450a1c7b4a4eb3ee6126af03f230fae.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

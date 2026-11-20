@@ -1,0 +1,1259 @@
+{
+ "fetched": "2026-11-20",
+ "docs": [
+  {
+   "id": "ba",
+   "name": "Pon de Replay (Remix) - Rihanna ft. Elephant Man",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "rb"
+   ],
+   "metadata": {
+    "bpm": 120,
+    "duration": 218,
+    "songName": "Pon De Replay - Remix",
+    "songSubName": "",
+    "songAuthorName": "feat. Elephant Man",
+    "levelAuthorName": "Rihanna "
+   },
+   "stats": {
+    "upvotes": 115,
+    "downvotes": 47,
+    "score": 0.6969
+   },
+   "versions": [
+    {
+     "hash": "f9be2816cb06e77f67725eb7fc3ae412ee4c312b",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f9be2816cb06e77f67725eb7fc3ae412ee4c312b.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f9be2816cb06e77f67725eb7fc3ae412ee4c312b.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f9be2816cb06e77f67725eb7fc3ae412ee4c312b.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3404",
+   "name": "Water break",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "rock",
+    "alternative"
+   ],
+   "metadata": {
+    "bpm": 120,
+    "duration": 190,
+    "songName": "Water break",
+    "songSubName": "",
+    "songAuthorName": "",
+    "levelAuthorName": "Stay hydrated fam"
+   },
+   "stats": {
+    "upvotes": 132,
+    "downvotes": 1,
+    "score": 0.9579
+   },
+   "versions": [
+    {
+     "hash": "f1c0b3f5a6cc13345d7173ecca7dfe3c19f77ce9",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/f1c0b3f5a6cc13345d7173ecca7dfe3c19f77ce9.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/f1c0b3f5a6cc13345d7173ecca7dfe3c19f77ce9.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/f1c0b3f5a6cc13345d7173ecca7dfe3c19f77ce9.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9cda",
+   "name": "Stay - Rihanna",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 112,
+    "duration": 239,
+    "songName": "Stay",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Orcei"
+   },
+   "stats": {
+    "upvotes": 25,
+    "downvotes": 23,
+    "score": 0.5181
+   },
+   "versions": [
+    {
+     "hash": "c19d1fde18cd02b13f4a1285b069366a55e7bab2",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/c19d1fde18cd02b13f4a1285b069366a55e7bab2.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/c19d1fde18cd02b13f4a1285b069366a55e7bab2.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/c19d1fde18cd02b13f4a1285b069366a55e7bab2.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f0d3",
+   "name": "Disturbia - Rihanna",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 125,
+    "duration": 239,
+    "songName": "Disturbia",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "RiskiVR"
+   },
+   "stats": {
+    "upvotes": 376,
+    "downvotes": 19,
+    "score": 0.9359
+   },
+   "versions": [
+    {
+     "hash": "7f05678ad17d5b97651eff57580a661352d5f148",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7f05678ad17d5b97651eff57580a661352d5f148.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7f05678ad17d5b97651eff57580a661352d5f148.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7f05678ad17d5b97651eff57580a661352d5f148.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "15517",
+   "name": "Diamonds - Rihanna",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 184,
+    "duration": 227,
+    "songName": "Diamonds",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Astro"
+   },
+   "stats": {
+    "upvotes": 342,
+    "downvotes": 40,
+    "score": 0.881
+   },
+   "versions": [
+    {
+     "hash": "a609823dc0b36f16209b64f06060b085321d60a3",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/a609823dc0b36f16209b64f06060b085321d60a3.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/a609823dc0b36f16209b64f06060b085321d60a3.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/a609823dc0b36f16209b64f06060b085321d60a3.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f727",
+   "name": "Disturbia - Rihanna [PickleTech]",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-10-02T02:12:43.829Z",
+   "tags": [
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 125,
+    "duration": 237,
+    "songName": "Disturbia",
+    "songSubName": "",
+    "songAuthorName": "Rihanna ",
+    "levelAuthorName": "Majorpickle"
+   },
+   "stats": {
+    "upvotes": 786,
+    "downvotes": 38,
+    "score": 0.9437
+   },
+   "versions": [
+    {
+     "hash": "bf6bd5f208f03f7132864c6c3d51130e35c9345a",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/bf6bd5f208f03f7132864c6c3d51130e35c9345a.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/bf6bd5f208f03f7132864c6c3d51130e35c9345a.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/bf6bd5f208f03f7132864c6c3d51130e35c9345a.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "360Degree",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "47bb8",
+   "name": "Rihanna - Rude Boy",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2025-06-21T04:46:33.843879Z",
+   "tags": [
+    "tech",
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 174,
+    "duration": 225,
+    "songName": "Rude Boy",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Lillie & Najoko"
+   },
+   "stats": {
+    "upvotes": 220,
+    "downvotes": 8,
+    "score": 0.9416
+   },
+   "versions": [
+    {
+     "hash": "bb2e8dee0396aed661303616c8295aa2cb57ce19",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/bb2e8dee0396aed661303616c8295aa2cb57ce19.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/bb2e8dee0396aed661303616c8295aa2cb57ce19.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/bb2e8dee0396aed661303616c8295aa2cb57ce19.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "OneSaber",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3076a",
+   "name": "Rihanna - Umbrella",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 174,
+    "duration": 258,
+    "songName": "Umbrella",
+    "songSubName": "(Radio Edit) [feat. JAY-Z]",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Fireluke Gaming"
+   },
+   "stats": {
+    "upvotes": 64,
+    "downvotes": 9,
+    "score": 0.8384
+   },
+   "versions": [
+    {
+     "hash": "bbe717517b0ec6fa42ae9b039a9753c72bff2e13",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/bbe717517b0ec6fa42ae9b039a9753c72bff2e13.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/bbe717517b0ec6fa42ae9b039a9753c72bff2e13.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/bbe717517b0ec6fa42ae9b039a9753c72bff2e13.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a006",
+   "name": "Rihanna - S&M",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 128,
+    "duration": 244,
+    "songName": "S&M",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Shauniedarko"
+   },
+   "stats": {
+    "upvotes": 297,
+    "downvotes": 27,
+    "score": 0.8999
+   },
+   "versions": [
+    {
+     "hash": "3fff74d8f21f3edf9193aeddc8e153677062c69c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/3fff74d8f21f3edf9193aeddc8e153677062c69c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/3fff74d8f21f3edf9193aeddc8e153677062c69c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/3fff74d8f21f3edf9193aeddc8e153677062c69c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "414b6",
+   "name": "Disturbia - Rihanna (Chroma+)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-11-01T22:49:51.521891Z",
+   "tags": [
+    "pop",
+    "holiday",
+    "balanced",
+    "poodle"
+   ],
+   "metadata": {
+    "bpm": 125,
+    "duration": 238,
+    "songName": "Disturbia",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "RateGyro"
+   },
+   "stats": {
+    "upvotes": 201,
+    "downvotes": 14,
+    "score": 0.9123
+   },
+   "versions": [
+    {
+     "hash": "39779d72c6f11ef4a6a04202151f21c57e091dd1",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/39779d72c6f11ef4a6a04202151f21c57e091dd1.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/39779d72c6f11ef4a6a04202151f21c57e091dd1.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/39779d72c6f11ef4a6a04202151f21c57e091dd1.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lightshow",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1a664",
+   "name": "Sledgehammer - Rihanna [Chroma]",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 131,
+    "duration": 213,
+    "songName": "Sledgehammer",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Sickmindedone"
+   },
+   "stats": {
+    "upvotes": 30,
+    "downvotes": 2,
+    "score": 0.8643
+   },
+   "versions": [
+    {
+     "hash": "940b202934ae12242d5929a5a7685cfd63deeecb",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/940b202934ae12242d5929a5a7685cfd63deeecb.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/940b202934ae12242d5929a5a7685cfd63deeecb.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/940b202934ae12242d5929a5a7685cfd63deeecb.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5391",
+   "name": "Rihanna - Only Girl (In The World)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 125,
+    "duration": 237,
+    "songName": "Only Girl",
+    "songSubName": "",
+    "songAuthorName": "(In The World)",
+    "levelAuthorName": "Rihanna"
+   },
+   "stats": {
+    "upvotes": 78,
+    "downvotes": 245,
+    "score": 0.2519
+   },
+   "versions": [
+    {
+     "hash": "8e44d328546e49f8d1782b355711bd2edfdb70a0",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8e44d328546e49f8d1782b355711bd2edfdb70a0.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8e44d328546e49f8d1782b355711bd2edfdb70a0.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8e44d328546e49f8d1782b355711bd2edfdb70a0.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2399d",
+   "name": "BLACKPINK - STAY",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "dance-style",
+    "k-pop",
+    "ambient"
+   ],
+   "metadata": {
+    "bpm": 88,
+    "duration": 243,
+    "songName": "STAY",
+    "songSubName": "",
+    "songAuthorName": "BLACKPINK",
+    "levelAuthorName": "Obento"
+   },
+   "stats": {
+    "upvotes": 26,
+    "downvotes": 0,
+    "score": 0.9054
+   },
+   "versions": [
+    {
+     "hash": "575e1547ae4ce703b62ad0425e1d901a6983b0dc",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/575e1547ae4ce703b62ad0425e1d901a6983b0dc.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/575e1547ae4ce703b62ad0425e1d901a6983b0dc.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/575e1547ae4ce703b62ad0425e1d901a6983b0dc.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "12fc4",
+   "name": "Rihanna - Diamonds (Short Ver.)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 92,
+    "duration": 152,
+    "songName": "Diamonds",
+    "songSubName": "(Short Ver.)",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "LoveLessDark"
+   },
+   "stats": {
+    "upvotes": 69,
+    "downvotes": 6,
+    "score": 0.878
+   },
+   "versions": [
+    {
+     "hash": "e8c4ae472cff54945c9d25b8aac256b9a17048cf",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/e8c4ae472cff54945c9d25b8aac256b9a17048cf.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/e8c4ae472cff54945c9d25b8aac256b9a17048cf.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/e8c4ae472cff54945c9d25b8aac256b9a17048cf.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "30fd",
+   "name": "Love The Way You Lie (ft. Rihanna) - Eminem, Rihanna | Charted by StyngMe",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2019-01-25T15:48:22Z",
+   "tags": [
+    "pop",
+    "hip-hop-rap"
+   ],
+   "metadata": {
+    "bpm": 87,
+    "duration": 265,
+    "songName": "Love The Way You Lie (ft. Rihanna)",
+    "songSubName": "",
+    "songAuthorName": "Eminem, Rihanna",
+    "levelAuthorName": "StyngMe"
+   },
+   "stats": {
+    "upvotes": 14059,
+    "downvotes": 302,
+    "score": 0.9772
+   },
+   "versions": [
+    {
+     "hash": "8161daf97cab8c95aea0556549b4b8cfb29a13d3",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/8161daf97cab8c95aea0556549b4b8cfb29a13d3.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/8161daf97cab8c95aea0556549b4b8cfb29a13d3.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/8161daf97cab8c95aea0556549b4b8cfb29a13d3.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "10844",
+   "name": "Rihanna - Where Have You Been",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-11-02T02:15:02.915Z",
+   "tags": [
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 128,
+    "duration": 244,
+    "songName": "Where Have You Been",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "ETAN"
+   },
+   "stats": {
+    "upvotes": 354,
+    "downvotes": 10,
+    "score": 0.9549
+   },
+   "versions": [
+    {
+     "hash": "0382ffee9e64292f191e3bb680746b321bf74e54",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/0382ffee9e64292f191e3bb680746b321bf74e54.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/0382ffee9e64292f191e3bb680746b321bf74e54.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/0382ffee9e64292f191e3bb680746b321bf74e54.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "12473",
+   "name": "Work - Rihanna (TRONICBOX Remix)",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2021-01-05T04:32:44.436Z",
+   "tags": [
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 105,
+    "duration": 197,
+    "songName": "Work (TRONICBOX Remix)",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Remie"
+   },
+   "stats": {
+    "upvotes": 180,
+    "downvotes": 20,
+    "score": 0.8782
+   },
+   "versions": [
+    {
+     "hash": "789a843c1c4d535ec7eea65262060a54e0d6479b",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/789a843c1c4d535ec7eea65262060a54e0d6479b.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/789a843c1c4d535ec7eea65262060a54e0d6479b.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/789a843c1c4d535ec7eea65262060a54e0d6479b.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2a087",
+   "name": "Rihanna - Rude Boy",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 174,
+    "duration": 224,
+    "songName": "Rude Boy ",
+    "songSubName": "",
+    "songAuthorName": "Rihanna ",
+    "levelAuthorName": "Kesibin"
+   },
+   "stats": {
+    "upvotes": 57,
+    "downvotes": 11,
+    "score": 0.8023
+   },
+   "versions": [
+    {
+     "hash": "215e0aae4147647c85c6e419e30ca6c985b6c326",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/215e0aae4147647c85c6e419e30ca6c985b6c326.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/215e0aae4147647c85c6e419e30ca6c985b6c326.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/215e0aae4147647c85c6e419e30ca6c985b6c326.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b769",
+   "name": "BTS - Stay Gold",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-06-29T01:14:00.340Z",
+   "tags": [
+    "k-pop"
+   ],
+   "metadata": {
+    "bpm": 129,
+    "duration": 244,
+    "songName": "Stay Gold",
+    "songSubName": "",
+    "songAuthorName": "BTS",
+    "levelAuthorName": "Todai & simplymarvellous"
+   },
+   "stats": {
+    "upvotes": 565,
+    "downvotes": 13,
+    "score": 0.9642
+   },
+   "versions": [
+    {
+     "hash": "4f34d2d56734d4d5cc182c06f1411f1042d3e386",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/4f34d2d56734d4d5cc182c06f1411f1042d3e386.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/4f34d2d56734d4d5cc182c06f1411f1042d3e386.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/4f34d2d56734d4d5cc182c06f1411f1042d3e386.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Lightshow",
+       "difficulty": "Easy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fab3",
+   "name": "The Monster - Eminem ft. Rihanna",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2020-10-06T19:53:35.934Z",
+   "tags": [
+    "hip-hop-rap",
+    "balanced"
+   ],
+   "metadata": {
+    "bpm": 110,
+    "duration": 252,
+    "songName": "The Monster",
+    "songSubName": "",
+    "songAuthorName": "Eminem ft. Rihanna",
+    "levelAuthorName": "Ris"
+   },
+   "stats": {
+    "upvotes": 478,
+    "downvotes": 26,
+    "score": 0.9348
+   },
+   "versions": [
+    {
+     "hash": "48ee8fdbc7f068a2b8fdf11043f81549a7cd0c67",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/48ee8fdbc7f068a2b8fdf11043f81549a7cd0c67.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/48ee8fdbc7f068a2b8fdf11043f81549a7cd0c67.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/48ee8fdbc7f068a2b8fdf11043f81549a7cd0c67.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2b0f2",
+   "name": "KENTENSHI - stay",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "challenge",
+    "tech"
+   ],
+   "metadata": {
+    "bpm": 175,
+    "duration": 181,
+    "songName": "stay",
+    "songSubName": "",
+    "songAuthorName": "KENTENSHI",
+    "levelAuthorName": "Dailyy"
+   },
+   "stats": {
+    "upvotes": 21,
+    "downvotes": 1,
+    "score": 0.8598
+   },
+   "versions": [
+    {
+     "hash": "a04355fda24a352ecbdb964d6f536a2fae1fdff4",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/a04355fda24a352ecbdb964d6f536a2fae1fdff4.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/a04355fda24a352ecbdb964d6f536a2fae1fdff4.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/a04355fda24a352ecbdb964d6f536a2fae1fdff4.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4cc57",
+   "name": "SATURDAY - Stay",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "k-pop"
+   ],
+   "metadata": {
+    "bpm": 107,
+    "duration": 193,
+    "songName": "Stay",
+    "songSubName": "",
+    "songAuthorName": "SATURDAY",
+    "levelAuthorName": "Danny"
+   },
+   "stats": {
+    "upvotes": 13,
+    "downvotes": 0,
+    "score": 0.8598
+   },
+   "versions": [
+    {
+     "hash": "dd89ca96b18641af6fc2f11671ae379671940173",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/dd89ca96b18641af6fc2f11671ae379671940173.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/dd89ca96b18641af6fc2f11671ae379671940173.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/dd89ca96b18641af6fc2f11671ae379671940173.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "267c",
+   "name": "Rihanna - Shut Up And Drive",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "pop",
+    "rb",
+    "house"
+   ],
+   "metadata": {
+    "bpm": 133,
+    "duration": 152,
+    "songName": "Shut Up And Drive",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Kahor"
+   },
+   "stats": {
+    "upvotes": 381,
+    "downvotes": 27,
+    "score": 0.9187
+   },
+   "versions": [
+    {
+     "hash": "62462c831699cd9c90d1bcb073ecf34f6ba4f334",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/62462c831699cd9c90d1bcb073ecf34f6ba4f334.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/62462c831699cd9c90d1bcb073ecf34f6ba4f334.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/62462c831699cd9c90d1bcb073ecf34f6ba4f334.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "300e",
+   "name": "Post Malone - Stay",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "hip-hop-rap",
+    "folk-acoustic"
+   ],
+   "metadata": {
+    "bpm": 86,
+    "duration": 204,
+    "songName": "Stay",
+    "songSubName": "",
+    "songAuthorName": "Post Malone",
+    "levelAuthorName": "Darkriot"
+   },
+   "stats": {
+    "upvotes": 154,
+    "downvotes": 7,
+    "score": 0.9281
+   },
+   "versions": [
+    {
+     "hash": "29f29cd939dd7f2fe78ea679ab5e4c67c559d192",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/29f29cd939dd7f2fe78ea679ab5e4c67c559d192.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/29f29cd939dd7f2fe78ea679ab5e4c67c559d192.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/29f29cd939dd7f2fe78ea679ab5e4c67c559d192.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "298f",
+   "name": "Stay - Jake Hill",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "hip-hop-rap"
+   ],
+   "metadata": {
+    "bpm": 83,
+    "duration": 185,
+    "songName": "Stay",
+    "songSubName": "",
+    "songAuthorName": "Jake Hill",
+    "levelAuthorName": "MELLOH7"
+   },
+   "stats": {
+    "upvotes": 127,
+    "downvotes": 6,
+    "score": 0.923
+   },
+   "versions": [
+    {
+     "hash": "7b17df6566994f913804a62f57431c2b941c0a36",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7b17df6566994f913804a62f57431c2b941c0a36.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7b17df6566994f913804a62f57431c2b941c0a36.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7b17df6566994f913804a62f57431c2b941c0a36.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "540a",
+   "name": "Rihanna - Don't Stop The Music",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2019-06-22T17:59:20.266Z",
+   "tags": [
+    "dance"
+   ],
+   "metadata": {
+    "bpm": 122.7,
+    "duration": 267,
+    "songName": "Don't Stop The Music",
+    "songSubName": "",
+    "songAuthorName": "Rihanna",
+    "levelAuthorName": "Majorpickle"
+   },
+   "stats": {
+    "upvotes": 957,
+    "downvotes": 96,
+    "score": 0.901
+   },
+   "versions": [
+    {
+     "hash": "faf447c655594343015fd38109e6a223f4904dfd",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/faf447c655594343015fd38109e6a223f4904dfd.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/faf447c655594343015fd38109e6a223f4904dfd.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/faf447c655594343015fd38109e6a223f4904dfd.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "201d",
+   "name": "Stay The Night",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "tags": [
+    "electronic",
+    "house"
+   ],
+   "metadata": {
+    "bpm": 128,
+    "duration": 242,
+    "songName": "Stay The Night",
+    "songSubName": "",
+    "songAuthorName": "Zedd & Kevin Drew Remix",
+    "levelAuthorName": "JackoDEJ"
+   },
+   "stats": {
+    "upvotes": 136,
+    "downvotes": 8,
+    "score": 0.9148
+   },
+   "versions": [
+    {
+     "hash": "bbf8acbfdf175caef3ed8338ac0490a200393d5d",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/bbf8acbfdf175caef3ed8338ac0490a200393d5d.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/bbf8acbfdf175caef3ed8338ac0490a200393d5d.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/bbf8acbfdf175caef3ed8338ac0490a200393d5d.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "baa8",
+   "name": "Stay With Me ",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "metadata": {
+    "bpm": 128,
+    "duration": 57,
+    "songName": "Stay With Me",
+    "songSubName": "",
+    "songAuthorName": "AcesToAces",
+    "levelAuthorName": "jspence"
+   },
+   "stats": {
+    "upvotes": 110,
+    "downvotes": 6,
+    "score": 0.9141
+   },
+   "versions": [
+    {
+     "hash": "24fa6d72ff20efde8d4fbdeb579ee28caa0ebd2c",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/24fa6d72ff20efde8d4fbdeb579ee28caa0ebd2c.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/24fa6d72ff20efde8d4fbdeb579ee28caa0ebd2c.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/24fa6d72ff20efde8d4fbdeb579ee28caa0ebd2c.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27635",
+   "name": "Stay This Way - fromis_9",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2022-07-04T21:29:57.728089Z",
+   "tags": [
+    "k-pop",
+    "balanced",
+    "dance-style"
+   ],
+   "metadata": {
+    "bpm": 124,
+    "duration": 198,
+    "songName": "Stay This Way",
+    "songSubName": "",
+    "songAuthorName": "fromis_9",
+    "levelAuthorName": "Achrisnic"
+   },
+   "stats": {
+    "upvotes": 127,
+    "downvotes": 2,
+    "score": 0.9499
+   },
+   "versions": [
+    {
+     "hash": "4ca317136d9b650db268d643a06fffd73b041e80",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/4ca317136d9b650db268d643a06fffd73b041e80.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/4ca317136d9b650db268d643a06fffd73b041e80.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/4ca317136d9b650db268d643a06fffd73b041e80.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Easy"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Normal"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Hard"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "388fd",
+   "name": "TYNAN & Ace Aura - Stay",
+   "automapper": false,
+   "ranked": false,
+   "blRanked": false,
+   "curatedAt": "2024-01-08T14:38:21.427440Z",
+   "tags": [
+    "balanced",
+    "dubstep"
+   ],
+   "metadata": {
+    "bpm": 150,
+    "duration": 235,
+    "songName": "Stay",
+    "songSubName": "",
+    "songAuthorName": "TYNAN & Ace Aura",
+    "levelAuthorName": "Spinvvy"
+   },
+   "stats": {
+    "upvotes": 141,
+    "downvotes": 3,
+    "score": 0.9472
+   },
+   "versions": [
+    {
+     "hash": "7bc6e277ad2f23a3d1fd55badaeb04bbd665a48f",
+     "state": "Published",
+     "coverURL": "https://cfcdn.beatsaver.com/7bc6e277ad2f23a3d1fd55badaeb04bbd665a48f.jpg",
+     "previewURL": "https://cfcdn.beatsaver.com/7bc6e277ad2f23a3d1fd55badaeb04bbd665a48f.mp3",
+     "downloadURL": "https://r2cdn.beatsaver.com/7bc6e277ad2f23a3d1fd55badaeb04bbd665a48f.zip",
+     "diffs": [
+      {
+       "characteristic": "Standard",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Standard",
+       "difficulty": "ExpertPlus"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "Expert"
+      },
+      {
+       "characteristic": "Lawless",
+       "difficulty": "ExpertPlus"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
