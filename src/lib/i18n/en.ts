@@ -22,6 +22,11 @@ export const en: Dict = {
     stop: "Stop",
     hint: "It has to be public. YouTube Music and Spotify both work — playlists and albums.",
     example: "Try it with a sample one",
+    lookupLabel: "or a single song",
+    lookupPlaceholder: "song name or track link",
+    lookupSubmit: "look up",
+    lookupHint: "extra: type a title (I'll suggest artists) or paste a YouTube or Spotify track link.",
+    lookupEmpty: "can't find that song. try another name.",
   },
 
   errors: {

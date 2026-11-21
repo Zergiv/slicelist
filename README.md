@@ -1,21 +1,28 @@
+<div align="center">
+
+<img src="docs/logo.svg" alt="slicelist" width="72" height="72">
+
 # slicelist
 
 Paste a YouTube Music or Spotify playlist. Find Beat Saber maps on [BeatSaver](https://beatsaver.com), preview them, download, or send them to a Quest over USB.
 
-https://slicelist.zergiv2.tech
+**[slicelist.zergiv2.tech](https://slicelist.zergiv2.tech)**
 
-[![AI Assisted](https://img.shields.io/badge/🤖_AI_Assisted-Project-8A2BE2.svg)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![AI Assisted](https://img.shields.io/badge/AI_Assisted-Project-b770ee?style=for-the-badge&labelColor=0c0b0a)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-16-0c0b0a?style=for-the-badge&logo=next.js&logoColor=ebe4d8&labelColor=0c0b0a&color=17324f)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-0c0b0a?style=for-the-badge&logo=typescript&logoColor=ebe4d8&labelColor=0c0b0a&color=4aa3ff)](https://www.typescriptlang.org)
+[![License](https://img.shields.io/badge/License-MIT-0c0b0a?style=for-the-badge&labelColor=0c0b0a&color=ebe4d8)](LICENSE)
 
-<img src="docs/preview.jpg" alt="slicelist" width="720">
+<img src="docs/preview.jpg" alt="slicelist preview" width="720">
+
+</div>
 
 ## Usage
 
 1. Paste a **public** playlist or album link (YouTube Music or Spotify).
-2. Browse matches, preview audio, download maps.
-3. In Chrome or Edge, connect a Quest over USB to send maps into Beat Saber (modded, e.g. [ModsBeforeFriday](https://github.com/Lauriethefish/ModsBeforeFriday)).
+2. Or look up a single song by name (with suggestions) or a track link.
+3. Browse matches, preview audio, download maps.
+4. In Chrome or Edge, connect a Quest over USB to send maps into Beat Saber (modded, e.g. [ModsBeforeFriday](https://github.com/Lauriethefish/ModsBeforeFriday)).
 
 No API keys. Spotify playlists are capped at 200 tracks by default (`READER_MAX_TRACKS`).
 

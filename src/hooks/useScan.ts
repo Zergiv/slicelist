@@ -213,6 +213,55 @@ export function useScan() {
     [begin, searchAll],
   );
 
+  /** Una sola canción (buscador suelto): salta la lectura de playlist. */
+  const startTrack = useCallback(
+    async (track: {
+      title: string;
+      artists: string[];
+      thumb?: string;
+      album?: string;
+      videoId?: string;
+      videoType?: string;
+      durationSeconds?: number;
+    }) => {
+      const signal = begin();
+      const at = performance.now();
+      dispatch({
+        type: "reading",
+        source: { kind: "link", link: track.title },
+        at,
+      });
+      const id = track.videoId ? `solo:${track.videoId}` : `solo:${track.title}:${track.artists.join(",")}`;
+      const song: Song = {
+        id,
+        position: 1,
+        title: track.title,
+        artists: track.artists,
+        album: track.album,
+        thumb: track.thumb,
+        videoType: track.videoType,
+        durationSeconds: track.durationSeconds,
+        status: "pending",
+        maps: [],
+        others: [],
+      };
+      dispatch({
+        type: "loaded",
+        playlist: {
+          id: "solo",
+          title: track.title,
+          author: track.artists[0],
+          thumb: track.thumb,
+          trackCount: 1,
+          truncated: false,
+        },
+        songs: [song],
+      });
+      await searchAll([song], signal);
+    },
+    [begin, searchAll],
+  );
+
   /** Playlist de ejemplo: mismos datos reales, sin salir a buscar nada. */
   const startSample = useCallback(async () => {
     const signal = begin();
@@ -271,7 +320,7 @@ export function useScan() {
     dispatch({ type: "reset" });
   }, []);
 
-  return { state, start, startSample, stop, resume, retrySong, reset };
+  return { state, start, startTrack, startSample, stop, resume, retrySong, reset };
 }
 
 export type Scan = ReturnType<typeof useScan>;

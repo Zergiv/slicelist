@@ -14,6 +14,8 @@ export const LIMITS = {
   // Una playlist de 500 canciones cabe entera sin frenazos.
   match: { capacity: 300, perSecond: 8 },
   playlist: { capacity: 10, perSecond: 1 / 6 },
+  suggest: { capacity: 40, perSecond: 4 },
+  resolve: { capacity: 20, perSecond: 2 },
 } satisfies Record<string, Limit>;
 
 const globals = globalThis as { __slicelistBuckets?: Map<string, Bucket> };

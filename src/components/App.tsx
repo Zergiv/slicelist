@@ -74,6 +74,22 @@ function Screen() {
     [fresh, scan],
   );
 
+  const lookup = useCallback(
+    (track: {
+      title: string;
+      artists: string[];
+      thumb?: string;
+      album?: string;
+      videoId?: string;
+      videoType?: string;
+      durationSeconds?: number;
+    }) => {
+      fresh();
+      void scan.startTrack(track);
+    },
+    [fresh, scan],
+  );
+
   const example = useCallback(() => {
     fresh();
     void scan.startSample();
@@ -151,6 +167,7 @@ function Screen() {
             onSubmit={submit}
             onStop={scan.stop}
             onExample={example}
+            onLookup={lookup}
             showExample={!showEmpty}
           />
         </Cell>

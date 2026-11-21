@@ -50,7 +50,12 @@ def _session() -> requests.Session:
 def _embed(kind: str, spotify_id: str) -> dict[str, Any]:
     if not SP_ID.match(spotify_id):
         raise ReaderError("bad_link", 400)
-    path = "playlist" if kind == "spotify_playlist" else "album"
+    if kind == "spotify_track":
+        path = "track"
+    elif kind == "spotify_playlist":
+        path = "playlist"
+    else:
+        path = "album"
     url = f"https://open.spotify.com/embed/{path}/{spotify_id}"
     try:
         res = _session().get(url, timeout=TIMEOUT_SECONDS)
@@ -379,6 +384,32 @@ def _enrich_covers(tracks: list[dict]) -> None:
                 continue
             if url:
                 track["thumb"] = url
+
+
+def read_spotify_track(spotify_id: str) -> dict:
+    """Una sola pista pública (título, artistas, portada)."""
+    payload = _embed("spotify_track", spotify_id)
+    entity = payload["entity"]
+    title = entity.get("title") or entity.get("name") or ""
+    if not title:
+        raise ReaderError("not_found", 404)
+    artists = _artists(entity.get("subtitle") if isinstance(entity.get("subtitle"), str) else None)
+    thumb = None
+    images = (entity.get("visualIdentity") or {}).get("image") or []
+    if isinstance(images, list):
+        thumb = _pick_image(images)
+    if not thumb:
+        thumb = _cover(entity)
+    duration_ms = entity.get("duration")
+    return {
+        "videoId": f"sp:{spotify_id}",
+        "title": title,
+        "artists": artists,
+        "album": None,
+        "durationSeconds": int(duration_ms / 1000) if isinstance(duration_ms, (int, float)) else None,
+        "thumb": thumb,
+        "videoType": "SPOTIFY",
+    }
 
 
 def read_spotify(kind: str, spotify_id: str) -> dict:

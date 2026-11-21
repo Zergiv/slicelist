@@ -2,6 +2,7 @@
 
 import { useId, useState } from "react";
 import { SquareMarker } from "@/components/grid/SquareMarker";
+import { SongLookup, type LookupTrack } from "@/components/SongLookup";
 import { useT } from "@/lib/i18n";
 import type { ApiErrorCode } from "@/lib/types";
 
@@ -12,6 +13,7 @@ export function PlaylistInput({
   onSubmit,
   onStop,
   onExample,
+  onLookup,
   showExample = true,
 }: {
   /** Hay una búsqueda en marcha. */
@@ -21,6 +23,7 @@ export function PlaylistInput({
   onSubmit(link: string): void;
   onStop(): void;
   onExample(): void;
+  onLookup(track: LookupTrack): void;
   /** Enseñar el enlace a la playlist de ejemplo bajo el campo. */
   showExample?: boolean;
 }) {
@@ -92,6 +95,8 @@ export function PlaylistInput({
           </button>
         )}
       </div>
+
+      <SongLookup busy={busy} onLookup={onLookup} />
     </div>
   );
 }

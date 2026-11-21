@@ -22,6 +22,11 @@ export const es = {
     stop: "Parar",
     hint: "Tiene que ser pública. Valen YouTube Music y Spotify, playlists y álbumes.",
     example: "Probar con una de ejemplo",
+    lookupLabel: "o una canción suelta",
+    lookupPlaceholder: "nombre o enlace de una pista",
+    lookupSubmit: "buscar",
+    lookupHint: "extra: escribe un título (te sugiero artistas) o pega un enlace de YouTube o Spotify.",
+    lookupEmpty: "no encuentro esa canción. prueba otro nombre.",
   },
 
   errors: {

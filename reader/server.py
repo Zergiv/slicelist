@@ -8,10 +8,11 @@ puede llamarlo. No necesita claves ni cuenta.
 
     GET /health
     GET /playlist?id=<id>&kind=playlist|album|spotify_playlist|spotify_album
+    GET /track?id=<id>&kind=youtube|spotify
 
 Variables de entorno:
     READER_PORT        puerto (por defecto 4191)
-    READER_MAX_TRACKS  tope de canciones por playlist (por defecto 500)
+    READER_MAX_TRACKS  tope de canciones por playlist (por defecto 200)
 """
 
 from __future__ import annotations
@@ -28,14 +29,17 @@ import requests
 from ytmusicapi import YTMusic
 
 from errors import ReaderError
-from spotify import read_spotify
+from spotify import read_spotify, read_spotify_track
 
 HOST = "127.0.0.1"
 PORT = int(os.environ.get("READER_PORT", "4191"))
 MAX_TRACKS = int(os.environ.get("READER_MAX_TRACKS", "200"))
 TIMEOUT_SECONDS = 20
 ID_RE = re.compile(r"^[A-Za-z0-9_-]{10,80}$")
+YT_ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
+SP_ID_RE = re.compile(r"^[A-Za-z0-9]{22}$")
 KINDS = ("playlist", "album", "spotify_playlist", "spotify_album")
+TRACK_KINDS = ("youtube", "spotify")
 
 # Como mucho unas pocas lecturas a la vez hacia fuera.
 _slots = threading.BoundedSemaphore(4)
@@ -87,6 +91,43 @@ def _track(raw: dict, fallback_thumb: str | None = None, fallback_artists: list[
         "durationSeconds": raw.get("duration_seconds"),
         "thumb": _thumb(raw.get("thumbnails")) or fallback_thumb,
         "videoType": raw.get("videoType"),
+    }
+
+
+def read_youtube_track(video_id: str) -> dict:
+    """Una sola canción de YouTube Music / YouTube."""
+    if not YT_ID_RE.match(video_id):
+        raise ReaderError("bad_link", 400)
+    yt = _client()
+    try:
+        data = yt.get_song(video_id)
+    except Exception as err:
+        if _looks_missing(err):
+            raise ReaderError("not_found", 404) from err
+        raise ReaderError("upstream", 502) from err
+
+    details = data.get("videoDetails") if isinstance(data, dict) else None
+    if not isinstance(details, dict) or not details.get("title"):
+        raise ReaderError("not_found", 404)
+
+    title = details["title"]
+    author = details.get("author")
+    artists = [author] if isinstance(author, str) and author.strip() else []
+    thumbs = details.get("thumbnail", {}).get("thumbnails") if isinstance(details.get("thumbnail"), dict) else None
+    duration = details.get("lengthSeconds")
+    try:
+        duration_s = int(duration) if duration is not None else None
+    except (TypeError, ValueError):
+        duration_s = None
+
+    return {
+        "videoId": video_id,
+        "title": title,
+        "artists": artists,
+        "album": None,
+        "durationSeconds": duration_s,
+        "thumb": _thumb(thumbs),
+        "videoType": details.get("musicVideoType") or details.get("videoType"),
     }
 
 
@@ -174,6 +215,9 @@ class Handler(BaseHTTPRequestHandler):
         if url.path == "/health":
             self._send(200, {"ok": True})
             return
+        if url.path == "/track":
+            self._handle_track(url)
+            return
         if url.path != "/playlist":
             self._send(404, {"error": "not_found"})
             return
@@ -209,6 +253,39 @@ class Handler(BaseHTTPRequestHandler):
             self._send(404, {"error": "empty"})
             return
         self._send(200, data)
+
+    def _handle_track(self, url) -> None:
+        query = parse_qs(url.query)
+        track_id = (query.get("id") or [""])[0]
+        kind = (query.get("kind") or [""])[0]
+        if kind not in TRACK_KINDS:
+            self._send(400, {"error": "bad_link"})
+            return
+        if kind == "youtube" and not YT_ID_RE.match(track_id):
+            self._send(400, {"error": "bad_link"})
+            return
+        if kind == "spotify" and not SP_ID_RE.match(track_id):
+            self._send(400, {"error": "bad_link"})
+            return
+
+        if not _slots.acquire(timeout=10):
+            self._send(503, {"error": "busy"})
+            return
+        try:
+            if kind == "spotify":
+                data = read_spotify_track(track_id)
+            else:
+                data = read_youtube_track(track_id)
+        except ReaderError as err:
+            self._send(err.status, {"error": err.code})
+            return
+        except Exception as err:  # pragma: no cover
+            print(f"error inesperado leyendo pista {track_id}: {err!r}", file=sys.stderr, flush=True)
+            self._send(502, {"error": "upstream"})
+            return
+        finally:
+            _slots.release()
+        self._send(200, {"track": data})
 
     def log_message(self, fmt: str, *args) -> None:
         print(f"{self.address_string()} {fmt % args}", file=sys.stderr, flush=True)
