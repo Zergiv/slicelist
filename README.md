@@ -13,7 +13,7 @@ Paste a YouTube Music or Spotify playlist. Find Beat Saber maps on [BeatSaver](h
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-0c0b0a?style=for-the-badge&logo=typescript&logoColor=ebe4d8&labelColor=0c0b0a&color=4aa3ff)](https://www.typescriptlang.org)
 [![License](https://img.shields.io/badge/License-MIT-0c0b0a?style=for-the-badge&labelColor=0c0b0a&color=ebe4d8)](LICENSE)
 
-<img src="docs/preview.jpg" alt="slicelist preview" width="720">
+<img src="docs/preview.png" alt="slicelist preview" width="900">
 
 </div>
 
