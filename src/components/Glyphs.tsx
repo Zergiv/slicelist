@@ -73,6 +73,17 @@ export function HeadsetGlyph({ size }: { size?: number }) {
   );
 }
 
+/** Monitor de PC: pantalla y peana. */
+export function PcGlyph({ size }: { size?: number }) {
+  return (
+    <Glyph size={size}>
+      <rect x="1.5" y="1.5" width="9" height="6.5" {...stroke} />
+      <rect x="5.1" y="8" width="1.8" height="1.5" />
+      <rect x="3" y="9.5" width="6" height="1.2" />
+    </Glyph>
+  );
+}
+
 export function CheckGlyph({ size }: { size?: number }) {
   return (
     <Glyph size={size}>

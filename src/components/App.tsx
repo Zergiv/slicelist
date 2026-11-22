@@ -1,7 +1,7 @@
 "use client";
 
 import { AnimatePresence, MotionConfig, motion } from "motion/react";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { CoverMarquee } from "@/components/CoverMarquee";
 import { Filters } from "@/components/Filters";
 import { Cell, Frame } from "@/components/grid/Frame";
@@ -9,20 +9,26 @@ import { SlicedWordmark } from "@/components/hero/SlicedWordmark";
 import { NowPlaying } from "@/components/NowPlaying";
 import { PlaylistInput } from "@/components/PlaylistInput";
 import { QuestPanel } from "@/components/QuestPanel";
+import { SavePlaylist } from "@/components/SavePlaylist";
 import { SongList, type SongFilter } from "@/components/SongList";
 import { Empty } from "@/components/states/Empty";
 import { ErrorState } from "@/components/states/ErrorState";
 import { Loading } from "@/components/states/Loading";
 import { StatusBlock } from "@/components/StatusBlock";
 import { TopBar } from "@/components/TopBar";
+import { useHistory } from "@/hooks/useHistory";
 import { PreviewPlayerProvider, usePreviewPlayer } from "@/hooks/usePreviewPlayer";
 import { QuestProvider, useQuest } from "@/hooks/useQuest";
 import { useScan } from "@/hooks/useScan";
+import type { HistoryEntry } from "@/lib/history/store";
 import { I18nProvider, useT } from "@/lib/i18n";
+import { pickBest } from "@/lib/quest/pickBest";
 import type { Song } from "@/lib/types";
 
 /** Identificador de la playlist de ejemplo (el mismo que lleva en sus datos). */
 const SAMPLE_ID = "ejemplo";
+/** Id interno de una canción suelta: no es una playlist real ni se comparte por ?list=. */
+const SOLO_ID = "solo";
 const playlistLink = (id: string) => `https://music.youtube.com/playlist?list=${id}`;
 
 function Screen() {
@@ -30,18 +36,27 @@ function Screen() {
   const scan = useScan();
   const player = usePreviewPlayer();
   const quest = useQuest();
+  const history = useHistory();
   const { state } = scan;
   const { songs, phase } = state;
 
   const [filter, setFilter] = useState<SongFilter>("with");
   const [openIds, setOpenIds] = useState<ReadonlySet<string>>(() => new Set());
   const [sharedLink, setSharedLink] = useState("");
+  const rememberedScan = useRef<string | null>(null);
 
   // Un enlace compartido (?list=...) arranca la búsqueda nada más abrir.
   const { start, startSample } = scan;
   useEffect(() => {
-    const id = new URLSearchParams(window.location.search).get("list");
+    const url = new URL(window.location.href);
+    const id = url.searchParams.get("list");
     if (!id) return;
+    // Restos de una búsqueda suelta: quitar el param y no tratarlo como playlist.
+    if (id === SOLO_ID) {
+      url.searchParams.delete("list");
+      window.history.replaceState(null, "", url);
+      return;
+    }
     if (id === SAMPLE_ID) {
       void startSample();
       return;
@@ -56,7 +71,7 @@ function Screen() {
   useEffect(() => {
     if (phase === "idle" || phase === "reading") return;
     const url = new URL(window.location.href);
-    if (playlistId) url.searchParams.set("list", playlistId);
+    if (playlistId && playlistId !== SOLO_ID) url.searchParams.set("list", playlistId);
     else url.searchParams.delete("list");
     if (url.href !== window.location.href) window.history.replaceState(null, "", url);
   }, [playlistId, phase]);
@@ -85,15 +100,64 @@ function Screen() {
       durationSeconds?: number;
     }) => {
       fresh();
+      history.rememberSong({
+        title: track.title,
+        artists: track.artists,
+        thumb: track.thumb,
+        album: track.album,
+        videoId: track.videoId,
+        videoType: track.videoType,
+        durationSeconds: track.durationSeconds,
+      });
       void scan.startTrack(track);
     },
-    [fresh, scan],
+    [fresh, history, scan],
   );
 
   const example = useCallback(() => {
     fresh();
     void scan.startSample();
   }, [fresh, scan]);
+
+  // Playlist real terminada → historial (no ejemplo ni canción suelta).
+  useEffect(() => {
+    if (phase === "reading") rememberedScan.current = null;
+    if (phase !== "done") return;
+    const { playlist, source } = state;
+    if (!playlist || playlist.id === SOLO_ID || playlist.id === SAMPLE_ID) return;
+    if (!source || source.kind !== "link") return;
+    if (rememberedScan.current === source.link) return;
+    rememberedScan.current = source.link;
+    history.rememberPlaylist({
+      id: playlist.id,
+      title: playlist.title,
+      author: playlist.author,
+      thumb: playlist.thumb,
+      link: source.link,
+    });
+  }, [phase, state, history]);
+
+  const openHistory = useCallback(
+    (entry: HistoryEntry) => {
+      fresh();
+      if (entry.kind === "playlist") {
+        setSharedLink(entry.link);
+        void scan.start(entry.link);
+        return;
+      }
+      history.rememberSong(entry);
+      void scan.startTrack({
+        title: entry.title,
+        artists: entry.artists,
+        thumb: entry.thumb,
+        album: entry.album,
+        videoId: entry.videoId,
+        videoType: entry.videoType,
+        durationSeconds: entry.durationSeconds,
+      });
+    },
+    [fresh, history, scan],
+  );
 
   const toggle = useCallback((id: string) => {
     setOpenIds((prev) => {
@@ -128,6 +192,7 @@ function Screen() {
   }, [songs]);
 
   const best = useMemo(() => quest.bestFor(songs), [quest, songs]);
+  const saveCount = useMemo(() => pickBest(songs, new Set()).length, [songs]);
 
   const soundingSong = useMemo(() => {
     const id = player.current?.id;
@@ -169,6 +234,10 @@ function Screen() {
             onExample={example}
             onLookup={lookup}
             showExample={!showEmpty}
+            history={history.entries}
+            onHistoryOpen={openHistory}
+            onHistoryRemove={history.remove}
+            onHistoryClear={history.clear}
           />
         </Cell>
 
@@ -209,6 +278,15 @@ function Screen() {
                   withoutMap={counts.withoutMap}
                   onChange={setFilter}
                 />
+                {phase === "done" && saveCount > 0 && state.playlist?.id !== SOLO_ID && (
+                  <div className="border-t border-line pt-6">
+                    <SavePlaylist
+                      title={state.playlist?.title || "playlist"}
+                      songs={songs}
+                      count={saveCount}
+                    />
+                  </div>
+                )}
                 <div className="border-t border-line pt-6">
                   <QuestPanel
                     view={quest.view}

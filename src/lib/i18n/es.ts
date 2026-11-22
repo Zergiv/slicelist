@@ -29,6 +29,22 @@ export const es = {
     lookupEmpty: "no encuentro esa canción. prueba otro nombre.",
   },
 
+  history: {
+    title: "historial",
+    playlist: "playlist",
+    song: "canción",
+    remove: "quitar",
+    clear: "vaciar",
+  },
+
+  savePlaylist: {
+    title: "PCVR",
+    action: "Guardar playlist (bplist)",
+    hint: "Para el Beat Saber del PC. El programa con el que instalas mapas se los baja.",
+  },
+
+
+
   errors: {
     bad_link: "Eso no parece un enlace de playlist. Cópialo desde Compartir, en YouTube Music o Spotify.",
     not_playlist: "Ese enlace es de una canción suelta o de una mezcla automática. Pega el de una playlist.",

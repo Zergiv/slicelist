@@ -29,6 +29,22 @@ export const en: Dict = {
     lookupEmpty: "can't find that song. try another name.",
   },
 
+  history: {
+    title: "history",
+    playlist: "playlist",
+    song: "song",
+    remove: "remove",
+    clear: "clear",
+  },
+
+  savePlaylist: {
+    title: "PCVR",
+    action: "Save playlist (bplist)",
+    hint: "For Beat Saber on PC. Whatever you use to install maps will fetch them.",
+  },
+
+
+
   errors: {
     bad_link: "That doesn't look like a playlist link. Copy it from Share, in YouTube Music or Spotify.",
     not_playlist: "That link is for a single song or an automatic mix. Paste a playlist's link.",

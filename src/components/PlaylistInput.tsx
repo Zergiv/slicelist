@@ -2,8 +2,10 @@
 
 import { useId, useState } from "react";
 import { SquareMarker } from "@/components/grid/SquareMarker";
+import { ScanHistory } from "@/components/ScanHistory";
 import { SongLookup, type LookupTrack } from "@/components/SongLookup";
 import { useT } from "@/lib/i18n";
+import type { HistoryEntry } from "@/lib/history/store";
 import type { ApiErrorCode } from "@/lib/types";
 
 export function PlaylistInput({
@@ -15,6 +17,10 @@ export function PlaylistInput({
   onExample,
   onLookup,
   showExample = true,
+  history = [],
+  onHistoryOpen,
+  onHistoryRemove,
+  onHistoryClear,
 }: {
   /** Hay una búsqueda en marcha. */
   busy: boolean;
@@ -26,6 +32,10 @@ export function PlaylistInput({
   onLookup(track: LookupTrack): void;
   /** Enseñar el enlace a la playlist de ejemplo bajo el campo. */
   showExample?: boolean;
+  history?: readonly HistoryEntry[];
+  onHistoryOpen?(entry: HistoryEntry): void;
+  onHistoryRemove?(entry: HistoryEntry): void;
+  onHistoryClear?(): void;
 }) {
   const t = useT();
   const id = useId();
@@ -97,6 +107,16 @@ export function PlaylistInput({
       </div>
 
       <SongLookup busy={busy} onLookup={onLookup} />
+
+      {onHistoryOpen && onHistoryRemove && onHistoryClear && (
+        <ScanHistory
+          entries={history}
+          busy={busy}
+          onOpen={onHistoryOpen}
+          onRemove={onHistoryRemove}
+          onClear={onHistoryClear}
+        />
+      )}
     </div>
   );
 }

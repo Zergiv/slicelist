@@ -30,12 +30,24 @@ export function SongLookup({
   const [active, setActive] = useState(-1);
   const [loading, setLoading] = useState(false);
   const [empty, setEmpty] = useState(false);
+  /** Tras elegir/resolver: no sugerir de nuevo hasta que el usuario edite. */
+  const [locked, setLocked] = useState(false);
   const abort = useRef<AbortController | null>(null);
   const wrap = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
+    if (locked || busy) {
+      abort.current?.abort();
+      setOpen(false);
+      if (locked) {
+        setHints([]);
+        setActive(-1);
+      }
+      return;
+    }
+
     const term = q.trim();
-    if (term.length < 2 || busy) {
+    if (term.length < 2) {
       setHints([]);
       setOpen(false);
       setEmpty(false);
@@ -69,7 +81,7 @@ export function SongLookup({
     }, 250);
 
     return () => clearTimeout(timer);
-  }, [q, busy]);
+  }, [q, busy, locked]);
 
   useEffect(() => {
     const onDoc = (event: MouseEvent) => {
@@ -80,9 +92,12 @@ export function SongLookup({
   }, []);
 
   const pick = (hint: SongHint) => {
+    abort.current?.abort();
+    setLocked(true);
     setQ(`${hint.title} · ${hint.artists.join(", ")}`);
     setOpen(false);
     setHints([]);
+    setActive(-1);
     onLookup(hint);
   };
 
@@ -93,7 +108,7 @@ export function SongLookup({
     setEmpty(false);
     setOpen(false);
     try {
-      if (active >= 0 && hints[active]) {
+      if (!locked && active >= 0 && hints[active]) {
         pick(hints[active]);
         return;
       }
@@ -109,6 +124,10 @@ export function SongLookup({
         setEmpty(true);
         return;
       }
+      abort.current?.abort();
+      setLocked(true);
+      setHints([]);
+      setActive(-1);
       onLookup(body.track);
     } catch {
       setEmpty(true);
@@ -146,10 +165,13 @@ export function SongLookup({
           value={q}
           disabled={busy}
           onChange={(event) => {
+            setLocked(false);
             setQ(event.target.value);
             setEmpty(false);
           }}
-          onFocus={() => hints.length > 0 && setOpen(true)}
+          onFocus={() => {
+            if (!locked && hints.length > 0) setOpen(true);
+          }}
           onKeyDown={(event) => {
             if (!open || hints.length === 0) return;
             if (event.key === "ArrowDown") {
@@ -188,7 +210,11 @@ export function SongLookup({
                   i === active ? "bg-ink-2 text-bone" : "text-ash"
                 }`}
                 onMouseEnter={() => setActive(i)}
-                onClick={() => pick(hint)}
+                onMouseDown={(event) => {
+                  // Evita robo de foco del input (patrón combobox).
+                  event.preventDefault();
+                  pick(hint);
+                }}
               >
                 {hint.thumb ? (
                   // eslint-disable-next-line @next/next/no-img-element

@@ -61,6 +61,7 @@ export function QuestPanel({
     <div>
       <h2 className="flex items-center gap-2 text-meta text-smoke">
         <SquareMarker state={marker} />
+        <HeadsetGlyph />
         {t.quest.title}
       </h2>
 
